@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "YC+6RlLWNNmzRAKYM3AMVQ==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "a_X1940_Y1366_W140_H50", 
+    "human_readable": "a_1940_1366_140_50_a_00000000000000000000f000f060ffefffceffcfefcdbfefbfef000000000000_974295c75fcf6735b522754ed15efcb9", 
+    "image_path": "ZWQ3NDdlNDVkZWM3NGVhMzcyNTM1OTYyZDBlMzllMTc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/about-us"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "About us", 
+            "type": "", 
+            "value": "", 
+            "width": 70, 
+            "x": 970, 
+            "xPercent": 50.89238845144357, 
+            "y": 683, 
+            "yPercent": 57.52685341196293
+        }, 
+        "location": {
+            "x": 970, 
+            "y": 683
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 70
+        }, 
+        "tag_name": "a", 
+        "text": "About us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5a12b6d85bc72f38ee76b645e88ab8b8", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "About us", 
+    "transformed": true, 
+    "width": 140, 
+    "x": 1940, 
+    "y": 1366
+}

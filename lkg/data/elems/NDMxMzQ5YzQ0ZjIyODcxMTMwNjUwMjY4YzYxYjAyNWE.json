@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "N7ZFmip5vLWbzEQWdo4ulQ==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "a_X1938_Y292_W752_H50", 
+    "human_readable": "a_1938_292_752_50_a_ffffffffffffffffffffaed57edf000000080000100200000000ffffffff0000_4be4419e73654932d46eb545629dbffa", 
+    "image_path": "NDMxMzQ5YzQ0ZjIyODcxMTMwNjUwMjY4YzYxYjAyNWE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/s/testai_CaseStudy_HighTechnology_v11.pdf", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "High Tech Server and Desktop Manu Case Study", 
+            "type": "", 
+            "value": "", 
+            "width": 376, 
+            "x": 969, 
+            "xPercent": 50.89156824146982, 
+            "y": 146, 
+            "yPercent": 3.4497664932608183
+        }, 
+        "location": {
+            "x": 969, 
+            "y": 146
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 376
+        }, 
+        "tag_name": "a", 
+        "text": "High Tech Server and Desktop Manu Case Study"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "31b4b4bede7ac2480b68d2fe0d951a75", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "High Tech Server and Desktop Manu Case Study", 
+    "transformed": true, 
+    "width": 752, 
+    "x": 1938, 
+    "y": 292
+}

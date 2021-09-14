@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "UPHJoDjX23Bzssc2frGx1Q==\n", 
+    "height": 25, 
+    "hier_level": 0, 
+    "human_hash": "a_X565_Y627_W248_H25", 
+    "human_readable": "a_565_627_248_25_a_ffffffffffffffffffff6fdfff9f100000000000900000000000ffffffff0000_354aa69d254d5eb01b8bda5ef0a5856d", 
+    "image_path": "YmFhZjQ5MDNhZTJjNDkxZTc3OTg3YWQ2M2Q1ZDVmZjU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Equal Employment Opportunity", 
+            "type": "", 
+            "value": "", 
+            "width": 248, 
+            "x": 565, 
+            "xPercent": 29.444173177083332, 
+            "y": 627, 
+            "yPercent": 28.647023537477146
+        }, 
+        "location": {
+            "x": 565, 
+            "y": 627
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 248
+        }, 
+        "tag_name": "a", 
+        "text": "Equal Employment Opportunity"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d3edad3767cf9068e6d4bca0369a5fa1", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Equal Employment Opportunity", 
+    "transformed": true, 
+    "width": 248, 
+    "x": 565, 
+    "y": 627
+}

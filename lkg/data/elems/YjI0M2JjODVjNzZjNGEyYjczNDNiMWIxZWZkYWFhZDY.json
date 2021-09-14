@@ -1,0 +1,19 @@
+{
+    "bounds": "[1580,695][2029,731]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "e3VsgHMpjr7v7qpkkSwsQQ==\n", 
+    "height": 36, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1580_Y695_W449_H36", 
+    "human_readable": "android.widget.TextView_1580_695_449_36_android.widget.TextView_3ec93ecbe6a9c02040205860182018209a201ae91a0000005804ffffffffffff_81585795a6b6d0f1f6cc66a184c53c7f", 
+    "image_path": "YjI0M2JjODVjNzZjNGEyYjczNDNiMWIxZWZkYWFhZDY.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "d351447fc46d180c588d3bfe08857b40", 
+    "tag_name": "android.widget.TextView", 
+    "text": "50 of the Best DevOps", 
+    "width": 449, 
+    "x": 1580, 
+    "y": 695
+}

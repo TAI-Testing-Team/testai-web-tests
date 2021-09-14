@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "4ZqJ35d4TIHxbi4qxoJzBw==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "a_X856_Y86_W626_H50", 
+    "human_readable": "a_856_86_626_50_a_ffffffffffffffffffff76effeef000000180010110400000000fffffdff0000_9c4771aca673f0c31c3d1d13739b9267", 
+    "image_path": "ODNiYjI5Y2Q5OWY3ODJmZGIyZDY0ZDM4ZDA4NWRkZGE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/s/testai_CaseStudy_SoftwareGaming_v11.pdf", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Software Gaming Streaming Case Study", 
+            "type": "", 
+            "value": "", 
+            "width": 313, 
+            "x": 428, 
+            "xPercent": 22.440944881889763, 
+            "y": 43, 
+            "yPercent": 1.0160498935918658
+        }, 
+        "location": {
+            "x": 428, 
+            "y": 43
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 313
+        }, 
+        "tag_name": "a", 
+        "text": "Software Gaming Streaming Case Study"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "62b89d0d4fdd83f6ffd54400c4d99678", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Software Gaming Streaming Case Study", 
+    "transformed": true, 
+    "width": 626, 
+    "x": 856, 
+    "y": 86
+}

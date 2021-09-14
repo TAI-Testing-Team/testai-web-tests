@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Gqws9Tg6pAlXOTO7AYUkyw==\n", 
+    "height": 584, 
+    "hier_level": 0, 
+    "human_hash": "img_X864_Y564_W1840_H584", 
+    "human_readable": "img_864_564_1840_584_img_ffff067f043f25bf25bf043f243f043f25bf24bf067f067f07ff04210461ffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "ZmM5ZjVmZjFhNzI5NjU0OWMyNDkyMmIzNjQ2ODMyYjc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "kg-image", 
+                "src": "https://storage.googleapis.com/blog-assets.test.ai/2019/07/target-comparison.png"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(51, 68, 85)", 
+            "cssClass": "kg-image", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "400", 
+            "fontSize": 20, 
+            "height": 292, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 920, 
+            "x": 432, 
+            "xPercent": 22.337125129265768, 
+            "y": 282, 
+            "yPercent": 2.540629789919755
+        }, 
+        "location": {
+            "x": 432, 
+            "y": 282
+        }, 
+        "size": {
+            "height": 292, 
+            "width": 920
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "72738f06868d7b8f9850b4a0d32c73fc", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 1840, 
+    "x": 864, 
+    "y": 564
+}

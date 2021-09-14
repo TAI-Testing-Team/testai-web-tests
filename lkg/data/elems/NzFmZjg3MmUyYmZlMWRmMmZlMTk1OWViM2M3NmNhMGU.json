@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "YtMTXhircsOcPFY2W5uqdw==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "a_X506_Y528_W780_H62", 
+    "human_readable": "a_506_528_780_62_a_fffffffffffffeff6e9f6ebf0000000080000240224000400240fffefb7cffff_7cd4efa7f637dae89671d6f3e10106c6", 
+    "image_path": "NzFmZjg3MmUyYmZlMWRmMmZlMTk1OWViM2M3NmNhMGU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/s/testai_CaseStudy_HighTechnology_v11.pdf", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "700", 
+            "fontSize": 25.6, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Case Study: High Technology", 
+            "type": "", 
+            "value": "", 
+            "width": 390, 
+            "x": 253, 
+            "xPercent": 13.254593175853019, 
+            "y": 264, 
+            "yPercent": 10.35102571652925
+        }, 
+        "location": {
+            "x": 253, 
+            "y": 264
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 390
+        }, 
+        "tag_name": "a", 
+        "text": "Case Study: High Technology"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "ee74eb84a3ef7a6ae33cf77cdf19427f", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Case Study: High Technology", 
+    "transformed": true, 
+    "width": 780, 
+    "x": 506, 
+    "y": 528
+}

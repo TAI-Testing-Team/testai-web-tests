@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "KO3l+6LpytWukeSPxsrC5g==\n", 
+    "height": 64, 
+    "hier_level": 0, 
+    "human_hash": "a_X1578_Y882_W548_H64", 
+    "human_readable": "a_1578_882_548_64_a_ffffffffffffffffffff4d6e4d2e000000000000000000000000fffffff7ffff_098bdbc0e1dc7dbd14bf6d3d46fb22fa", 
+    "image_path": "MzViZjA3YjY5NjQwZWQzYzlhNmVjM2FhYzA0NGNkMWI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.techcentral.ie/the-quest-for-quality-in-ai/", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "The Quest for Quality in AI", 
+            "type": "", 
+            "value": "", 
+            "width": 274, 
+            "x": 789, 
+            "xPercent": 41.40830052493438, 
+            "y": 441, 
+            "yPercent": 16.457283501306456
+        }, 
+        "location": {
+            "x": 789, 
+            "y": 441
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 274
+        }, 
+        "tag_name": "a", 
+        "text": "The Quest for Quality in AI"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "bbe547e8f38410e9871a0362a7495dda", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "The Quest for Quality in AI", 
+    "transformed": true, 
+    "width": 548, 
+    "x": 1578, 
+    "y": 882
+}

@@ -1,0 +1,19 @@
+{
+    "bounds": "[1574,833][1834,873]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "6klMaNGxHbAM+w4+9unxqQ==\n", 
+    "height": 40, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1574_Y833_W260_H40", 
+    "human_readable": "android.widget.TextView_1574_833_260_40_android.widget.TextView_ffffffff3faf3fafbfbf9da680808080e8808080818091900080008003c0ffff_4825149fa566acfcae6846588a35fe3c", 
+    "image_path": "MzkxMjM5N2E3Y2MzY2Q5NjhkNzQ3NmE1YTVlMzllMmQ.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "7f6a78af7cf7fd8e94ac253698e9b885", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Jason Arbon", 
+    "width": 260, 
+    "x": 1574, 
+    "y": 833
+}

@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "q4b7trUkNpQpzZOCPwOnNw==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "a_X1470_Y1326_W212_H50", 
+    "human_readable": "a_1470_1326_212_50_a_fffffffffffffffffffffefffd770004400e0004082400000180feffffff0000_28f990cfba5f7d5e4ddd39283323d39e", 
+    "image_path": "YzcxODUzYzdhYmEzZjM5OWFmYTk1Nzk4ZWYxMWNhOGI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "mailto:sales@test.ai"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "sales@test.ai", 
+            "type": "", 
+            "value": "", 
+            "width": 106, 
+            "x": 735, 
+            "xPercent": 38.607283464566926, 
+            "y": 663, 
+            "yPercent": 13.519160211985323
+        }, 
+        "location": {
+            "x": 735, 
+            "y": 663
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 106
+        }, 
+        "tag_name": "a", 
+        "text": "sales@test.ai"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "8f6ef1074a89847a2b63f0b16a9c616e", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "sales@test.ai", 
+    "transformed": true, 
+    "width": 212, 
+    "x": 1470, 
+    "y": 1326
+}

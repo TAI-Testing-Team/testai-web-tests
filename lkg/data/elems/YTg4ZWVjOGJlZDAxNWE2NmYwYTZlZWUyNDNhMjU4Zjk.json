@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210124104213/tmpZ/div_X742_Y392_W1032_H144.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "z9hYaWszdFEci4F3OqLRHA==\n", 
+    "height": 144, 
+    "hier_level": 0, 
+    "human_hash": "div_X742_Y392_W1032_H144", 
+    "human_readable": "div_742_392_1032_144_div_ffffffff299f0001000100010001f7ffffffffff9fff07ff07ff07ff07ffffff_8b680f9dac9fbeb09333f79abdb7dc48", 
+    "image_path": "YTg4ZWVjOGJlZDAxNWE2NmYwYTZlZWUyNDNhMjU4Zjk.png", 
+    "img_hash": "80fa093574a514cbbb28e28612237286", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "field-name-title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "field-name-title", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Lato, LatoFallback, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "AI in testing: 13 essential resources for QA pros", 
+            "type": "", 
+            "value": "", 
+            "width": 516, 
+            "x": 371, 
+            "xPercent": 19.483267716535433, 
+            "y": 196, 
+            "yPercent": 2.065549583728528
+        }, 
+        "location": {
+            "x": 371, 
+            "y": 196
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 516
+        }, 
+        "tag_name": "div", 
+        "text": "AI in testing: 13 essential resources for QA pros"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "efc5d351f31f9845b7fdf58982dc603c", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "AI in testing: 13 essential resources for QA pros", 
+    "text_hash": "8b680f9dac9fbeb09333f79abdb7dc48", 
+    "transformed": true, 
+    "width": 1032, 
+    "x": 742, 
+    "y": 392
+}

@@ -1,0 +1,19 @@
+{
+    "bounds": "[2326,303][2901,337]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "knKPAwBK5xJBWeK9weZ77A==\n", 
+    "height": 34, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2326_Y303_W575_H34", 
+    "human_readable": "android.widget.TextView_2326_303_575_34_android.widget.TextView_bfffbfbfffbfffffaefb0240004010e830cc00c000c080c0808800080208ffff_b7d898b4f2874081c435fa4327c0e166", 
+    "image_path": "MzMzNzgyYjA1Zjg5ODc1MTFlYTc0MTBhNjhkZTg1YmU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "5604cbf0d87dc11d02f240a7280d0132", 
+    "tag_name": "android.widget.TextView", 
+    "text": "erification with Jason Arbor", 
+    "width": 575, 
+    "x": 2326, 
+    "y": 303
+}

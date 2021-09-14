@@ -1,0 +1,19 @@
+{
+    "bounds": "[810,439][1479,496]", 
+    "class": "android.widget.Button", 
+    "enabled": true, 
+    "hash": "IgK+t4LH382yrIz6K0IvYw==\n", 
+    "height": 57, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.Button_X810_Y439_W669_H57", 
+    "human_readable": "android.widget.Button_810_439_669_57_android.widget.Button_ffffffffffffffffb4efb7ef82018001a0018001820180018211fffdfffd8001_6941d446cbdd8cb9d4d01483d7154ecc", 
+    "image_path": "YTljMWI4ZWJiNmQ2Y2M3YjYwZjI4NDUyMGY4MGM4ZDU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "3b6c654667b38cdcb78acb55470fdd49", 
+    "tag_name": "android.widget.Button", 
+    "text": "AI and the Future of Testing", 
+    "width": 669, 
+    "x": 810, 
+    "y": 439
+}

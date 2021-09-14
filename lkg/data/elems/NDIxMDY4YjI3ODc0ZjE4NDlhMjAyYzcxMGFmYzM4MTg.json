@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210124172605/tmpZ/div_X742_Y392_W1032_H144.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "2ZpCUGauwu/mC6yPNDy5yA==\n", 
+    "height": 144, 
+    "hier_level": 0, 
+    "human_hash": "div_X742_Y392_W1032_H144", 
+    "human_readable": "div_742_392_1032_144_div_ffffffff7bbf0000000000000000ffffffffffffbcff00ff00ff00ff00ffefff_2ca17fb99f07b24d35269ea946e635ec", 
+    "image_path": "NDIxMDY4YjI3ODc0ZjE4NDlhMjAyYzcxMGFmYzM4MTg.png", 
+    "img_hash": "b9802602d7395e5356edf4420acb1632", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "field-name-title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "field-name-title", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Lato, LatoFallback, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Test automation tools: Top trends and challenges for 2020", 
+            "type": "", 
+            "value": "", 
+            "width": 516, 
+            "x": 371, 
+            "xPercent": 19.483267716535433, 
+            "y": 196, 
+            "yPercent": 1.6496927868024578
+        }, 
+        "location": {
+            "x": 371, 
+            "y": 196
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 516
+        }, 
+        "tag_name": "div", 
+        "text": "Test automation tools: Top trends and challenges for 2020"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c47677a9ea7ce5f97a1d1c85fbe388cb", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Test automation tools: Top trends and challenges for 2020", 
+    "text_hash": "2ca17fb99f07b24d35269ea946e635ec", 
+    "transformed": true, 
+    "width": 1032, 
+    "x": 742, 
+    "y": 392
+}

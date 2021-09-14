@@ -1,0 +1,19 @@
+{
+    "bounds": "[2335,239][2922,281]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "ZeD8pjXWukDDSsK2qIy2Fw==\n", 
+    "height": 42, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2335_Y239_W587_H42", 
+    "human_readable": "android.widget.TextView_2335_239_587_42_android.widget.TextView_ffffffffffff5dffddff5dff000000001010100000000030002100004200fffe_cab78a34c111de21650d1604999dba11", 
+    "image_path": "MGQxOGY2YTNjNTI1NDFlNjY0Y2I0ODg5MjAyOWZhYzA.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "d351447fc46d180c588d3bfe08857b40", 
+    "tag_name": "android.widget.TextView", 
+    "text": "/hy AI and Machine Learning", 
+    "width": 587, 
+    "x": 2335, 
+    "y": 239
+}

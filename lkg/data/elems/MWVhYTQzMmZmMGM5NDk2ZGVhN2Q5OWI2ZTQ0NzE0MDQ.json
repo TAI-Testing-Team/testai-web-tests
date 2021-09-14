@@ -1,0 +1,19 @@
+{
+    "bounds": "[1605,1519][2106,1558]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "rnvK+JupIAGCLxKHxCTRBw==\n", 
+    "height": 39, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1605_Y1519_W501_H39", 
+    "human_readable": "android.widget.TextView_1605_1519_501_39_android.widget.TextView_fffdfffdffff0002000260066206000600068006000200024062ffffffffffff_c45daf55e6900179880686f5cb8cde90", 
+    "image_path": "MWVhYTQzMmZmMGM5NDk2ZGVhN2Q5OWI2ZTQ0NzE0MDQ.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "f84bfac0a751b96943b251b2970a3673", 
+    "tag_name": "android.widget.TextView", 
+    "text": "est automation tools: To", 
+    "width": 501, 
+    "x": 1605, 
+    "y": 1519
+}

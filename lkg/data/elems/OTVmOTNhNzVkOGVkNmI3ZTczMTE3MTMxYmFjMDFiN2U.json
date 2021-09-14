@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "SmL15nqu9ixUTt8bSRROLQ==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "a_X1938_Y1652_W442_H50", 
+    "human_readable": "a_1938_1652_442_50_a_ffffffffffffffffffff7793ffdb004018200800800800008000ffffffff0000_c8bd9150af9f32f17ad8caddb46d33dc", 
+    "image_path": "OTVmOTNhNzVkOGVkNmI3ZTczMTE3MTMxYmFjMDFiN2U.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/s/testai_CaseStudy_Fitness_v13.pdf", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Fitness Industry Case Study", 
+            "type": "", 
+            "value": "", 
+            "width": 221, 
+            "x": 969, 
+            "xPercent": 50.89156824146982, 
+            "y": 826, 
+            "yPercent": 20.21269273127753
+        }, 
+        "location": {
+            "x": 969, 
+            "y": 826
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 221
+        }, 
+        "tag_name": "a", 
+        "text": "Fitness Industry Case Study"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "0d910fa0fa5d5da5aca803b5ae94ac5a", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Fitness Industry Case Study", 
+    "transformed": true, 
+    "width": 442, 
+    "x": 1938, 
+    "y": 1652
+}

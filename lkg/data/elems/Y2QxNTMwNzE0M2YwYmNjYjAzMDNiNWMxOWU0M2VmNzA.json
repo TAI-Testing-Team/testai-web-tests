@@ -1,0 +1,19 @@
+{
+    "bounds": "[1615,144][2100,185]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "N8wr6AmryqKYPWTvVc5JJQ==\n", 
+    "height": 41, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1615_Y144_W485_H41", 
+    "human_readable": "android.widget.TextView_1615_144_485_41_android.widget.TextView_ffffffffffff6fff4efecfff0a3e280008001a001a0012001a40280000046ea7_6fdc9d613ce6d542c109beb3a6223d21", 
+    "image_path": "Y2QxNTMwNzE0M2YwYmNjYjAzMDNiNWMxOWU0M2VmNzA.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "3a15a4aa6f90d4476d2d898e0359f3ed", 
+    "tag_name": "android.widget.TextView", 
+    "text": "ith AI: An Interview wit", 
+    "width": 485, 
+    "x": 1615, 
+    "y": 144
+}

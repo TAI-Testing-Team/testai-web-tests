@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "dhDYh2z3xV3I1yUoJ2uyMQ==\n", 
+    "height": 86, 
+    "hier_level": 0, 
+    "human_hash": "a_X506_Y1424_W628_H86", 
+    "human_readable": "a_506_1424_628_86_a_ffffffffffff7dfb7d9b319900400040044004401480008006803fdeffdeffff_1038d2e832a34fe54af0b87099531935", 
+    "image_path": "MTRiNjRlYjI0YWJjMzZlODBkMzM4NTM3MDNhMjBiMTE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.questforquality.eu/"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "700", 
+            "fontSize": 35.2, 
+            "height": 43, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Quest for Quality", 
+            "type": "", 
+            "value": "", 
+            "width": 314, 
+            "x": 253, 
+            "xPercent": 13.254593175853019, 
+            "y": 712, 
+            "yPercent": 25.477585898353617
+        }, 
+        "location": {
+            "x": 253, 
+            "y": 712
+        }, 
+        "size": {
+            "height": 43, 
+            "width": 314
+        }, 
+        "tag_name": "a", 
+        "text": "Quest for Quality"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "4e59538f31d7d0fb5e6499bc2043b194", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Quest for Quality", 
+    "transformed": true, 
+    "width": 628, 
+    "x": 506, 
+    "y": 1424
+}

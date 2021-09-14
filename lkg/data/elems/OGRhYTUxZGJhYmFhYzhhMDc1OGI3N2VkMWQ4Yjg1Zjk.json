@@ -1,0 +1,19 @@
+{
+    "bounds": "[2315,978][2919,1017]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "89VBdfhj3waDKNXkZge56w==\n", 
+    "height": 39, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2315_Y978_W604_H39", 
+    "human_readable": "android.widget.TextView_2315_978_604_39_android.widget.TextView_ffffbff79ef7bfff033841080008000a000001081b1c021800080008ffffffff_a4ac6dfeb8805e461384146a428457ff", 
+    "image_path": "OGRhYTUxZGJhYmFhYzhhMDc1OGI3N2VkMWQ4Yjg1Zjk.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "7dd76fa0cfc728fc1e399dcd21a07d44", 
+    "tag_name": "android.widget.TextView", 
+    "text": "vill Redefine Software Testing", 
+    "width": 604, 
+    "x": 2315, 
+    "y": 978
+}

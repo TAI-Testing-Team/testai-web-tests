@@ -1,0 +1,19 @@
+{
+    "bounds": "[1157,165][1459,190]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "I6S17CIagDJJAahF+JGcVw==\n", 
+    "height": 25, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1157_Y165_W302_H25", 
+    "human_readable": "android.widget.TextView_1157_165_302_25_android.widget.TextView_ffffffffffffffffdfff5f3b7ffb00400000004000400000000000000208ffff_e9fdee0fb9e5cef5750038d462c14188", 
+    "image_path": "MDc5ZjdiODQ5NzVlNDUxZWNiZWZkNGFhMjZlZWUwYzE.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "f273e61eb141128f763a01dee0248874", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Verification with Jason Arbon", 
+    "width": 302, 
+    "x": 1157, 
+    "y": 165
+}

@@ -1,0 +1,19 @@
+{
+    "bounds": "[2158,1133][2637,1215]", 
+    "class": "android.widget.Button", 
+    "enabled": true, 
+    "hash": "sByu+tylhEl5mSUyFtZ1vw==\n", 
+    "height": 82, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.Button_X2158_Y1133_W479_H82", 
+    "human_readable": "android.widget.Button_2158_1133_479_82_android.widget.Button_8001800180018001800181c183c183c183c183c180018001800180018001ffff_1fe6f5bac5fc2a10462450c0cdf1ca31", 
+    "image_path": "Yjk1YTQxMDNkZmVhMmNjMjU3NmIxYzYzMzg2M2I2MDQ.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "bffd62d38b5714660c03517b536f8fe5", 
+    "tag_name": "android.widget.Button", 
+    "text": "AGREE", 
+    "width": 479, 
+    "x": 2158, 
+    "y": 1133
+}

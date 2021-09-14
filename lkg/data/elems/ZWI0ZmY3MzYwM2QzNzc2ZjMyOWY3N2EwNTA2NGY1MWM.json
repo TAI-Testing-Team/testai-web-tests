@@ -1,0 +1,19 @@
+{
+    "bounds": "[1587,173][2109,213]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "zTri3MukSIcThBPBs+xb6g==\n", 
+    "height": 40, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1587_Y173_W522_H40", 
+    "human_readable": "android.widget.TextView_1587_173_522_40_android.widget.TextView_ffffffffffffffff7ffd7ffdffff000200022006200600020006400600020002_ffe612d38327fd22099a3f67f0cb6d8d", 
+    "image_path": "ZWI0ZmY3MzYwM2QzNzc2ZjMyOWY3N2EwNTA2NGY1MWM.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "dfc384ee8c92be10b61e006c465e5ae8", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Test automation tools: Tor", 
+    "width": 522, 
+    "x": 1587, 
+    "y": 173
+}

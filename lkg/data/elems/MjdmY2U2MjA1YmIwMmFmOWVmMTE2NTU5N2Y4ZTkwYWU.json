@@ -1,0 +1,19 @@
+{
+    "bounds": "[1600,228][2063,267]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "bvnCBWGpzL6AEcZdg5JPCg==\n", 
+    "height": 39, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1600_Y228_W463_H39", 
+    "human_readable": "android.widget.TextView_1600_228_463_39_android.widget.TextView_fffffffffffffffffdfdffffecff000000000c14001000000810183c00000000_a02a6753d80e9ba3fe4436bb8072c67e", 
+    "image_path": "MjdmY2U2MjA1YmIwMmFmOWVmMTE2NTU5N2Y4ZTkwYWU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "869e3e29166089bf4a9f0a613331cc1d", 
+    "tag_name": "android.widget.TextView", 
+    "text": "hange software testing", 
+    "width": 463, 
+    "x": 1600, 
+    "y": 228
+}

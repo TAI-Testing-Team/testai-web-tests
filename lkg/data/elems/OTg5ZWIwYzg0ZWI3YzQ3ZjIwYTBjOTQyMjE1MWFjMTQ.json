@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "C5EuS7RXTZXnoZivr9AUeg==\n", 
+    "height": 224, 
+    "hier_level": 0, 
+    "human_hash": "a_X856_Y480_W584_H224", 
+    "human_readable": "a_856_480_584_224_a_ffff7ddf000f000fe3efffffffff000000000000ffffffffffff07ff07ff0fff_193857f88480c4e792aed159aa6b730a", 
+    "image_path": "OTg5ZWIwYzg0ZWI3YzQ3ZjIwYTBjOTQyMjE1MWFjMTQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://techbeacon.com/app-dev-testing/moving-testing-leadership-ladder-3-lessons-learned", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 112, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Moving up the testing leadership ladder: 3 lessons learned", 
+            "type": "", 
+            "value": "", 
+            "width": 292, 
+            "x": 428, 
+            "xPercent": 22.440944881889763, 
+            "y": 240, 
+            "yPercent": 8.954483949234788
+        }, 
+        "location": {
+            "x": 428, 
+            "y": 240
+        }, 
+        "size": {
+            "height": 112, 
+            "width": 292
+        }, 
+        "tag_name": "a", 
+        "text": "Moving up the testing leadership ladder: 3 lessons learned"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "13175a8d9477216a68a406cdabcbc2c0", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Moving up the testing leadership ladder: 3 lessons learned", 
+    "transformed": true, 
+    "width": 584, 
+    "x": 856, 
+    "y": 480
+}

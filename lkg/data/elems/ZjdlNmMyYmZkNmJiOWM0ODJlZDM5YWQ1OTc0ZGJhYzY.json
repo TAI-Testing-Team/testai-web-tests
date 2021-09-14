@@ -1,0 +1,19 @@
+{
+    "bounds": "[2324,1513][2956,1558]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "wBH8OL9GmYaz75MfXLAVxQ==\n", 
+    "height": 45, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2324_Y1513_W632_H45", 
+    "human_readable": "android.widget.TextView_2324_1513_632_45_android.widget.TextView_ffffffff33da33dbbfdf8008800000c20840080084c408000800ff7fffffff7f_9e908720b1ed137c7b770797591022a8", 
+    "image_path": "ZjdlNmMyYmZkNmJiOWM0ODJlZDM5YWQ1OTc0ZGJhYzY.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "f84bfac0a751b96943b251b2970a3673", 
+    "tag_name": "android.widget.TextView", 
+    "text": "I-Driven Testing: a New Era of", 
+    "width": 632, 
+    "x": 2324, 
+    "y": 1513
+}

@@ -1,0 +1,19 @@
+{
+    "bounds": "[895,230][1411,264]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "JCtxGHL827t/aMAHakAfQg==\n", 
+    "height": 34, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X895_Y230_W516_H34", 
+    "human_readable": "android.widget.TextView_895_230_516_34_android.widget.TextView_fffff7f7f7f7f7f7ffff000800080008221a6018281078187c3c081808180818_d4312375bf4c9e18f55c33e5fbe24d55", 
+    "image_path": "ZTk3ZGIwM2RmNTg3ZDY3MWM5MWNiNWJhNTVhNzNjMTk.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "632f13944a6ddf121561f6eef4c438e8", 
+    "tag_name": "android.widget.TextView", 
+    "text": "tro to Postmodern Testin", 
+    "width": 516, 
+    "x": 895, 
+    "y": 230
+}

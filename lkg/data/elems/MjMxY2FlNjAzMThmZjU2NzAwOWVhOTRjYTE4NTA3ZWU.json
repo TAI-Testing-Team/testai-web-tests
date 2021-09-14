@@ -1,0 +1,19 @@
+{
+    "bounds": "[1157,541][1398,568]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "HLJyEu7tnSSNy8UPJo2HZA==\n", 
+    "height": 27, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1157_Y541_W241_H27", 
+    "human_readable": "android.widget.TextView_1157_541_241_27_android.widget.TextView_ffffffffffff5b7fdb7f499c010020002000218001090000ff1effbeffbe0000_f92034cab87be4557174c94c670b516c", 
+    "image_path": "MjMxY2FlNjAzMThmZjU2NzAwOWVhOTRjYTE4NTA3ZWU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "564e9c3db65e68079578486dcbb14929", 
+    "tag_name": "android.widget.TextView", 
+    "text": "for Quality Engineering", 
+    "width": 241, 
+    "x": 1157, 
+    "y": 541
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "xas4fmT1DaulFdx5A0ksbQ==\n", 
+    "height": 312, 
+    "hier_level": 0, 
+    "human_hash": "h1_X726_Y548_W2360_H312", 
+    "human_readable": "h1_726_548_2360_312_h1_0200030257027ffe7ffe7ffe030c000000000b003b301ffc1ffc1ffc12040200_4dc26f36b3494ab1aaf50611647452f9", 
+    "image_path": "NjMyMmI1ODNhNDczYjM0OTVmN2RlMTM0MmQzNTExYzc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "elementor-heading-title elementor-size-default"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "elementor-heading-title elementor-size-default", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Function Pro Bold\", \"Proxima Nova\"", 
+            "font-weight": "900", 
+            "fontSize": 65, 
+            "height": 156, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "Why AI and Machine Learning will Redefine Software Testing", 
+            "type": "", 
+            "value": "", 
+            "width": 1180, 
+            "x": 363, 
+            "xPercent": 19.028871391076116, 
+            "y": 274, 
+            "yPercent": 4.197425795593635
+        }, 
+        "location": {
+            "x": 363, 
+            "y": 274
+        }, 
+        "size": {
+            "height": 156, 
+            "width": 1180
+        }, 
+        "tag_name": "h1", 
+        "text": "Why AI and Machine Learning will Redefine Software Testing"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "cf7958b9ea2a458db12efa3096d3dafb", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "Why AI and Machine Learning will Redefine Software Testing", 
+    "transformed": true, 
+    "width": 2360, 
+    "x": 726, 
+    "y": 548
+}

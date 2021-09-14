@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210124172605/tmpZ/button_X1874_Y208_W296_H100.png", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "4jHLR2hZwoOpJNEeh4oU5w==\n", 
+    "height": 100, 
+    "hier_level": 0, 
+    "human_hash": "button_X1874_Y208_W296_H100", 
+    "human_readable": "button_1874_208_296_100_button_ffffffffffffffffffffffffc003c003c003c003ffffffffffffffffffffffff_65dd4b76413994df1dbfe80dcd0f1bd1", 
+    "image_path": "YWQ0NWMyZmRmMWM5ODg0YjIwNGZmZDk2NTk4MTUyZWY.png", 
+    "img_hash": "35d5fee2232eb5ce6b01c011e37a417c", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "align-right secondary slidedown-button", 
+                "id": "onesignal-slidedown-cancel-button"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "button", 
+            "color": "rgb(0, 120, 209)", 
+            "cssClass": "align-right secondary slidedown-button", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "-apple-system, system-ui, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 50, 
+            "identifier": "onesignal-slidedown-cancel-button", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "NO THANKS", 
+            "type": "", 
+            "value": "", 
+            "width": 148, 
+            "x": 937, 
+            "xPercent": 49.19865485564304, 
+            "y": 104, 
+            "yPercent": 0.8753471929972225
+        }, 
+        "location": {
+            "x": 937, 
+            "y": 104
+        }, 
+        "size": {
+            "height": 50, 
+            "width": 148
+        }, 
+        "tag_name": "button", 
+        "text": "NO THANKS"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c47677a9ea7ce5f97a1d1c85fbe388cb", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "NO THANKS", 
+    "text_hash": "65dd4b76413994df1dbfe80dcd0f1bd1", 
+    "transformed": true, 
+    "width": 296, 
+    "x": 1874, 
+    "y": 208
+}

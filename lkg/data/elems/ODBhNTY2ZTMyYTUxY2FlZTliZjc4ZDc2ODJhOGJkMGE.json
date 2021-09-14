@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "LlDi75YmcC8wR4BoMaf/Dw==\n", 
+    "height": 80, 
+    "hier_level": 0, 
+    "human_hash": "button_X1210_Y684_W454_H80", 
+    "human_readable": "button_1210_684_454_80_button_ffffffffffffffffffffffffffffffffffff3fff0000000000000000dfffffff_5444aae1673f065ec99f34014d9beb45", 
+    "image_path": "ODBhNTY2ZTMyYTUxY2FlZTliZjc4ZDc2ODJhOGJkMGE.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sc-ifAKCX hIGsQq", 
+                "mode": "secondary", 
+                "tabindex": "0", 
+                "type": "button"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "button", 
+            "color": "rgb(32, 109, 197)", 
+            "cssClass": "sc-ifAKCX hIGsQq", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "DISAGREE", 
+            "type": "button", 
+            "value": "", 
+            "width": 227, 
+            "x": 605, 
+            "xPercent": 31.758530183727036, 
+            "y": 342, 
+            "yPercent": 8.984477769008157
+        }, 
+        "location": {
+            "x": 605, 
+            "y": 342
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 227
+        }, 
+        "tag_name": "button", 
+        "text": "DISAGREE"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "bffd62d38b5714660c03517b536f8fe5", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "DISAGREE", 
+    "transformed": true, 
+    "width": 454, 
+    "x": 1210, 
+    "y": 684
+}

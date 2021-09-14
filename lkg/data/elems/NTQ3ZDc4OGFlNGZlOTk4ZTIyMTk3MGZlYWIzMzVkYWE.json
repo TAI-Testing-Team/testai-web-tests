@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Nj4BtF8LpNv3wytDZ0/Plw==\n", 
+    "height": 242, 
+    "hier_level": 0, 
+    "human_hash": "div_X1578_Y1172_W654_H242", 
+    "human_readable": "div_1578_1172_654_242_div_ffff7fff000000000001ffffffff080700070007ffffffffffffffff0fffdfff_1dcaadfcd9ef6ea41c29f99da39ceb96", 
+    "image_path": "NTQ3ZDc4OGFlNGZlOTk4ZTIyMTk3MGZlYWIzMzVkYWE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sqs-block-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "sqs-block-content", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 121, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "TISQA takeaways: Why testers need AI, more for QA prosTech Beacon", 
+            "type": "", 
+            "value": "", 
+            "width": 327, 
+            "x": 789, 
+            "xPercent": 41.40830052493438, 
+            "y": 586, 
+            "yPercent": 21.86975083986562
+        }, 
+        "location": {
+            "x": 789, 
+            "y": 586
+        }, 
+        "size": {
+            "height": 121, 
+            "width": 327
+        }, 
+        "tag_name": "div", 
+        "text": "TISQA takeaways: Why testers need AI, more for QA prosTech Beacon"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "f7f48f0d29896b3b54bffcd828fae92a", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "TISQA takeaways: Why testers need AI, more for QA prosTech Beacon", 
+    "transformed": true, 
+    "width": 654, 
+    "x": 1578, 
+    "y": 1172
+}

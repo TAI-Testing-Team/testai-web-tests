@@ -1,0 +1,19 @@
+{
+    "bounds": "[2331,988][2910,1028]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "Nh5/umf98tf/aUDPbfMhbg==\n", 
+    "height": 40, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2331_Y988_W579_H40", 
+    "human_readable": "android.widget.TextView_2331_988_579_40_android.widget.TextView_ffffffff7fff7fff7fff000000001002100280008000602600000000ffffffff_e108a763f331cd4111d30c994fad09ff", 
+    "image_path": "NDEzYTMzMDk5ZmExMDM0N2QxNjE1MTExZGVjNWNiYTI.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "f84bfac0a751b96943b251b2970a3673", 
+    "tag_name": "android.widget.TextView", 
+    "text": "3 test automation leaders to", 
+    "width": 579, 
+    "x": 2331, 
+    "y": 988
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "l8UzkxHziyLq7zqeRmFt6g==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "a_X856_Y1488_W456_H50", 
+    "human_readable": "a_856_1488_456_50_a_ffffffffffffffffffff7bd3bb9b040000200000000800000000ffffff3effff_0ef8c2bf743cd9fc6f58ba7a3b466e0a", 
+    "image_path": "YWFiYzQ4MzA0NDQ1YzRlZDU4M2VmNGE3NDFlNjliNzQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/s/testai_CaseStudy_Gaming_v15.pdf", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Software Gaming Case Study", 
+            "type": "", 
+            "value": "", 
+            "width": 228, 
+            "x": 428, 
+            "xPercent": 22.440944881889763, 
+            "y": 744, 
+            "yPercent": 18.19911369193154
+        }, 
+        "location": {
+            "x": 428, 
+            "y": 744
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 228
+        }, 
+        "tag_name": "a", 
+        "text": "Software Gaming Case Study"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "229a58762356ff8b90af2e23927ff735", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Software Gaming Case Study", 
+    "transformed": true, 
+    "width": 456, 
+    "x": 856, 
+    "y": 1488
+}

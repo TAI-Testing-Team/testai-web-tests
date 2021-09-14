@@ -1,0 +1,19 @@
+{
+    "bounds": "[1571,1540][2153,1576]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "+ThTAanKQD3AU9W6NEDmzA==\n", 
+    "height": 36, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1571_Y1540_W582_H36", 
+    "human_readable": "android.widget.TextView_1571_1540_582_36_android.widget.TextView_ffffffffffff6fcb6fcbfffbdeea92208220a2a8a2a030a0b4a8fce882280000_6aeb302760e0012e7d68e2565a749d18", 
+    "image_path": "OGZhYzgzMGZmNTAyNDhkZjI4MmZmNjBiNTYwZTZiNzk.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "c0fdddd7fd458f2b3ae0c0b3f2ab5792", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Test Everv App In The World", 
+    "width": 582, 
+    "x": 1571, 
+    "y": 1540
+}

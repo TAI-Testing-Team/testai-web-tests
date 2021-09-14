@@ -1,0 +1,19 @@
+{
+    "bounds": "[511,263][1218,297]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "ksLUFNzcrFRDUUUJaNy50g==\n", 
+    "height": 34, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X511_Y263_W707_H34", 
+    "human_readable": "android.widget.TextView_511_263_707_34_android.widget.TextView_ffffffffffffffffffffbe6c7eef7eff01000100000200000090013301020000_01cb87d5b7b83204498f6136fc5b690a", 
+    "image_path": "MTE1MzM5Njk2OWIyMjQ1M2M3ZTM5NTg0NTM1MTVkN2Q.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "f6a98879851e610ec7bacd641e629402", 
+    "tag_name": "android.widget.TextView", 
+    "text": "We Build Avwesome AI-Powered Software Tes", 
+    "width": 707, 
+    "x": 511, 
+    "y": 263
+}

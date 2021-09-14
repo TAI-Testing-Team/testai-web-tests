@@ -1,0 +1,19 @@
+{
+    "bounds": "[589,694][684,714]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "oM8hjcNVXVVtnKsB73kUTg==\n", 
+    "height": 20, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X589_Y694_W95_H20", 
+    "human_readable": "android.widget.TextView_589_694_95_20_android.widget.TextView_ffffffffb623800184018401800580058005880580058205ffffffffffffffff_56e30ba67854b0e699c0a4f6c278e4f7", 
+    "image_path": "MDJjMzdmODllM2JkYzg3YmQ4MzRjZDc1ZDUzYTY2ZDU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "9e44772e3d30f0916a72c49d1201e824", 
+    "tag_name": "android.widget.TextView", 
+    "text": "DISABILITY", 
+    "width": 95, 
+    "x": 589, 
+    "y": 694
+}

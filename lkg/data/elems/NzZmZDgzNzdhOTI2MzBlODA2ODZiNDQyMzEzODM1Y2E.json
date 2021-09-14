@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210124104213/tmpZ/div_X742_Y392_W1032_H144.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "9NBFVzfu45JZ4Krkyyh5rw==\n", 
+    "height": 144, 
+    "hier_level": 0, 
+    "human_hash": "div_X742_Y392_W1032_H144", 
+    "human_readable": "div_742_392_1032_144_div_ffffffff7fff0003000300030003ffffffffffffafff001f001f001f003fffff_193857f88480c4e792aed159aa6b730a", 
+    "image_path": "NzZmZDgzNzdhOTI2MzBlODA2ODZiNDQyMzEzODM1Y2E.png", 
+    "img_hash": "3ded59d80c0cc2ba393603baaf2a0364", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "field-name-title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "field-name-title", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Lato, LatoFallback, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Moving up the testing leadership ladder: 3 lessons learned", 
+            "type": "", 
+            "value": "", 
+            "width": 516, 
+            "x": 371, 
+            "xPercent": 19.483267716535433, 
+            "y": 196, 
+            "yPercent": 3.9302185682775215
+        }, 
+        "location": {
+            "x": 371, 
+            "y": 196
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 516
+        }, 
+        "tag_name": "div", 
+        "text": "Moving up the testing leadership ladder: 3 lessons learned"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e5a523159e7ed57c3a7768bedb032b65", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Moving up the testing leadership ladder: 3 lessons learned", 
+    "text_hash": "193857f88480c4e792aed159aa6b730a", 
+    "transformed": true, 
+    "width": 1032, 
+    "x": 742, 
+    "y": 392
+}

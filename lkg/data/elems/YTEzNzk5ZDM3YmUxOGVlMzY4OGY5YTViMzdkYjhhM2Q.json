@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "mO3o1+h1bTRJITGqWIMLaQ==\n", 
+    "height": 43, 
+    "hier_level": 0, 
+    "human_hash": "a_X260_Y616_W412_H43", 
+    "human_readable": "a_260_616_412_43_a_ffffffffffff77fb600f60078910091001109100010000002e32ffffffff0000_5a78cff806707733c75e7eeb18faa240", 
+    "image_path": "YTEzNzk5ZDM3YmUxOGVlMzY4OGY5YTViMzdkYjhhM2Q.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://conference.eurostarsoftwaretesting.com/"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "700", 
+            "fontSize": 35.2, 
+            "height": 43, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "EuroSTAR 2020 Online", 
+            "type": "", 
+            "value": "", 
+            "width": 412, 
+            "x": 260, 
+            "xPercent": 13.541666666666666, 
+            "y": 616, 
+            "yPercent": 21.56392144856543
+        }, 
+        "location": {
+            "x": 260, 
+            "y": 616
+        }, 
+        "size": {
+            "height": 43, 
+            "width": 412
+        }, 
+        "tag_name": "a", 
+        "text": "EuroSTAR 2020 Online"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e0ed0bdb9aa94264e6e7af08c143dab9", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "EuroSTAR 2020 Online", 
+    "transformed": true, 
+    "width": 412, 
+    "x": 260, 
+    "y": 616
+}

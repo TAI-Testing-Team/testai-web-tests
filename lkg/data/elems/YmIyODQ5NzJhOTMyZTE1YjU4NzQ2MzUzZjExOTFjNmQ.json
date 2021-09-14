@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "kM/XZDr1xPQeYuPS1gWQdg==\n", 
+    "height": 86, 
+    "hier_level": 0, 
+    "human_hash": "a_X506_Y878_W264_H86", 
+    "human_readable": "a_506_878_264_86_a_ffffffffffff3e4d0848008040b340b302330333690068486e4dffe7ffe7ffff_63b07bbb65665152ffd534da2ffcb020", 
+    "image_path": "YmIyODQ5NzJhOTMyZTE1YjU4NzQ2MzUzZjExOTFjNmQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.pnsqc.org/"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "700", 
+            "fontSize": 35.2, 
+            "height": 43, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "PNSQC", 
+            "type": "", 
+            "value": "", 
+            "width": 132, 
+            "x": 253, 
+            "xPercent": 13.254593175853019, 
+            "y": 439, 
+            "yPercent": 15.721188260558339
+        }, 
+        "location": {
+            "x": 253, 
+            "y": 439
+        }, 
+        "size": {
+            "height": 43, 
+            "width": 132
+        }, 
+        "tag_name": "a", 
+        "text": "PNSQC"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "4e59538f31d7d0fb5e6499bc2043b194", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "PNSQC", 
+    "transformed": true, 
+    "width": 264, 
+    "x": 506, 
+    "y": 878
+}

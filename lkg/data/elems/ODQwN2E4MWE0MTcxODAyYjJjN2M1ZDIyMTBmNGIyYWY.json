@@ -1,0 +1,19 @@
+{
+    "bounds": "[1587,1011][2251,1054]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "Ltm1JpUrNd3TCd8AdH1Hig==\n", 
+    "height": 43, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1587_Y1011_W664_H43", 
+    "human_readable": "android.widget.TextView_1587_1011_664_43_android.widget.TextView_7fff1fbf1fbf079340010001108100018001808b00010001ffffffffffffffff_9e43a021124be36f86f1732d0bdffa45", 
+    "image_path": "ODQwN2E4MWE0MTcxODAyYjJjN2M1ZDIyMTBmNGIyYWY.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "e5e729d369a37887da6c2cdff8a3d302", 
+    "tag_name": "android.widget.TextView", 
+    "text": "TISQA takeaways: Why testers", 
+    "width": 664, 
+    "x": 1587, 
+    "y": 1011
+}

@@ -1,0 +1,19 @@
+{
+    "bounds": "[824,552][1135,576]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "of9vZSvDEBthCpRT/ZtXAQ==\n", 
+    "height": 24, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X824_Y552_W311_H24", 
+    "human_readable": "android.widget.TextView_824_552_311_24_android.widget.TextView_ffff3fbf3fbf8fa38001008120810081009b00010001ffffffffffff00010001_c2d52c5756c0634fe16c8cd5d65354b9", 
+    "image_path": "OGMzY2YwZDA4NTY3YmE1YzI4ODAxYzcwNmZkMTYwMzE.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "3ec84017ac85139e3891e506289fdeed", 
+    "tag_name": "android.widget.TextView", 
+    "text": "SQA takeaways: Why testers", 
+    "width": 311, 
+    "x": 824, 
+    "y": 552
+}

@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "7hEY7sI8m092Fdcd7/inPQ==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "a_X1912_Y214_W400_H52", 
+    "human_readable": "a_1912_214_400_52_a_ffffffffffffffffff9bff0bff00ff00ff00ff00ff00ff00ffa0ffffffffffff_203792a40fbd8dc8bcfa23f11d27a7d2", 
+    "image_path": "OWY3OTNiNWQ3ODY3NGY3ZWY2MmZhZTIyMzg3OWE5YTI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/all-products"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "All Products", 
+            "type": "", 
+            "value": "", 
+            "width": 200, 
+            "x": 956, 
+            "xPercent": 50.18044619422572, 
+            "y": 107, 
+            "yPercent": 1.6649829033260801
+        }, 
+        "location": {
+            "x": 956, 
+            "y": 107
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 200
+        }, 
+        "tag_name": "a", 
+        "text": "All Products"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "282ac66e8a67a1ffacb025143ee466b1", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "All Products", 
+    "transformed": true, 
+    "width": 400, 
+    "x": 1912, 
+    "y": 214
+}

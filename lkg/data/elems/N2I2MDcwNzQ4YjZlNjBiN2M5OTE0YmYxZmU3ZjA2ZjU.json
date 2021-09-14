@@ -1,0 +1,19 @@
+{
+    "bounds": "[840,582][1554,651]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "bTZPLn4/RsMO4W8mk6rW3w==\n", 
+    "height": 69, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X840_Y582_W714_H69", 
+    "human_readable": "android.widget.TextView_840_582_714_69_android.widget.TextView_fffffffffffffbff3bef3f6fcf2780008000980190008000e02580108010ffff_4c4a8dc7623017d703734dcb7a74c635", 
+    "image_path": "N2I2MDcwNzQ4YjZlNjBiN2M5OTE0YmYxZmU3ZjA2ZjU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "8f1b320ce2d8e37bc43f4b33dff7cea2", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Test.ai in the News", 
+    "width": 714, 
+    "x": 840, 
+    "y": 582
+}

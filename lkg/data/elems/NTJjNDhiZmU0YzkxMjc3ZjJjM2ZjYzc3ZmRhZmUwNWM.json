@@ -1,0 +1,19 @@
+{
+    "bounds": "[1574,1434][1760,1466]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "7Ou8h6K/xMD4LK2yQemUTA==\n", 
+    "height": 32, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1574_Y1434_W186_H32", 
+    "human_readable": "android.widget.TextView_1574_1434_186_32_android.widget.TextView_5dff4d504000400000cd10ec10c660926093609b600060006904ffffffffffff_3da772fc2ad7ec6bf5749491ed87b5fa", 
+    "image_path": "NTJjNDhiZmU0YzkxMjc3ZjJjM2ZjYzc3ZmRhZmUwNWM.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "cae34f2896e8d2792bfac7fceea7a099", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Podcasts", 
+    "width": 186, 
+    "x": 1574, 
+    "y": 1434
+}

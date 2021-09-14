@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "83iawCkVHFuJihLtTtO0AA==\n", 
+    "height": 224, 
+    "hier_level": 0, 
+    "human_hash": "a_X2300_Y852_W576_H224", 
+    "human_readable": "a_2300_852_576_224_a_ffff7f7f00010001ffffffffffff0d0400001602ffffffffffff00030007fd97_c512196b1f559fef61dd8d763e262842", 
+    "image_path": "NTZiNDBmOGMyZWY0ODRhMGQ1ZTExZGZjNGNlYzA3Yjg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://blog-dot-difftapp.appspot.com/blog/based-on-user-experience-which-are-the-best-apps-for-black-friday-shopping/"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 112, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Based on User Experience, Which are the Best Apps for Black Friday Shopping?", 
+            "type": "", 
+            "value": "", 
+            "width": 288, 
+            "x": 1150, 
+            "xPercent": 60.375656167978995, 
+            "y": 426, 
+            "yPercent": 6.555523479599692
+        }, 
+        "location": {
+            "x": 1150, 
+            "y": 426
+        }, 
+        "size": {
+            "height": 112, 
+            "width": 288
+        }, 
+        "tag_name": "a", 
+        "text": "Based on User Experience, Which are the Best Apps for Black Friday Shopping?"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "7025ffa4f03f4e62265353a8a497bb42", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Based on User Experience, Which are the Best Apps for Black Friday Shopping?", 
+    "transformed": true, 
+    "width": 576, 
+    "x": 2300, 
+    "y": 852
+}

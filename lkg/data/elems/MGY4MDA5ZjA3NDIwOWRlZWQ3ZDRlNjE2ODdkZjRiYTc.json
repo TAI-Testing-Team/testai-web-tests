@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jKGV8jbMszu0PHmv26UBFQ==\n", 
+    "height": 70, 
+    "hier_level": 0, 
+    "human_hash": "div_X2796_Y82_W106_H70", 
+    "human_readable": "div_2796_82_106_70_div_ffffffffffffffffffff1fff1ff7688000012004000014b0ffffffffffffffff_69dda815447caacef8c90a629baf382d", 
+    "image_path": "MGY4MDA5ZjA3NDIwOWRlZWQ3ZDRlNjE2ODdkZjRiYTc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-nav-item header-nav-item--collection"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "header-nav-item header-nav-item--collection", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 35, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Events", 
+            "type": "", 
+            "value": "", 
+            "width": 53, 
+            "x": 1398, 
+            "xPercent": 73.37024278215223, 
+            "y": 41, 
+            "yPercent": 1.8562243969048702
+        }, 
+        "location": {
+            "x": 1398, 
+            "y": 41
+        }, 
+        "size": {
+            "height": 35, 
+            "width": 53
+        }, 
+        "tag_name": "div", 
+        "text": "Events"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "4d98c5bab2744a6ee6ae68e8b3cff9dc", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Events", 
+    "transformed": true, 
+    "width": 106, 
+    "x": 2796, 
+    "y": 82
+}

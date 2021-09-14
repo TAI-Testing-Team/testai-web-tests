@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "PAw5ca6YlaxIBUBvyQeVqQ==\n", 
+    "height": 144, 
+    "hier_level": 0, 
+    "human_hash": "a_X856_Y652_W580_H144", 
+    "human_readable": "a_856_652_580_144_a_ffffffffde7f000700070007ff3fffffffffffffffffbebf000000000000ff3f_41dc1a365487ad11fd96213cfbdda393", 
+    "image_path": "MmI4OGJiNTBhNDAwYzk1MzA0ZmY4NjM3YmIwZDZhZTU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.aitrends.com/ai-software/software-development/artificial-intelligence-software-testing-arrived/", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Artificial intelligence in software testing has arrived", 
+            "type": "", 
+            "value": "", 
+            "width": 290, 
+            "x": 428, 
+            "xPercent": 22.440944881889763, 
+            "y": 326, 
+            "yPercent": 12.164636991414707
+        }, 
+        "location": {
+            "x": 428, 
+            "y": 326
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 290
+        }, 
+        "tag_name": "a", 
+        "text": "Artificial intelligence in software testing has arrived"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e29d33a94aa3d1edb878a3cfbb2959e8", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Artificial intelligence in software testing has arrived", 
+    "transformed": true, 
+    "width": 580, 
+    "x": 856, 
+    "y": 652
+}

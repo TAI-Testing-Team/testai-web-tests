@@ -1,0 +1,19 @@
+{
+    "bounds": "[860,762][1459,813]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "0nFPNFXz14CmAqEAszeTkw==\n", 
+    "height": 51, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X860_Y762_W599_H51", 
+    "human_readable": "android.widget.TextView_860_762_599_51_android.widget.TextView_ffffffffffff7fef69ee6efc0000000000000401243100000000fffdfffdfffd_47290bbe7827e2d4203d713d13c89283", 
+    "image_path": "MGFlODU5NmNlYzUxMWRhODgwNGU4MjJmODQxYTRmMGU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "d351447fc46d180c588d3bfe08857b40", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Take Over Software Testing?:", 
+    "width": 599, 
+    "x": 860, 
+    "y": 762
+}

@@ -1,0 +1,19 @@
+{
+    "bounds": "[515,464][780,497]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "y0+AvZ9DI5iznQJZpZDirQ==\n", 
+    "height": 33, 
+    "hier_level": 3, 
+    "human_hash": "android.widget.TextView_X515_Y464_W265_H33", 
+    "human_readable": "android.widget.TextView_515_464_265_33_android.widget.TextView_ffffffffffefffe7ffffd4fe001000300631003000300031003000308c70ffff_430d0aee47d2aad7368545c7ec7933ed", 
+    "image_path": "ZDk3YzdlODAxYTFlYWViYmZlMDNjYmEyMDY0Yzg0M2M.png", 
+    "index": "2", 
+    "is_transformed": true, 
+    "screen_hash": "2296cc55d4f66dc88172bf2b9cff1bcc", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Automation Tools", 
+    "width": 265, 
+    "x": 515, 
+    "y": 464
+}

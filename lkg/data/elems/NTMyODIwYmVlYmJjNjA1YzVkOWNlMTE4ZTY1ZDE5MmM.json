@@ -1,0 +1,19 @@
+{
+    "bounds": "[861,1515][1406,1561]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "zcHsy0m2ZiHeYrfeZGwcYw==\n", 
+    "height": 46, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X861_Y1515_W545_H46", 
+    "human_readable": "android.widget.TextView_861_1515_545_46_android.widget.TextView_ffff7df774f777ff02080008400840080208422c02080008ffffffffffff0000_67cff45e54be7221d67365065b29e9b9", 
+    "image_path": "NTMyODIwYmVlYmJjNjA1YzVkOWNlMTE4ZTY1ZDE5MmM.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "f84bfac0a751b96943b251b2970a3673", 
+    "tag_name": "android.widget.TextView", 
+    "text": "AI and the Future of Testin", 
+    "width": 545, 
+    "x": 861, 
+    "y": 1515
+}

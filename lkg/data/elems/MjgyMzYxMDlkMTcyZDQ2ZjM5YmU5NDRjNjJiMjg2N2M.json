@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "xvvvlSPDc0Nf87PIt/qJzw==\n", 
+    "height": 64, 
+    "hier_level": 0, 
+    "human_hash": "a_X1938_Y602_W524_H64", 
+    "human_readable": "a_1938_602_524_64_a_ffffffffffffffffffff77ef73cf000000000000000008200800bffdbf9dbffd_f5dce2e6783ef954f5472a1a18cc69bb", 
+    "image_path": "MjgyMzYxMDlkMTcyZDQ2ZjM5YmU5NDRjNjJiMjg2N2M.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/digital-marketing-manager"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Digital Marketing Manager", 
+            "type": "", 
+            "value": "", 
+            "width": 262, 
+            "x": 969, 
+            "xPercent": 50.89156824146982, 
+            "y": 301, 
+            "yPercent": 13.695522303140647
+        }, 
+        "location": {
+            "x": 969, 
+            "y": 301
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 262
+        }, 
+        "tag_name": "a", 
+        "text": "Digital Marketing Manager"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "4d98c5bab2744a6ee6ae68e8b3cff9dc", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Digital Marketing Manager", 
+    "transformed": true, 
+    "width": 524, 
+    "x": 1938, 
+    "y": 602
+}

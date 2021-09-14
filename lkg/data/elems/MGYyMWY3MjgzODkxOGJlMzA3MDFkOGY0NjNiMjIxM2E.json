@@ -1,0 +1,19 @@
+{
+    "bounds": "[494,303][800,346]", 
+    "class": "android.widget.Image", 
+    "enabled": true, 
+    "hash": "y+AEncqH+UTQD0XeBlcrow==\n", 
+    "height": 43, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.Image_X494_Y303_W306_H43", 
+    "human_readable": "android.widget.Image_494_303_306_43_android.widget.Image_ffffffffffffffefbecfbfff8021802182210021002180218021ffffffffffff_430d0aee47d2aad7368545c7ec7933ed", 
+    "image_path": "MGYyMWY3MjgzODkxOGJlMzA3MDFkOGY0NjNiMjIxM2E.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "40a29cadab5591baae647746a1fb5844", 
+    "tag_name": "android.widget.Image", 
+    "text": "Automation Tools", 
+    "width": 306, 
+    "x": 494, 
+    "y": 303
+}

@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "dQbaQL7qHPKijhP4L1ED5A==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "button_X3676_Y1620_W84_H72", 
+    "human_readable": "button_3676_1620_84_72_button_00000000000000000460066003c0018003c00660066000000000000000000000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "OTAwOWM0ZDM5NjRmMDY0ZDliYTA4NjQ3MTIwMzc0MGM.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sqs-cookie-banner-v2-accept"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sqs-cookie-banner-v2-accept", 
+            "domLevel": 4, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Helvetica Neue\", Helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 42, 
+            "x": 1838, 
+            "xPercent": 96.50344488188976, 
+            "y": 810, 
+            "yPercent": 12.589368977308052
+        }, 
+        "location": {
+            "x": 1838, 
+            "y": 810
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 42
+        }, 
+        "tag_name": "button", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "75cb133e69827411eafa9c97ea6af0b3", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "", 
+    "transformed": true, 
+    "width": 84, 
+    "x": 3676, 
+    "y": 1620
+}

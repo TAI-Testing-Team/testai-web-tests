@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "w9fIFcdFADQlKVp84oR9iQ==\n", 
+    "height": 70, 
+    "hier_level": 0, 
+    "human_hash": "div_X2370_Y82_W162_H70", 
+    "human_readable": "div_2370_82_162_70_div_ffffffffffffffffffff77ef33bf00000000000000002010ffffffffffffffff_03e026a764c954804d9c966937563314", 
+    "image_path": "NDA3ZjdmYzg0NzBiNjNhNDM2NDBhZTFiMjJlYzU3OTY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-nav-item header-nav-item--collection"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "header-nav-item header-nav-item--collection", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 35, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Industries", 
+            "type": "", 
+            "value": "", 
+            "width": 81, 
+            "x": 1185, 
+            "xPercent": 62.19078083989501, 
+            "y": 41, 
+            "yPercent": 1.4596009305654976
+        }, 
+        "location": {
+            "x": 1185, 
+            "y": 41
+        }, 
+        "size": {
+            "height": 35, 
+            "width": 81
+        }, 
+        "tag_name": "div", 
+        "text": "Industries"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "6d88252b5581540a1258b8728610d863", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Industries", 
+    "transformed": true, 
+    "width": 162, 
+    "x": 2370, 
+    "y": 82
+}

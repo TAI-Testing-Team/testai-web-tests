@@ -1,0 +1,19 @@
+{
+    "bounds": "[434,549][709,574]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "surNhNE3zRsQV49nmAU4EQ==\n", 
+    "height": 25, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X434_Y549_W275_H25", 
+    "human_readable": "android.widget.TextView_434_549_275_25_android.widget.TextView_ffffffffffff3b3f7f3f4041008001810180018009a100000000fffffcfffeff_67c88c78f3b996316b2632802fc44f23", 
+    "image_path": "ODE0OTA5N2E4YTIzYTdkZTZiYWZiMjg2ZWEyYjk1YWE.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "3ec84017ac85139e3891e506289fdeed", 
+    "tag_name": "android.widget.TextView", 
+    "text": "AI in testing: 13 essential", 
+    "width": 275, 
+    "x": 434, 
+    "y": 549
+}

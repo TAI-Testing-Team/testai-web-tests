@@ -1,0 +1,19 @@
+{
+    "bounds": "[2278,1011][2933,1052]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "u6ZqBAC+ZyD25Z8BYcxN6w==\n", 
+    "height": 41, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2278_Y1011_W655_H41", 
+    "human_readable": "android.widget.TextView_2278_1011_655_41_android.widget.TextView_ffff7ef37ef3ffff810881088110811080008192811080088008fffffffffddf_f0df94f0eb54e1a79398eca558750a9e", 
+    "image_path": "N2MxMDI3MGVjNjE1ZDQzMGZiMDA4OGU4MTk2YjE1NjE.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "08730e8815e45516009061eabac7a006", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Transforming Testing: A Recipe", 
+    "width": 655, 
+    "x": 2278, 
+    "y": 1011
+}

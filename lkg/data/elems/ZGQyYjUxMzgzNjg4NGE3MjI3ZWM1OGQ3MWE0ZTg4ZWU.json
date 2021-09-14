@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "byXpFFUTvuXuK0mB3MoV2g==\n", 
+    "height": 144, 
+    "hier_level": 0, 
+    "human_hash": "a_X2300_Y1096_W644_H144", 
+    "human_readable": "a_2300_1096_644_144_a_ffffffff7ef7000000000000fddfffffffffffffffff51ff000f000f000ffeef_e1fcebbbedd1e783d6608e24144917f4", 
+    "image_path": "ZGQyYjUxMzgzNjg4NGE3MjI3ZWM1OGQ3MWE0ZTg4ZWU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://softwaretesting.cioreview.com/cxoinsight/transforming-testing-a-recipe-for-quality-engineering-nid-23988-cid-112.html", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Transforming Testing: A Recipe for Quality Engineering", 
+            "type": "", 
+            "value": "", 
+            "width": 322, 
+            "x": 1150, 
+            "xPercent": 60.375656167978995, 
+            "y": 548, 
+            "yPercent": 20.805046524876566
+        }, 
+        "location": {
+            "x": 1150, 
+            "y": 548
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 322
+        }, 
+        "tag_name": "a", 
+        "text": "Transforming Testing: A Recipe for Quality Engineering"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "38ca0b0b1587f0b8bbe4e56931c0924c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Transforming Testing: A Recipe for Quality Engineering", 
+    "transformed": true, 
+    "width": 644, 
+    "x": 2300, 
+    "y": 1096
+}

@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "n8vCQPbmsHWi+nes7LuRUA==\n", 
+    "height": 112, 
+    "hier_level": 0, 
+    "human_hash": "a_X506_Y388_W724_H112", 
+    "human_readable": "a_506_388_724_112_a_ffffffff0e64000000000000ffffffffffffffffffff43ff03ff03ff03ffffff_e88339e16ad92ca1bccd6b5894aa3e38", 
+    "image_path": "NTk2YjJlZGNhZjk5MTY4ODhkMWFlZjM3MjQ3ZDVmNWE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/all-products"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 56, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "We Build Awesome AI-Powered Software Test Automation Tools", 
+            "type": "", 
+            "value": "", 
+            "width": 362, 
+            "x": 253, 
+            "xPercent": 13.254593175853019, 
+            "y": 194, 
+            "yPercent": 2.9859507313317937
+        }, 
+        "location": {
+            "x": 253, 
+            "y": 194
+        }, 
+        "size": {
+            "height": 56, 
+            "width": 362
+        }, 
+        "tag_name": "a", 
+        "text": "We Build Awesome AI-Powered Software Test Automation Tools"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a8c5a2dbe420e45277180bfec200b011", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "We Build Awesome AI-Powered Software Test Automation Tools", 
+    "transformed": true, 
+    "width": 724, 
+    "x": 506, 
+    "y": 388
+}

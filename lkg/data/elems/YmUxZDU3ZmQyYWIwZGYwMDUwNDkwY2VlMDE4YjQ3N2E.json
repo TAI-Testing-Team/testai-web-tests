@@ -1,0 +1,19 @@
+{
+    "bounds": "[2333,1539][2903,1574]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "BQW/ySdrd9A5BY1q2vq8RQ==\n", 
+    "height": 35, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2333_Y1539_W570_H35", 
+    "human_readable": "android.widget.TextView_2333_1539_570_35_android.widget.TextView_ffffffffffffbfffbebfffbffffb02400000000020c020c00080008080000000_668fca07ceca375601788e781f4684e3", 
+    "image_path": "YmUxZDU3ZmQyYWIwZGYwMDUwNDkwY2VlMDE4YjQ3N2E.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "c0fdddd7fd458f2b3ae0c0b3f2ab5792", 
+    "tag_name": "android.widget.TextView", 
+    "text": "erification with Jason Arbon", 
+    "width": 570, 
+    "x": 2333, 
+    "y": 1539
+}

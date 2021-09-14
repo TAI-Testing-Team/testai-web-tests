@@ -1,0 +1,19 @@
+{
+    "bounds": "[854,1428][1456,1475]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "9RBHkwmmUAWItonbkn6gRg==\n", 
+    "height": 47, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X854_Y1428_W602_H47", 
+    "human_readable": "android.widget.TextView_854_1428_602_47_android.widget.TextView_7fef6deeeefe02100000802004010401243b00000410fffffffdfffd0000ffff_ddc2303ac94c95c0ae0eb869f8ef4ed3", 
+    "image_path": "OTBhNjhlMjBkZjY4YmZiYzIyNjNhMjk1OGIzYmRiMTk.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "b9bf7ae633fcafe200222e82a178de1b", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Take ver Software Testing?:", 
+    "width": 602, 
+    "x": 854, 
+    "y": 1428
+}

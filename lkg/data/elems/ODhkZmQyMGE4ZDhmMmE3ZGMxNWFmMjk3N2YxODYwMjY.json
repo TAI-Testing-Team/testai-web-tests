@@ -1,0 +1,19 @@
+{
+    "bounds": "[425,587][662,617]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "wdwkP68LzvYQu8IfOUibRw==\n", 
+    "height": 30, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X425_Y587_W237_H30", 
+    "human_readable": "android.widget.TextView_425_587_237_30_android.widget.TextView_ffffffffffffff4fffcf8008000081008020820080008000ffffffff8000ffff_b9e918d9d955f865f6ceb59e6c011000", 
+    "image_path": "ODhkZmQyMGE4ZDhmMmE3ZGMxNWFmMjk3N2YxODYwMjY.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "3ec84017ac85139e3891e506289fdeed", 
+    "tag_name": "android.widget.TextView", 
+    "text": "resources for QA pros", 
+    "width": 237, 
+    "x": 425, 
+    "y": 587
+}

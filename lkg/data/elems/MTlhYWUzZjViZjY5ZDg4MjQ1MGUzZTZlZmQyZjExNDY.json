@@ -1,0 +1,19 @@
+{
+    "bounds": "[2303,1342][2849,1393]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "isXpOYV2UR2zlg6PHKsbaw==\n", 
+    "height": 51, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2303_Y1342_W546_H51", 
+    "human_readable": "android.widget.TextView_2303_1342_546_51_android.widget.TextView_ffffbfff3fff7ffb0000000140054000408100810000fff7fff7fff70001ffff_b65beb961fa74ece6be338ba4082c265", 
+    "image_path": "MTlhYWUzZjViZjY5ZDg4MjQ1MGUzZTZlZmQyZjExNDY.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "7dd76fa0cfc728fc1e399dcd21a07d44", 
+    "tag_name": "android.widget.TextView", 
+    "text": "AI in software testing has", 
+    "width": 546, 
+    "x": 2303, 
+    "y": 1342
+}

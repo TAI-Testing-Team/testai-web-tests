@@ -1,0 +1,103 @@
+{
+    "action_info": {
+        "elem_class": "screen", 
+        "elem_info": {
+            "class": "screen", 
+            "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+            "height": 1914, 
+            "hier_level": 0, 
+            "human_hash": "screen_X0_Y0_W3840_H1914", 
+            "index": -1, 
+            "is_transformed": true, 
+            "tag_name": "screen", 
+            "text": "", 
+            "width": 3840, 
+            "x": 0, 
+            "y": 0
+        }, 
+        "gesture": "no_op", 
+        "text": "no_op"
+    }, 
+    "all_elems": [
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "img", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "Gqws9Tg6pAlXOTO7AYUkyw==\n", 
+            "height": 584, 
+            "hier_level": 0, 
+            "human_hash": "img_X864_Y564_W1840_H584", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "kg-image", 
+                        "src": "https://storage.googleapis.com/blog-assets.test.ai/2019/07/target-comparison.png"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "img", 
+                    "color": "rgb(51, 68, 85)", 
+                    "cssClass": "kg-image", 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "Montserrat", 
+                    "font-weight": "400", 
+                    "fontSize": 20, 
+                    "height": 292, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "img", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 920, 
+                    "x": 432, 
+                    "xPercent": 22.337125129265768, 
+                    "y": 282, 
+                    "yPercent": 2.540629789919755
+                }, 
+                "location": {
+                    "x": 432, 
+                    "y": 282
+                }, 
+                "size": {
+                    "height": 292, 
+                    "width": 920
+                }, 
+                "tag_name": "img", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "img", 
+            "text": "", 
+            "transformed": true, 
+            "width": 1840, 
+            "x": 864, 
+            "y": 564
+        }
+    ], 
+    "cpu": 0, 
+    "jank": 0, 
+    "mem": 0, 
+    "net": 0, 
+    "processed": true, 
+    "timing": 0
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "WfxWIhF1cCbaRKQEVD4XnQ==\n", 
+    "height": 70, 
+    "hier_level": 0, 
+    "human_hash": "div_X3140_Y128_W122_H70", 
+    "human_readable": "div_3140_128_122_70_div_ffffffffffffffffffffbfff1f7e6000600048060000a402ffffffffffffffff_b714deb09c1929d942d8ec24a646cc21", 
+    "image_path": "NmFhYWUwNmFhZDdiYTg0YThlZGRlZGNjZmUzMWEwMTM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-nav-item header-nav-item--collection"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "header-nav-item header-nav-item--collection", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 35, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Contact", 
+            "type": "", 
+            "value": "", 
+            "width": 61, 
+            "x": 1570, 
+            "xPercent": 82.39091207349082, 
+            "y": 64, 
+            "yPercent": 1.3012869520897044
+        }, 
+        "location": {
+            "x": 1570, 
+            "y": 64
+        }, 
+        "size": {
+            "height": 35, 
+            "width": 61
+        }, 
+        "tag_name": "div", 
+        "text": "Contact"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "fb5117077ee5045f0ea8f5efe3d7a57f", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Contact", 
+    "transformed": true, 
+    "width": 122, 
+    "x": 3140, 
+    "y": 128
+}

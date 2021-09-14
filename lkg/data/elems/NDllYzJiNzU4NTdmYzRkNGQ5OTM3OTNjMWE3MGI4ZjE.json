@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ojsLpTiufFr1ESn6gTOvOw==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "div_X2338_Y270_W400_H52", 
+    "human_readable": "div_2338_270_400_52_div_fffffffffffffffffff3fff3fff0fff0fff0fff0fff0fff0fff8ffffffffffff_88c87e3a3206d6012d540dee0f639742", 
+    "image_path": "NDllYzJiNzU4NTdmYzRkNGQ5OTM3OTNjMWE3MGI4ZjE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-nav-folder-item"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "header-nav-folder-item", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "News", 
+            "type": "", 
+            "value": "", 
+            "width": 200, 
+            "x": 1169, 
+            "xPercent": 61.35990813648294, 
+            "y": 135, 
+            "yPercent": 6.148298816568047
+        }, 
+        "location": {
+            "x": 1169, 
+            "y": 135
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 200
+        }, 
+        "tag_name": "div", 
+        "text": "News"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "4d98c5bab2744a6ee6ae68e8b3cff9dc", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "News", 
+    "transformed": true, 
+    "width": 400, 
+    "x": 2338, 
+    "y": 270
+}

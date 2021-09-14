@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "kefYfxxiEnDTcErFlyPAVg==\n", 
+    "height": 242, 
+    "hier_level": 0, 
+    "human_hash": "div_X856_Y874_W654_H242", 
+    "human_readable": "div_856_874_654_242_div_ffffffff00010001c4ffffffffff01ff01ff01ffffffffffffffffff003f1c7f_91f9ac0ba3079e479ace87fe24ed3dfb", 
+    "image_path": "MWQ5ZWMwODliMmRkNzQzYWRmOTM3ODIyN2Q3MjUyNjg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sqs-block-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "sqs-block-content", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 121, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Bridging the gap between AI use and valueBusiness Post  |  Oct 10, 2020", 
+            "type": "", 
+            "value": "", 
+            "width": 327, 
+            "x": 428, 
+            "xPercent": 22.440944881889763, 
+            "y": 437, 
+            "yPercent": 16.307974057484138
+        }, 
+        "location": {
+            "x": 428, 
+            "y": 437
+        }, 
+        "size": {
+            "height": 121, 
+            "width": 327
+        }, 
+        "tag_name": "div", 
+        "text": "Bridging the gap between AI use and valueBusiness Post  |  Oct 10, 2020"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "bbe547e8f38410e9871a0362a7495dda", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Bridging the gap between AI use and valueBusiness Post  |  Oct 10, 2020", 
+    "transformed": true, 
+    "width": 654, 
+    "x": 856, 
+    "y": 874
+}

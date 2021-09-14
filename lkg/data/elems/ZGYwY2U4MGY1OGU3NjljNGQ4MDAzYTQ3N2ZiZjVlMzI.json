@@ -1,0 +1,19 @@
+{
+    "bounds": "[1577,223][2721,269]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "0IYbpXVRK9iYbRnf1NhGGA==\n", 
+    "height": 46, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1577_Y223_W1144_H46", 
+    "human_readable": "android.widget.TextView_1577_223_1144_46_android.widget.TextView_ffffffffffffffff5346f34f00400040404000400040806200400040ffffffff_11d19d013cbf44228cadf309b440cbf7", 
+    "image_path": "ZGYwY2U4MGY1OGU3NjljNGQ4MDAzYTQ3N2ZiZjVlMzI.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "632f13944a6ddf121561f6eef4c438e8", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Test.ai Raises $11M Series A To 202: AI for User Flov", 
+    "width": 1144, 
+    "x": 1577, 
+    "y": 223
+}

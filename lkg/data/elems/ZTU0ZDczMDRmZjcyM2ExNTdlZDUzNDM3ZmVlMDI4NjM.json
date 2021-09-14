@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "lErCDnEvht2nPC77l5aQ1g==\n", 
+    "height": 106, 
+    "hier_level": 0, 
+    "human_hash": "a_X0_Y506_W640_H106", 
+    "human_readable": "a_0_506_640_106_a_fffffffffffffe7ffe7ffe7ffe7ffe7ffe7ffffffc3ffc3ffc3fffffffffffff_9944fb2e6bab41d3943bfe550bc0f869", 
+    "image_path": "ZTU0ZDczMDRmZjcyM2ExNTdlZDUzNDM3ZmVlMDI4NjM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/program/schedule"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(56, 56, 56)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Lato-Bold", 
+            "font-weight": "300", 
+            "fontSize": 18, 
+            "height": 106, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Schedule", 
+            "type": "", 
+            "value": "", 
+            "width": 640, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 506, 
+            "yPercent": 9.597875569044007
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 506
+        }, 
+        "size": {
+            "height": 106, 
+            "width": 640
+        }, 
+        "tag_name": "a", 
+        "text": "Schedule"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "fdf3706df6a655814be805f5234c8c9e", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Schedule", 
+    "transformed": true, 
+    "width": 640, 
+    "x": 0, 
+    "y": 506
+}

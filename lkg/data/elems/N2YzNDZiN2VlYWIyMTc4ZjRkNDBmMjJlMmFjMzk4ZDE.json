@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h3", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "g2NPUyNEkXPgD0Hj4lqoZA==\n", 
+    "height": 180, 
+    "hier_level": 0, 
+    "human_hash": "h3_X536_Y480_W2740_H180", 
+    "human_readable": "h3_536_480_2740_180_h3_fffffffff107e007e007e007f887fffffffffffffffffffffffffffffffffe7f_0d978448e250dfeb6d46b459eb23117e", 
+    "image_path": "N2YzNDZiN2VlYWIyMTc4ZjRkNDBmMjJlMmFjMzk4ZDE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "main-subtitle"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h3", 
+            "color": "rgb(26, 26, 26)", 
+            "cssClass": "main-subtitle", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Barlow, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 30, 
+            "height": 90, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h3", 
+            "text": "Forward-thinking Conference on AI, Software Quality and Testing", 
+            "type": "", 
+            "value": "", 
+            "width": 1370, 
+            "x": 268, 
+            "xPercent": 14.041994750656167, 
+            "y": 240, 
+            "yPercent": 3.125814014066163
+        }, 
+        "location": {
+            "x": 268, 
+            "y": 240
+        }, 
+        "size": {
+            "height": 90, 
+            "width": 1370
+        }, 
+        "tag_name": "h3", 
+        "text": "Forward-thinking Conference on AI, Software Quality and Testing"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "183125a1ccf7828adc005f2f6e86f628", 
+    "scrollable": false, 
+    "tag_name": "h3", 
+    "text": "Forward-thinking Conference on AI, Software Quality and Testing", 
+    "transformed": true, 
+    "width": 2740, 
+    "x": 536, 
+    "y": 480
+}

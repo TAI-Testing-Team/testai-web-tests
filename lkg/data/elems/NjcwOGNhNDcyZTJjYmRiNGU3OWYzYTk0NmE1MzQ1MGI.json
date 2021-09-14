@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210124191401/tmpZ/div_X1150_Y28_W1540_H618.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "S2uAluj87UsXdZoKLYbLRw==\n", 
+    "height": 618, 
+    "hier_level": 0, 
+    "human_hash": "div_X1150_Y28_W1540_H618", 
+    "human_readable": "div_1150_28_1540_618_div_00000000000000000000000000000000000000000000ffffffffffffffffffff_cd5417cc44ea3ea752163899bd3f3fc9", 
+    "image_path": "NjcwOGNhNDcyZTJjYmRiNGU3OWYzYTk0NmE1MzQ1MGI.png", 
+    "img_hash": "b0b74d16d56ca3372b2e5e3d6593dc26", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "qc-cmp2-summary-section"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(20, 30, 35)", 
+            "cssClass": "qc-cmp2-summary-section", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 309, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "We value your privacyWe and our partners store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised ads and content, ad and content measurement, and audience insights, as well as to develop and improve products.With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our partners\u2019 processing as described above. Alternatively you may click to refuse to consent or access more detailed information and change your preferences before consenting. Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences at any time by returning to this site or visit our privacy policy.", 
+            "type": "", 
+            "value": "", 
+            "width": 770, 
+            "x": 575, 
+            "xPercent": 30.183727034120732, 
+            "y": 14, 
+            "yPercent": 0.35516969218626676
+        }, 
+        "location": {
+            "x": 575, 
+            "y": 14
+        }, 
+        "size": {
+            "height": 309, 
+            "width": 770
+        }, 
+        "tag_name": "div", 
+        "text": "We value your privacyWe and our partners store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised ads and content, ad and content measurement, and audience insights, as well as to develop and improve products.With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our partners\u2019 processing as described above. Alternatively you may click to refuse to consent or access more detailed information and change your preferences before consenting. Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences at any time by returning to this site or visit our privacy policy."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "bffd62d38b5714660c03517b536f8fe5", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "We value your privacyWe and our partners store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised ads and content, ad and content measurement, and audience insights, as well as to develop and improve products.With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our partners\u2019 processing as described above. Alternatively you may click to refuse to consent or access more detailed information and change your preferences before consenting. Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences at any time by returning to this site or visit our privacy policy.", 
+    "text_hash": "cd5417cc44ea3ea752163899bd3f3fc9", 
+    "transformed": true, 
+    "width": 1540, 
+    "x": 1150, 
+    "y": 28
+}

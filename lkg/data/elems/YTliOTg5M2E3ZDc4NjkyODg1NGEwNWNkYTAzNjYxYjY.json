@@ -1,0 +1,19 @@
+{
+    "bounds": "[795,878][1039,903]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "7ydkNSlJDkJeG0UgW+NokQ==\n", 
+    "height": 25, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X795_Y878_W244_H25", 
+    "human_readable": "android.widget.TextView_795_878_244_25_android.widget.TextView_fffffffffefffeffeefd00000000800080008c1c00100000efffefffefff0000_9497bdce0f0c754da7974c596be62d47", 
+    "image_path": "YTliOTg5M2E3ZDc4NjkyODg1NGEwNWNkYTAzNjYxYjY.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "f273e61eb141128f763a01dee0248874", 
+    "tag_name": "android.widget.TextView", 
+    "text": "change software testing", 
+    "width": 244, 
+    "x": 795, 
+    "y": 878
+}

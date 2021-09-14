@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "UnTG2qXz3P3TakASVS//LA==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "a_X2416_Y1468_W812_H62", 
+    "human_readable": "a_2416_1468_812_62_a_fffffffffffffff76cf76ef70208000080000200220800000008fffffbffffff_e41ae678d4a2b55e6f2a73cf503acd69", 
+    "image_path": "ZjU5NzIwMmU3ODcwM2Q4YjFhYzA5YTMwNGEzMDY4MDI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/s/testai_CaseStudy_Fitness_v15.pdf", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "700", 
+            "fontSize": 25.6, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Case Study: Enterprise Fitness", 
+            "type": "", 
+            "value": "", 
+            "width": 406, 
+            "x": 1208, 
+            "xPercent": 63.436679790026254, 
+            "y": 734, 
+            "yPercent": 28.29251831854994
+        }, 
+        "location": {
+            "x": 1208, 
+            "y": 734
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 406
+        }, 
+        "tag_name": "a", 
+        "text": "Case Study: Enterprise Fitness"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d9ed793b15a49d4ed4e356bdaf6404d4", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Case Study: Enterprise Fitness", 
+    "transformed": true, 
+    "width": 812, 
+    "x": 2416, 
+    "y": 1468
+}

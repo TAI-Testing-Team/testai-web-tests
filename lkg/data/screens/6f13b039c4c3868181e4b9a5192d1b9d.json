@@ -1,0 +1,176 @@
+{
+    "action_info": {
+        "elem_class": "screen", 
+        "elem_info": {
+            "class": "screen", 
+            "hash": "YEHB91ztLUN/9UUVXcKMzw==\n", 
+            "height": 1722, 
+            "hier_level": 0, 
+            "human_hash": "screen_X0_Y0_W3840_H1722", 
+            "index": -1, 
+            "is_transformed": true, 
+            "tag_name": "screen", 
+            "text": "", 
+            "width": 3840, 
+            "x": 0, 
+            "y": 0
+        }, 
+        "gesture": "no_op", 
+        "text": "no_op"
+    }, 
+    "all_elems": [
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "h1", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "U13Q7xVqRoRiolzhHhoyZQ==\n", 
+            "height": 540, 
+            "hier_level": 0, 
+            "human_hash": "h1_X996_Y40_W1850_H540", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "post-full-title"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "h1", 
+                    "color": "rgb(9, 10, 11)", 
+                    "cssClass": "post-full-title", 
+                    "domLevel": 8, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "Montserrat, sans-serif", 
+                    "font-weight": "600", 
+                    "fontSize": 60, 
+                    "height": 270, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "h1", 
+                    "text": "Based on User Experience, Which are the Best Apps for Black Friday Shopping?", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 925, 
+                    "x": 498, 
+                    "xPercent": 25.728735780765255, 
+                    "y": 20, 
+                    "yPercent": 0.18201695068073212
+                }, 
+                "location": {
+                    "x": 498, 
+                    "y": 20
+                }, 
+                "size": {
+                    "height": 270, 
+                    "width": 925
+                }, 
+                "tag_name": "h1", 
+                "text": "Based on User Experience, Which are the Best Apps for Black Friday Shopping?"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "h1", 
+            "text": "Based on User Experience, Which are the Best Apps for Black Friday Shopping?", 
+            "transformed": true, 
+            "width": 1850, 
+            "x": 996, 
+            "y": 40
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "img", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "Vu2mh1HrZSns0hDmPjRheQ==\n", 
+            "height": 584, 
+            "hier_level": 0, 
+            "human_hash": "img_X864_Y756_W1840_H584", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "kg-image", 
+                        "src": "https://storage.googleapis.com/blog-assets.test.ai/2019/07/target-comparison.png"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "img", 
+                    "color": "rgb(51, 68, 85)", 
+                    "cssClass": "kg-image", 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "Montserrat", 
+                    "font-weight": "400", 
+                    "fontSize": 20, 
+                    "height": 292, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "img", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 920, 
+                    "x": 432, 
+                    "xPercent": 22.337125129265768, 
+                    "y": 378, 
+                    "yPercent": 3.4061964656027413
+                }, 
+                "location": {
+                    "x": 432, 
+                    "y": 378
+                }, 
+                "size": {
+                    "height": 292, 
+                    "width": 920
+                }, 
+                "tag_name": "img", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "img", 
+            "text": "", 
+            "transformed": true, 
+            "width": 1840, 
+            "x": 864, 
+            "y": 756
+        }
+    ], 
+    "cpu": 0, 
+    "jank": 0, 
+    "mem": 0, 
+    "net": 0, 
+    "processed": true, 
+    "timing": 0
+}

@@ -1,0 +1,19 @@
+{
+    "bounds": "[512,249][1222,281]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "XaEMW60t0X77ZC0h7Zrm2w==\n", 
+    "height": 32, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X512_Y249_W710_H32", 
+    "human_readable": "android.widget.TextView_512_249_710_32_android.widget.TextView_ffffffffffffffffbe6d3e6fffff410001000100000200100090033301020000_75301b9700c1cef374ec925ec7c3ae11", 
+    "image_path": "MjY0NzQ3ZjY3OTRiNjExMTcyZDU4NjAwNjZkMzI2YjM.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "506cb0c4142e421fcf760b8444342e2b", 
+    "tag_name": "android.widget.TextView", 
+    "text": "We Build Awesome AI-Powered Software Tesi", 
+    "width": 710, 
+    "x": 512, 
+    "y": 249
+}

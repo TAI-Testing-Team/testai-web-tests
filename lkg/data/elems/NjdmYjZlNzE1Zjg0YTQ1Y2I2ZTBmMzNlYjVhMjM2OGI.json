@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "0snv0LaRM59F8dDbQzlFag==\n", 
+    "height": 132, 
+    "hier_level": 0, 
+    "human_hash": "div_X243_Y759_W239_H132", 
+    "human_readable": "div_243_759_239_132_div_000000000000000000001c481ff81ff81df00000000000000000000000000000_124a16665c560892c3c94e460bd65b70", 
+    "image_path": "NjdmYjZlNzE1Zjg0YTQ1Y2I2ZTBmMzNlYjVhMjM2OGI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col sqs-col-2 span-2", 
+                "id": "yui_3_17_2_1_1609719871844_91"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "col sqs-col-2 span-2", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 132, 
+            "identifier": "yui_3_17_2_1_1609719871844_91", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5f7d5e1f89c97873a05ea88c/1602104832935-LH92X2KTLZRHXZH7VARB/ke17ZwdGBToddI8pDm48kDITAuO7WvGYe_HtkNx7UXUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcQbIjqAfhDXNkvlGRG3YzfcUFWQufmCUNtpzqkVhTQlW_0KK_D1La8oUscKbt8gvv/logo-white.png\" alt=\"logo-white.png\" />", 
+            "type": "", 
+            "value": "", 
+            "width": 239, 
+            "x": 243, 
+            "xPercent": 12.65625, 
+            "y": 759, 
+            "yPercent": 61.55210867802109
+        }, 
+        "location": {
+            "x": 243, 
+            "y": 759
+        }, 
+        "size": {
+            "height": 132, 
+            "width": 239
+        }, 
+        "tag_name": "div", 
+        "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5f7d5e1f89c97873a05ea88c/1602104832935-LH92X2KTLZRHXZH7VARB/ke17ZwdGBToddI8pDm48kDITAuO7WvGYe_HtkNx7UXUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcQbIjqAfhDXNkvlGRG3YzfcUFWQufmCUNtpzqkVhTQlW_0KK_D1La8oUscKbt8gvv/logo-white.png\" alt=\"logo-white.png\" />"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "ad92b71679223f104d257f13e95d75b3", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5f7d5e1f89c97873a05ea88c/1602104832935-LH92X2KTLZRHXZH7VARB/ke17ZwdGBToddI8pDm48kDITAuO7WvGYe_HtkNx7UXUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcQbIjqAfhDXNkvlGRG3YzfcUFWQufmCUNtpzqkVhTQlW_0KK_D1La8oUscKbt8gvv/logo-white.png\" alt=\"logo-white.png\" />", 
+    "transformed": true, 
+    "width": 239, 
+    "x": 243, 
+    "y": 759
+}

@@ -1,0 +1,19 @@
+{
+    "bounds": "[1600,1198][2226,1237]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "mPExGy1sjf20NqAXLJW2jQ==\n", 
+    "height": 39, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1600_Y1198_W626_H39", 
+    "human_readable": "android.widget.TextView_1600_1198_626_39_android.widget.TextView_3fdf1fdf1fdfcf93c000000034c51040804080cb008900002050ffffffffffff_69ddcf13e7aa1f680cd01c3e9caf0add", 
+    "image_path": "YTBkZjZkMTFmN2VjYTRmMzU4YmM2MGE0YTBiMmRiYzI.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "7c1239596fa139b4f52e87e352124809", 
+    "tag_name": "android.widget.TextView", 
+    "text": "\"ISQA takeaways: Why testers", 
+    "width": 626, 
+    "x": 1600, 
+    "y": 1198
+}

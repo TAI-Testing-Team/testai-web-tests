@@ -1,0 +1,19 @@
+{
+    "bounds": "[434,350][674,373]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "SLHKGcse9j/Dv8kfwdOYTA==\n", 
+    "height": 23, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X434_Y350_W240_H23", 
+    "human_readable": "android.widget.TextView_434_350_240_23_android.widget.TextView_ffffffffffffcfbf4fbf7fbf0a0a0000000008000000000200120000d34bffff_564f5a3cacc16da55747eb97ffbd291d", 
+    "image_path": "MzRjZjYzNWIwNTIzMjJhM2FhMzllOWJjNmMyZDllNzU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "f273e61eb141128f763a01dee0248874", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Artificial intelligence in", 
+    "width": 240, 
+    "x": 434, 
+    "y": 350
+}

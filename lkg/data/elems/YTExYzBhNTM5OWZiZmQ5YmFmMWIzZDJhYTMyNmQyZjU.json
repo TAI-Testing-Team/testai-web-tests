@@ -1,0 +1,19 @@
+{
+    "bounds": "[1533,107][2198,162]", 
+    "class": "android.widget.Button", 
+    "enabled": true, 
+    "hash": "OkvwiuGhZ/Oxai9bWMXiEQ==\n", 
+    "height": 55, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.Button_X1533_Y107_W665_H55", 
+    "human_readable": "android.widget.Button_1533_107_665_55_android.widget.Button_ffffffffffffffffaf95add78001800180018001800180018001fefffeffffff_8aa94b8e800b911b35c56ed697ee250d", 
+    "image_path": "YTExYzBhNTM5OWZiZmQ5YmFmMWIzZDJhYTMyNmQyZjU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "22bd18068f0c769755c6093fc63b069c", 
+    "tag_name": "android.widget.Button", 
+    "text": "Test Every App In The Worlc", 
+    "width": 665, 
+    "x": 1533, 
+    "y": 107
+}

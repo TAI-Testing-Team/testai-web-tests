@@ -1,0 +1,19 @@
+{
+    "bounds": "[1559,1643][2129,1694]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "pISNMYeGVXz/dFSlu3MvAg==\n", 
+    "height": 51, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1559_Y1643_W570_H51", 
+    "human_readable": "android.widget.TextView_1559_1643_570_51_android.widget.TextView_ffffffff7ff43ef6fff68181800182118101810180008000ffffffffffff0000_44954eeef8f51e4ea7205f9b67550897", 
+    "image_path": "MTU4N2M0YzRlOTE4NDUzMzI0ODMyNjYzNTBkM2JiZGU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "7f6a78af7cf7fd8e94ac253698e9b885", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Top trends: 5 ways AI will", 
+    "width": 570, 
+    "x": 1559, 
+    "y": 1643
+}

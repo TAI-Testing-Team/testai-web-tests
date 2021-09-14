@@ -1,0 +1,19 @@
+{
+    "bounds": "[1548,604][2655,651]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "VMoG9uWPyTBXjIWuNVsfvg==\n", 
+    "height": 47, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1548_Y604_W1107_H47", 
+    "human_readable": "android.widget.TextView_1548_604_1107_47_android.widget.TextView_ffffffffffffffffff2fff3f00200020002000200020823000200020fdffffff_0b7b59076b0aa98c899dfab4a8999b2e", 
+    "image_path": "ODQ5ZTlhOGQxMWNkNGE5ZTkyZDE4MjNhODRhZTk1NzI.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "a293d4592b32f121324730a17f5eac16", 
+    "tag_name": "android.widget.TextView", 
+    "text": "trends and challenges for 2020 Test Automation", 
+    "width": 1107, 
+    "x": 1548, 
+    "y": 604
+}

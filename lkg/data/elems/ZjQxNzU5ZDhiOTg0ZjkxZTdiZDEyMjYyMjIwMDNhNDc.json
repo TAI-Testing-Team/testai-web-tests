@@ -1,0 +1,19 @@
+{
+    "bounds": "[1566,1281][2114,1330]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "lljzNaTPpadqCLsLjaa8UQ==\n", 
+    "height": 49, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1566_Y1281_W548_H49", 
+    "human_readable": "android.widget.TextView_1566_1281_548_49_android.widget.TextView_fffff7aff7e7e7e70400040014100410249004800000fffbffffffff80000000_08fddd9e9e335ed8ba6b6d7a21a7d46a", 
+    "image_path": "ZjQxNzU5ZDhiOTg0ZjkxZTdiZDEyMjYyMjIwMDNhNDc.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "7f6a78af7cf7fd8e94ac253698e9b885", 
+    "tag_name": "android.widget.TextView", 
+    "text": "need AI, more for QA pros", 
+    "width": 548, 
+    "x": 1566, 
+    "y": 1281
+}

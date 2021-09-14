@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": true, 
+    "hash": "pjUFmK32DNgljM1hDLInVw==\n", 
+    "height": 25, 
+    "hier_level": 0, 
+    "human_hash": "a_X1177_Y639_W49_H25", 
+    "human_readable": "a_1177_639_49_25_a_fffffffffffffffffffefffe3f3f2432113801300c300000a400ffffffff0000_659c6d91010a9b43f7b10d0cf471243f", 
+    "image_path": "NzE0OGY1YWUzMTBiYjQxYTFlNmQ3ZWM3ZTQ5YzNmYzM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "http://test.ai/", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 21, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": true, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": true, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "test.ai", 
+            "type": "", 
+            "value": "", 
+            "width": 49, 
+            "x": 1177, 
+            "xPercent": 61.32242838541667, 
+            "y": 639, 
+            "yPercent": 23.461009174311926
+        }, 
+        "location": {
+            "x": 1177, 
+            "y": 639
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 49
+        }, 
+        "tag_name": "a", 
+        "text": "test.ai"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1b39824ed31c61570ed9449d025f6734", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "test.ai", 
+    "transformed": true, 
+    "width": 49, 
+    "x": 1177, 
+    "y": 639
+}

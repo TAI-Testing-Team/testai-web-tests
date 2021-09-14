@@ -1,0 +1,19 @@
+{
+    "bounds": "[502,1736][1227,1773]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "ehYi0CPAH7Aeu+4oBjwNDw==\n", 
+    "height": 37, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X502_Y1736_W725_H37", 
+    "human_readable": "android.widget.TextView_502_1736_725_37_android.widget.TextView_ffffffffffff9e6d3e6f7eff01000100000200000090412300000000ffffffff_7c7a4cfc6b4da3ae38d2abe16233cd78", 
+    "image_path": "MjQ0YWI5NmIyYWIzMjQ4NzVhNGU4ZGY5YTA4ZDgzZGY.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "364e6999849266adee9c91e496788594", 
+    "tag_name": "android.widget.TextView", 
+    "text": "We Build Awesome AI-Powered Software Test", 
+    "width": 725, 
+    "x": 502, 
+    "y": 1736
+}

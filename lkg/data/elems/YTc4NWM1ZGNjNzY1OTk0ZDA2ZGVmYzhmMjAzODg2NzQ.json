@@ -1,0 +1,19 @@
+{
+    "bounds": "[872,545][1416,584]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "x25XUa9z2bkiruONMOw+dQ==\n", 
+    "height": 39, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X872_Y545_W544_H39", 
+    "human_readable": "android.widget.TextView_872_545_544_39_android.widget.TextView_ffffffe77de57df7e7ff82088200d018d01012101228166c02000200ffffffff_6941d446cbdd8cb9d4d01483d7154ecc", 
+    "image_path": "YTc4NWM1ZGNjNzY1OTk0ZDA2ZGVmYzhmMjAzODg2NzQ.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "648c3903195268805138e8ec27159eb4", 
+    "tag_name": "android.widget.TextView", 
+    "text": "AI and the Future of Testing", 
+    "width": 544, 
+    "x": 872, 
+    "y": 545
+}

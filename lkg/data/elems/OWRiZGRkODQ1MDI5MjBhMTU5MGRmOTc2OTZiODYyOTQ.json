@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210124104213/tmpZ/div_X742_Y392_W1032_H144.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "BC0bwGelzKsZCcGQSjz+YQ==\n", 
+    "height": 144, 
+    "hier_level": 0, 
+    "human_hash": "div_X742_Y392_W1032_H144", 
+    "human_readable": "div_742_392_1032_144_div_ffffffff735f0003000300030003fffbffffffffbbff01ff01ff01ff01fffdff_3e8d9d662bc9dff540aca4450e62e710", 
+    "image_path": "OWRiZGRkODQ1MDI5MjBhMTU5MGRmOTc2OTZiODYyOTQ.png", 
+    "img_hash": "47462539ae529be634d0382ac83c5ecc", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "field-name-title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "field-name-title", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Lato, LatoFallback, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Top trends: 5 ways AI will change software testing", 
+            "type": "", 
+            "value": "", 
+            "width": 516, 
+            "x": 371, 
+            "xPercent": 19.483267716535433, 
+            "y": 196, 
+            "yPercent": 3.162820719703082
+        }, 
+        "location": {
+            "x": 371, 
+            "y": 196
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 516
+        }, 
+        "tag_name": "div", 
+        "text": "Top trends: 5 ways AI will change software testing"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c1b05f76ee8e612cd26ba56a3bcdf93b", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Top trends: 5 ways AI will change software testing", 
+    "text_hash": "3e8d9d662bc9dff540aca4450e62e710", 
+    "transformed": true, 
+    "width": 1032, 
+    "x": 742, 
+    "y": 392
+}

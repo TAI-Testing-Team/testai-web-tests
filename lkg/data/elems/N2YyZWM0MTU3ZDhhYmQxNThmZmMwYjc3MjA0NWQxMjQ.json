@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "T4y1Z1h4uQ8M3grX86LnIg==\n", 
+    "height": 310, 
+    "hier_level": 0, 
+    "human_hash": "div_X822_Y1334_W722_H310", 
+    "human_readable": "div_822_1334_722_310_div_ffffffffffff00070007800fffff03ff03ff83ffffffffff8fff07ffffffffff_35ff3f461e6c34add9993cf508ed7795", 
+    "image_path": "N2YyZWM0MTU3ZDhhYmQxNThmZmMwYjc3MjA0NWQxMjQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col sqs-col-4 span-4"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "col sqs-col-4 span-4", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 155, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Will AI bots steal your QA testing job?Tech Beacon", 
+            "type": "", 
+            "value": "", 
+            "width": 361, 
+            "x": 411, 
+            "xPercent": 21.548556430446194, 
+            "y": 667, 
+            "yPercent": 24.893267077267637
+        }, 
+        "location": {
+            "x": 411, 
+            "y": 667
+        }, 
+        "size": {
+            "height": 155, 
+            "width": 361
+        }, 
+        "tag_name": "div", 
+        "text": "Will AI bots steal your QA testing job?Tech Beacon"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c1c0f90f37a1e60994e5cef42a9d317a", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Will AI bots steal your QA testing job?Tech Beacon", 
+    "transformed": true, 
+    "width": 722, 
+    "x": 822, 
+    "y": 1334
+}

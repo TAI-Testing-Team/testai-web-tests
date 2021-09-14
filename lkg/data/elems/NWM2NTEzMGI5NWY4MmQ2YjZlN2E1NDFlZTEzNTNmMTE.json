@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "tNeEmxtnBQZEwdjSrEtwGQ==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "a_X2338_Y418_W400_H52", 
+    "human_readable": "a_2338_418_400_52_a_fffffffffffffffffe71fe71fe00fe00fe00fe00fe00fe00ff88ffeeffeeffff_5ea62442768a6cedc518d4e2d392d6ab", 
+    "image_path": "NWM2NTEzMGI5NWY4MmQ2YjZlN2E1NDFlZTEzNTNmMTE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/privacy-policy"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Privacy Policy", 
+            "type": "", 
+            "value": "", 
+            "width": 200, 
+            "x": 1169, 
+            "xPercent": 61.35990813648294, 
+            "y": 209, 
+            "yPercent": 3.1971411099220304
+        }, 
+        "location": {
+            "x": 1169, 
+            "y": 209
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 200
+        }, 
+        "tag_name": "a", 
+        "text": "Privacy Policy"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "04ef6137771527485aad1dedd486d7bb", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Privacy Policy", 
+    "transformed": true, 
+    "width": 400, 
+    "x": 2338, 
+    "y": 418
+}

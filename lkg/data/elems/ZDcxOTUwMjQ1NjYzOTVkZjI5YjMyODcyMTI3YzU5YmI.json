@@ -1,0 +1,19 @@
+{
+    "bounds": "[1557,223][2739,269]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "qMhmzRcxiURCkrOSvgCIFQ==\n", 
+    "height": 46, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1557_Y223_W1182_H46", 
+    "human_readable": "android.widget.TextView_1557_223_1182_46_android.widget.TextView_ffffffffffffdbff5145f3cf00400040004000400040884200400040ffffffff_a67f56b680248b19fa8669b8d92680c0", 
+    "image_path": "ZDcxOTUwMjQ1NjYzOTVkZjI5YjMyODcyMTI3YzU5YmI.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "7f6a78af7cf7fd8e94ac253698e9b885", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Test.ai Raises $11M Series A To 202: AI for User Flow", 
+    "width": 1182, 
+    "x": 1557, 
+    "y": 223
+}

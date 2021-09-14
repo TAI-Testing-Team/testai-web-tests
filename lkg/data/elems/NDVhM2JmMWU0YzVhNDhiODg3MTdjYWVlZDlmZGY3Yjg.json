@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "EOdGszHBjbTTv4e+qstSAQ==\n", 
+    "height": 224, 
+    "hier_level": 0, 
+    "human_hash": "a_X1578_Y654_W636_H224", 
+    "human_readable": "a_1578_654_636_224_a_ffff5e7700000000fffeffffffff80b300030003ffffffffffff01ff01ff03ff_81c458cdcdc5d8e7036419d363e6ac23", 
+    "image_path": "NDVhM2JmMWU0YzVhNDhiODg3MTdjYWVlZDlmZGY3Yjg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.stickyminds.com/interview/future-software-testing-ai-interview-jason-arbon", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 112, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "The Future of Software Testing with AI: An Interview with Jason Arbon", 
+            "type": "", 
+            "value": "", 
+            "width": 318, 
+            "x": 789, 
+            "xPercent": 41.40830052493438, 
+            "y": 327, 
+            "yPercent": 12.201964352370286
+        }, 
+        "location": {
+            "x": 789, 
+            "y": 327
+        }, 
+        "size": {
+            "height": 112, 
+            "width": 318
+        }, 
+        "tag_name": "a", 
+        "text": "The Future of Software Testing with AI: An Interview with Jason Arbon"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "f7f48f0d29896b3b54bffcd828fae92a", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "The Future of Software Testing with AI: An Interview with Jason Arbon", 
+    "transformed": true, 
+    "width": 636, 
+    "x": 1578, 
+    "y": 654
+}

@@ -1,0 +1,19 @@
+{
+    "bounds": "[2350,754][2910,787]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "wQIBrQ94O3rOPa3PbnUn7Q==\n", 
+    "height": 33, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2350_Y754_W560_H33", 
+    "human_readable": "android.widget.TextView_2350_754_560_33_android.widget.TextView_ffffffff02c1000000000a318831884180418b010a0600010041e7d9ffffffff_83140a0057ff91c50b264b5862396b09", 
+    "image_path": "YjU2NGE4OWU3NzAyM2Q2NGQ4YmE3ZjM4MWE5OTVhNzM.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "5604cbf0d87dc11d02f240a7280d0132", 
+    "tag_name": "android.widget.TextView", 
+    "text": "coming the new paradigm i", 
+    "width": 560, 
+    "x": 2350, 
+    "y": 754
+}

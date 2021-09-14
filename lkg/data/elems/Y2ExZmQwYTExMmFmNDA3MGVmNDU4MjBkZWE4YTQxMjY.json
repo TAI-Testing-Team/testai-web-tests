@@ -1,0 +1,82 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210124172605/tmpZ/button_X1182_Y1624_W300_H68.png", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "9+2sLh953I9FhKmMmIfcDg==\n", 
+    "height": 68, 
+    "hier_level": 0, 
+    "human_hash": "button_X1182_Y1624_W300_H68", 
+    "human_readable": "button_1182_1624_300_68_button_7ffec0038001800080008400878087e087e087e087e080008000800000007ffe_5049716dd293c1d260b0943dedbe694d", 
+    "image_path": "Y2ExZmQwYTExMmFmNDA3MGVmNDU4MjBkZWE4YTQxMjY.png", 
+    "img_hash": "8ed37f57c20a92c5e94b4298346b81cb", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "mf-cookie-button mf-cookie-button-secondary mf-popup-switch uk-margin-small-left", 
+                "mf-consent": "default-general", 
+                "mf-toggle": "mf-generic-cookie-popup", 
+                "type": "button"
+            }, 
+            "background-color": "rgb(0, 150, 214)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "mf-cookie-button mf-cookie-button-secondary mf-popup-switch uk-margin-small-left", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 34, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Continue", 
+            "type": "button", 
+            "value": "", 
+            "width": 150, 
+            "x": 591, 
+            "xPercent": 31.034284776902886, 
+            "y": 812, 
+            "yPercent": 6.834441545324467
+        }, 
+        "location": {
+            "x": 591, 
+            "y": 812
+        }, 
+        "size": {
+            "height": 34, 
+            "width": 150
+        }, 
+        "tag_name": "button", 
+        "text": "Continue"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c47677a9ea7ce5f97a1d1c85fbe388cb", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Continue", 
+    "text_hash": "5049716dd293c1d260b0943dedbe694d", 
+    "transformed": true, 
+    "width": 300, 
+    "x": 1182, 
+    "y": 1624
+}

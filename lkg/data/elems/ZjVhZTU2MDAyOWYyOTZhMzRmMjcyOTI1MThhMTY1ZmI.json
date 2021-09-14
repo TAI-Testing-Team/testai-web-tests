@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210124142911/tmpZ/button_X1920_Y420_W278_H82.png", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "mqcys7o5rmzsbJvzYCs/JA==\n", 
+    "height": 82, 
+    "hier_level": 0, 
+    "human_hash": "button_X1920_Y420_W278_H82", 
+    "human_readable": "button_1920_420_278_82_button_00000000000000000000000067dc7ffe7ffe7ffe000000000000000000000000_fe4699d425027076777757962624dde6", 
+    "image_path": "ZjVhZTU2MDAyOWYyOTZhMzRmMjcyOTI1MThhMTY1ZmI.png", 
+    "img_hash": "1cf3ad2140823f6a0da15d4a02cff8c9", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "id": "onetrust-accept-btn-handler", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgb(227, 82, 7)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat, Helvetica, Arial, sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 11.382, 
+            "height": 41, 
+            "identifier": "onetrust-accept-btn-handler", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Accept All Cookies", 
+            "type": "", 
+            "value": "", 
+            "width": 139, 
+            "x": 960, 
+            "xPercent": 50.36745406824147, 
+            "y": 210, 
+            "yPercent": 9.459421431787483
+        }, 
+        "location": {
+            "x": 960, 
+            "y": 210
+        }, 
+        "size": {
+            "height": 41, 
+            "width": 139
+        }, 
+        "tag_name": "button", 
+        "text": "Accept All Cookies"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "0fa515bc5d399f81d612ded8a0e3e2c3", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Accept All Cookies", 
+    "text_hash": "fe4699d425027076777757962624dde6", 
+    "transformed": true, 
+    "width": 278, 
+    "x": 1920, 
+    "y": 420
+}

@@ -1,0 +1,19 @@
+{
+    "bounds": "[848,1123][1376,1174]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "8CgmD4vaK+aoU/FzNtEvmA==\n", 
+    "height": 51, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X848_Y1123_W528_H51", 
+    "human_readable": "android.widget.TextView_848_1123_528_51_android.widget.TextView_ffffffff07fc27fc0812000009820802080209000000f097ffffffff80000000_18fdc6d7df1223e2c8d2dd71407a4818", 
+    "image_path": "NzVkZmY3OGJjOTllNWNjYTFjMzU1NzQ3MTEyMDBlM2M.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "869e3e29166089bf4a9f0a613331cc1d", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Will AI bots steal your QA", 
+    "width": 528, 
+    "x": 848, 
+    "y": 1123
+}

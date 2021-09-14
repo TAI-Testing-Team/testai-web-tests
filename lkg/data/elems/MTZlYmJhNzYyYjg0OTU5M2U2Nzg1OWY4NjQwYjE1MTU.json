@@ -1,0 +1,19 @@
+{
+    "bounds": "[1566,165][1843,218]", 
+    "class": "android.widget.Image", 
+    "enabled": true, 
+    "hash": "CR7tK50jPHJ7uDn5oTS7Ng==\n", 
+    "height": 53, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.Image_X1566_Y165_W277_H53", 
+    "human_readable": "android.widget.Image_1566_165_277_53_android.widget.Image_ffffffffffffffffbfefbfafbfaf80808080a8808000800000008000ffffffff_bf4f74e3fe949ff031b7db101d2037bd", 
+    "image_path": "MTZlYmJhNzYyYjg0OTU5M2U2Nzg1OWY4NjQwYjE1MTU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "f84bfac0a751b96943b251b2970a3673", 
+    "tag_name": "android.widget.Image", 
+    "text": "Jason Arbor", 
+    "width": 277, 
+    "x": 1566, 
+    "y": 165
+}

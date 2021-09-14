@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "h1a8gDs/biStAub+6QXrIg==\n", 
+    "height": 64, 
+    "hier_level": 0, 
+    "human_hash": "a_X1938_Y490_W340_H64", 
+    "human_readable": "a_1938_490_340_64_a_ffffffffffffffffffff5df75def800004000400800008000000fefffeffffff_b362e50a69d7cc5e16cca1f24ce647e3", 
+    "image_path": "MTEyZTU3YzM5NzZhY2EwZjZmYjFlNTVlM2Q5M2U4NDU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/sales-operation"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Sales Operations", 
+            "type": "", 
+            "value": "", 
+            "width": 170, 
+            "x": 969, 
+            "xPercent": 50.89156824146982, 
+            "y": 245, 
+            "yPercent": 11.146591943559399
+        }, 
+        "location": {
+            "x": 969, 
+            "y": 245
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 170
+        }, 
+        "tag_name": "a", 
+        "text": "Sales Operations"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "4d98c5bab2744a6ee6ae68e8b3cff9dc", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Sales Operations", 
+    "transformed": true, 
+    "width": 340, 
+    "x": 1938, 
+    "y": 490
+}

@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "B/xifLLFxwHDj6H982TmLg==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "a_X506_Y542_W538_H62", 
+    "human_readable": "a_506_542_538_62_a_ffffffffffffffffff2757270010000000800010011400000082ffffffffffff_60c28495a14a04615e894bc8e0f71967", 
+    "image_path": "YmZiMzE4M2UzNGFlYzg5YTRmMmE0Y2ViMzEyZmI4ZjM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/industries"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "700", 
+            "fontSize": 25.6, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Industries We Serve", 
+            "type": "", 
+            "value": "", 
+            "width": 269, 
+            "x": 253, 
+            "xPercent": 13.254593175853019, 
+            "y": 271, 
+            "yPercent": 4.165944957659738
+        }, 
+        "location": {
+            "x": 253, 
+            "y": 271
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 269
+        }, 
+        "tag_name": "a", 
+        "text": "Industries We Serve"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b0f96fbfed3747b758c49259a0df62fc", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Industries We Serve", 
+    "transformed": true, 
+    "width": 538, 
+    "x": 506, 
+    "y": 542
+}

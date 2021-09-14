@@ -1,0 +1,19 @@
+{
+    "bounds": "[1171,85][1448,110]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "mr9K+FfiKjbc8adu2qPPIA==\n", 
+    "height": 25, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1171_Y85_W277_H25", 
+    "human_readable": "android.widget.TextView_1171_85_277_25_android.widget.TextView_ffffffffffffffffffffffff96bfffbb82480040004000400040800000000000_6316579d534d2bf88b5f533c1b504851", 
+    "image_path": "Mzc3MjA0YTg1Mzk1YmYzMWNhZDYzYWMzMjZjZDJmMzY.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "18470f9b52568843a00d166de75c4b75", 
+    "tag_name": "android.widget.TextView", 
+    "text": "erification with Jason Arbo", 
+    "width": 277, 
+    "x": 1171, 
+    "y": 85
+}

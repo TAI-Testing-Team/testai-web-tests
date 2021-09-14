@@ -1,0 +1,19 @@
+{
+    "bounds": "[425,360][726,387]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "I6SJGJrP8VHimgowfOLqhw==\n", 
+    "height": 27, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X425_Y360_W301_H27", 
+    "human_readable": "android.widget.TextView_425_360_301_27_android.widget.TextView_ffffffffffffffff7bf77bf7a8b88000800080008000800000000410fffefffe_1a8009f6dd05189ef94f4cfcddc2f5d3", 
+    "image_path": "NTQxOTZhNjI2NGRiYzk2NjQ0ODgyYjIyNjI5ODAwYzc.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "2f9b7a5888f319b76e06de2ca1b01c52", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Intro to Postmodern Testing", 
+    "width": 301, 
+    "x": 425, 
+    "y": 360
+}

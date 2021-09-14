@@ -1,0 +1,82 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "BpdTzHsX0tHz+rQK4fdG8A==\n", 
+    "height": 272, 
+    "hier_level": 0, 
+    "human_hash": "img_X1506_Y494_W800_H272", 
+    "human_readable": "img_1506_494_800_272_img_7e844c046dff4dbd0ef40afd6bff62f750f3ffffffff0000000000000000ffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "ZDgxNjU5ZTc0ZTE3MzYxYTMxZmUwYzAxYzViMzFkOGY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "", 
+                "class": "wp-image-13874", 
+                "height": "auto", 
+                "loading": "lazy", 
+                "src": "https://hustef.hu/wp-content/uploads/2021/01/logo_2021-e1611828923614.png", 
+                "title": "logo_2021", 
+                "width": "auto"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(26, 41, 67)", 
+            "cssClass": "wp-image-13874", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Nunito Sans\", Helvetica, Arial, Lucida, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 136, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 400, 
+            "x": 753, 
+            "xPercent": 39.501312335958005, 
+            "y": 247, 
+            "yPercent": 4.406779661016949
+        }, 
+        "location": {
+            "x": 753, 
+            "y": 247
+        }, 
+        "size": {
+            "height": 136, 
+            "width": 400
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "7d6fbac3b957d92cb7b4ac0e0bc9a6aa", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 800, 
+    "x": 1506, 
+    "y": 494
+}

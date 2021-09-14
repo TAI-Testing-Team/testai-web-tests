@@ -1,0 +1,19 @@
+{
+    "bounds": "[512,177][1216,210]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "TBcU4BtH6D9wPF2Rx0vdlA==\n", 
+    "height": 33, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X512_Y177_W704_H33", 
+    "human_readable": "android.widget.TextView_512_177_704_33_android.widget.TextView_ffffffffffffffffffffbe6c3e6f7eff01000100000000000010003201030000_434a1cf6519ffc4c9c7536b4778004b8", 
+    "image_path": "YWNiYjM2ODZiZGFhNDc0N2VhNzc1ZTRmNmExMmYxYWQ.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "9c7eea798fc4aaa11113f05411e95af5", 
+    "tag_name": "android.widget.TextView", 
+    "text": "We Build Awesome AI-Powered Software Tes", 
+    "width": 704, 
+    "x": 512, 
+    "y": 177
+}

@@ -1,0 +1,19 @@
+{
+    "bounds": "[1563,527][2144,572]", 
+    "class": "android.widget.Image", 
+    "enabled": true, 
+    "hash": "x2Ynja72qKPj/01roxoPNA==\n", 
+    "height": 45, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.Image_X1563_Y527_W581_H45", 
+    "human_readable": "android.widget.Image_1563_527_581_45_android.widget.Image_ffffffff7ffb7ffbffff80048004b00d80048004c00d80048004ffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "ZWZjYTY5NThhODNjNTJlMmRhODc2M2EyZDA3NjQ1ZjY.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "13d99a7bd320cbf6d575e36da8fa81a5", 
+    "tag_name": "android.widget.Image", 
+    "text": "", 
+    "width": 581, 
+    "x": 1563, 
+    "y": 527
+}

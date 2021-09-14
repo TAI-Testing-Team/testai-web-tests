@@ -1,0 +1,19 @@
+{
+    "bounds": "[2319,1425][2942,1465]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "G486mO2cFG7FUR8sli1Xcg==\n", 
+    "height": 40, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2319_Y1425_W623_H40", 
+    "human_readable": "android.widget.TextView_2319_1425_623_40_android.widget.TextView_ffffffffffffffff100010001304100410001200120400000000ffffffffffff_3d560dba0b6cf389b9f6c52062a12ec1", 
+    "image_path": "OWMwODk5NTI2NzNlMjNhNTUzMDhjZDI2YmJhYjJjOTU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "7dd76fa0cfc728fc1e399dcd21a07d44", 
+    "tag_name": "android.widget.TextView", 
+    "text": "rrived. Here's why robots rule.", 
+    "width": 623, 
+    "x": 2319, 
+    "y": 1425
+}

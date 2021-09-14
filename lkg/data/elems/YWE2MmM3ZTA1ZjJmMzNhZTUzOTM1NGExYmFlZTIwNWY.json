@@ -1,0 +1,19 @@
+{
+    "bounds": "[794,181][1064,206]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "Ni3LfNFhZaR96e7Ir2joGg==\n", 
+    "height": 25, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X794_Y181_W270_H25", 
+    "human_readable": "android.widget.TextView_794_181_270_25_android.widget.TextView_ffffffffffffffff7f7d7ffd92570000000420060002400400000000ffffffff_367de832bb1a20e2498c6fccd53f5b29", 
+    "image_path": "YWE2MmM3ZTA1ZjJmMzNhZTUzOTM1NGExYmFlZTIwNWY.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "9c583c4ffc5a53abe7b85b6b57cc2634", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Test automation tools: Top", 
+    "width": 270, 
+    "x": 794, 
+    "y": 181
+}

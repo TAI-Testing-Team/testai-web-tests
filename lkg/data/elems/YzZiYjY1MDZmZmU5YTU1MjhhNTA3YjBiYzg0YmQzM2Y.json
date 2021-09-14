@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "DiVePf+3hSstdD9Nx28bDQ==\n", 
+    "height": 94, 
+    "hier_level": 0, 
+    "human_hash": "a_X154_Y116_W416_H94", 
+    "human_readable": "a_154_116_416_94_a_ffff5fff1fff0bdc0bdf8889a808f851f815a8150991080118011fff7fffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YzZiYjY1MDZmZmU5YTU1MjhhNTA3YjBiYzg0YmQzM2Y.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "preSlide slideIn", 
+                "data-animation-role": "header-element", 
+                "href": "/", 
+                "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.0153846s;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "preSlide slideIn", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 0, 
+            "height": 47, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 208, 
+            "x": 77, 
+            "xPercent": 4.031332020997375, 
+            "y": 58, 
+            "yPercent": 1.174184505606524
+        }, 
+        "location": {
+            "x": 77, 
+            "y": 58
+        }, 
+        "size": {
+            "height": 47, 
+            "width": 208
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "fb5117077ee5045f0ea8f5efe3d7a57f", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 416, 
+    "x": 154, 
+    "y": 116
+}

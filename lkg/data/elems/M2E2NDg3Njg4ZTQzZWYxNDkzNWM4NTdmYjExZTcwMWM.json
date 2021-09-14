@@ -1,0 +1,19 @@
+{
+    "bounds": "[2309,113][2892,154]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "s2KFfdZyH+nZr4dEKRLYXA==\n", 
+    "height": 41, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2309_Y113_W583_H41", 
+    "human_readable": "android.widget.TextView_2309_113_583_41_android.widget.TextView_ffffffffdfffdfbfffbfffff004000400040104000400040400000000200ffff_12f164209378eb65b22c97ab2005c68a", 
+    "image_path": "M2E2NDg3Njg4ZTQzZWYxNDkzNWM4NTdmYjExZTcwMWM.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "cc64e4c03dfee7d84607d8e8066629c6", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Verification with Jason Arbor", 
+    "width": 583, 
+    "x": 2309, 
+    "y": 113
+}

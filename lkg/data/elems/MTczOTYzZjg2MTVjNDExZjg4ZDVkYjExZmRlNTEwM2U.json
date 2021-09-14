@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "l7MkiI80hoOtyGRFrqVicA==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "a_X1652_Y562_W504_H62", 
+    "human_readable": "a_1652_562_504_62_a_ffffffffffff7bff7f677f670400000010001000402400108110ffffffff0000_4c4a8dc7623017d703734dcb7a74c635", 
+    "image_path": "MTczOTYzZjg2MTVjNDExZjg4ZDVkYjExZmRlNTEwM2U.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/news"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "700", 
+            "fontSize": 25.6, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Test.ai in the News", 
+            "type": "", 
+            "value": "", 
+            "width": 252, 
+            "x": 826, 
+            "xPercent": 43.379265091863516, 
+            "y": 281, 
+            "yPercent": 4.372420974774214
+        }, 
+        "location": {
+            "x": 826, 
+            "y": 281
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 252
+        }, 
+        "tag_name": "a", 
+        "text": "Test.ai in the News"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "75f7b455bad3e684ea353bc998815060", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Test.ai in the News", 
+    "transformed": true, 
+    "width": 504, 
+    "x": 1652, 
+    "y": 562
+}

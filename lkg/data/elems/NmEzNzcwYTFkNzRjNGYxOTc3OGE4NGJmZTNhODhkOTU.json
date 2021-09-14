@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "1tbe5WzLY1Kh1+38k/n1qQ==\n", 
+    "height": 43, 
+    "hier_level": 0, 
+    "human_hash": "a_X260_Y25_W146_H43", 
+    "human_readable": "a_260_25_146_43_a_ffffffffffff7e844800488d49ad08a00aa44a2d422d50a156a3ffffffff0000_baa934c6e2bd54da4de7bccb2b1726ca", 
+    "image_path": "NmEzNzcwYTFkNzRjNGYxOTc3OGE4NGJmZTNhODhkOTU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://hustef.hu/"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "700", 
+            "fontSize": 35.2, 
+            "height": 43, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "HUSTEF", 
+            "type": "", 
+            "value": "", 
+            "width": 146, 
+            "x": 260, 
+            "xPercent": 13.541666666666666, 
+            "y": 25, 
+            "yPercent": 0.8785645556333099
+        }, 
+        "location": {
+            "x": 260, 
+            "y": 25
+        }, 
+        "size": {
+            "height": 43, 
+            "width": 146
+        }, 
+        "tag_name": "a", 
+        "text": "HUSTEF"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e0ed0bdb9aa94264e6e7af08c143dab9", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "HUSTEF", 
+    "transformed": true, 
+    "width": 146, 
+    "x": 260, 
+    "y": 25
+}

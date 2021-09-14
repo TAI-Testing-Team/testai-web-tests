@@ -1,0 +1,19 @@
+{
+    "bounds": "[2302,1065][2620,1112]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "tPKPVKJ/QMBCDsrclC1FcA==\n", 
+    "height": 47, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2302_Y1065_W318_H47", 
+    "human_readable": "android.widget.TextView_2302_1065_318_47_android.widget.TextView_ffffffff5eff5e81df8102410241024102490245024d02010203ffffffffffff_205fb37a36a998fd3325374daa776893", 
+    "image_path": "YjgzZmYyY2UxNDE3NjA3YzM0YzM0YjQ1YTIxNWQzMGY.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "f84bfac0a751b96943b251b2970a3673", 
+    "tag_name": "android.widget.TextView", 
+    "text": "follow in 2019", 
+    "width": 318, 
+    "x": 2302, 
+    "y": 1065
+}

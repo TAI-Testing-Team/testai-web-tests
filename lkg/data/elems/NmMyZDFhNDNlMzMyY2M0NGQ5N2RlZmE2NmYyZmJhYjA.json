@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "oa+aLFfacaXiZpTXnCND4A==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "a_X2338_Y316_W400_H52", 
+    "human_readable": "a_2338_316_400_52_a_fffffffffffffffffff3fff3fff0fff0fff0fff0fff0fff0fff8ffffffffffff_88c87e3a3206d6012d540dee0f639742", 
+    "image_path": "NmMyZDFhNDNlMzMyY2M0NGQ5N2RlZmE2NmYyZmJhYjA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/news"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "News", 
+            "type": "", 
+            "value": "", 
+            "width": 200, 
+            "x": 1169, 
+            "xPercent": 61.35990813648294, 
+            "y": 158, 
+            "yPercent": 2.3127833845253765
+        }, 
+        "location": {
+            "x": 1169, 
+            "y": 158
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 200
+        }, 
+        "tag_name": "a", 
+        "text": "News"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e1cb277694fd123b5ff66b37e915d592", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "News", 
+    "transformed": true, 
+    "width": 400, 
+    "x": 2338, 
+    "y": 316
+}

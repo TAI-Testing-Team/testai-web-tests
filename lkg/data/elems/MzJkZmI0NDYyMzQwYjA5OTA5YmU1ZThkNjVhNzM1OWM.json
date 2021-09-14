@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "1GWtPObDW0bb3FmK3fZGdA==\n", 
+    "height": 242, 
+    "hier_level": 0, 
+    "human_hash": "div_X856_Y562_W654_H242", 
+    "human_readable": "div_856_562_654_242_div_ffffffff000f000ffeffffffffff00030003481bffffffffffffffff007fd2ff_581f87a649e0a63d46c00884b9ee33cf", 
+    "image_path": "MzJkZmI0NDYyMzQwYjA5OTA5YmU1ZThkNjVhNzM1OWM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sqs-block-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "sqs-block-content", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 121, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Artificial intelligence in software testing has arrivedAI Trends  |  Sept 29, 2017", 
+            "type": "", 
+            "value": "", 
+            "width": 327, 
+            "x": 428, 
+            "xPercent": 22.440944881889763, 
+            "y": 281, 
+            "yPercent": 10.664522407899735
+        }, 
+        "location": {
+            "x": 428, 
+            "y": 281
+        }, 
+        "size": {
+            "height": 121, 
+            "width": 327
+        }, 
+        "tag_name": "div", 
+        "text": "Artificial intelligence in software testing has arrivedAI Trends  |  Sept 29, 2017"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "38ca0b0b1587f0b8bbe4e56931c0924c", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Artificial intelligence in software testing has arrivedAI Trends  |  Sept 29, 2017", 
+    "transformed": true, 
+    "width": 654, 
+    "x": 856, 
+    "y": 562
+}

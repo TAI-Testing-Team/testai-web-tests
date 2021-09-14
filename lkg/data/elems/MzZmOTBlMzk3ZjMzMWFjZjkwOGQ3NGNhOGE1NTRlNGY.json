@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "R20MLO65Kn6A9HT54fCE+w==\n", 
+    "height": 86, 
+    "hier_level": 0, 
+    "human_hash": "button_X2584_Y502_W86_H86", 
+    "human_readable": "button_2584_502_86_86_button_00000000000000000c300e7007e003c003c007e00e700c300000000000000000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MzZmOTBlMzk3ZjMzMWFjZjkwOGQ3NGNhOGE1NTRlNGY.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-live": "polite", 
+                "class": "CloseButton__ButtonElement-sc-79mh24-0 dUkEsD oelwein-CloseButton oelwein-close oelwein-ClosePosition--top-right", 
+                "style": "top:-15px;right:-15px;bottom:auto;left:auto", 
+                "tabindex": "1", 
+                "title": "Close"
+            }, 
+            "background-color": "rgba(243, 243, 243, 0)", 
+            "class": "button", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "CloseButton__ButtonElement-sc-79mh24-0 dUkEsD oelwein-CloseButton oelwein-close oelwein-ClosePosition--top-right", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 43, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 43, 
+            "x": 1292, 
+            "xPercent": 67.29166666666667, 
+            "y": 251, 
+            "yPercent": 2.3920932009167304
+        }, 
+        "location": {
+            "x": 1292, 
+            "y": 251
+        }, 
+        "size": {
+            "height": 43, 
+            "width": 43
+        }, 
+        "tag_name": "button", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "8b5c3d93eb649e22df8c9bead6b61cd6", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "", 
+    "transformed": true, 
+    "width": 86, 
+    "x": 2584, 
+    "y": 502
+}

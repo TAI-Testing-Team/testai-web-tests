@@ -1,0 +1,19 @@
+{
+    "bounds": "[825,221][1469,278]", 
+    "class": "android.widget.Button", 
+    "enabled": true, 
+    "hash": "r0hhTFNhs4YpG6NoVKe8Mg==\n", 
+    "height": 57, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.Button_X825_Y221_W644_H57", 
+    "human_readable": "android.widget.Button_825_221_644_57_android.widget.Button_fffffffffffffffffb6fff4f8061800080018021802180018000fbffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "OWQ2MjQwMWQzM2I4M2FhNDVjYzZkYzJhMmZhZjk3NmM.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "869e3e29166089bf4a9f0a613331cc1d", 
+    "tag_name": "android.widget.Button", 
+    "text": "", 
+    "width": 644, 
+    "x": 825, 
+    "y": 221
+}

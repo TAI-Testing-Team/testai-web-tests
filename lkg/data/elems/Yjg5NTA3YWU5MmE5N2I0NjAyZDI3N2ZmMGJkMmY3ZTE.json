@@ -1,0 +1,19 @@
+{
+    "bounds": "[861,1351][1444,1393]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "1p/ssMpXXOnp5cPV1udkuw==\n", 
+    "height": 42, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X861_Y1351_W583_H42", 
+    "human_readable": "android.widget.TextView_861_1351_583_42_android.widget.TextView_2dff5dff301030103018389000000290321802000200ffffffffffffffff0000_ccee8867fbe9e54841a24fdafe5603e1", 
+    "image_path": "Yjg5NTA3YWU5MmE5N2I0NjAyZDI3N2ZmMGJkMmY3ZTE.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "f2ee0bebd138437dc7d2715ead95d999", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Will AI and Machine Learning", 
+    "width": 583, 
+    "x": 861, 
+    "y": 1351
+}

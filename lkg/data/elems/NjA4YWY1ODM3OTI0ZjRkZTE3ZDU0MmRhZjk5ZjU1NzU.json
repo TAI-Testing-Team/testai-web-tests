@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "XZBoqB4cg632/BPqj1uG6w==\n", 
+    "height": 224, 
+    "hier_level": 0, 
+    "human_hash": "a_X1578_Y1292_W642_H224", 
+    "human_readable": "a_1578_1292_642_224_a_fffffdaf00000000f8feffffffff446700000000ffffffffffff007f007f847f_2ddc32d8d5b23481b4767c61e2e4e7d8", 
+    "image_path": "NjA4YWY1ODM3OTI0ZjRkZTE3ZDU0MmRhZjk5ZjU1NzU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://blog-dot-difftapp.appspot.com/blog/the-ai-and-software-testing-newsletter-july-12-2019/"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 112, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Announcing OpenTestData.org, plus Q&A with Jason Arbon on Why This Matters", 
+            "type": "", 
+            "value": "", 
+            "width": 321, 
+            "x": 789, 
+            "xPercent": 41.40830052493438, 
+            "y": 646, 
+            "yPercent": 10.057468467767052
+        }, 
+        "location": {
+            "x": 789, 
+            "y": 646
+        }, 
+        "size": {
+            "height": 112, 
+            "width": 321
+        }, 
+        "tag_name": "a", 
+        "text": "Announcing OpenTestData.org, plus Q&A with Jason Arbon on Why This Matters"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "75f7b455bad3e684ea353bc998815060", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Announcing OpenTestData.org, plus Q&A with Jason Arbon on Why This Matters", 
+    "transformed": true, 
+    "width": 642, 
+    "x": 1578, 
+    "y": 1292
+}

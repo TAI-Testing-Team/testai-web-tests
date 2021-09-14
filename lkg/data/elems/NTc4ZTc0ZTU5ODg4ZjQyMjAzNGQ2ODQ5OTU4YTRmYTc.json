@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210124104213/tmpZ/div_X742_Y392_W1032_H144.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "6rZWNwqlnH/V1ugbATZZGA==\n", 
+    "height": 144, 
+    "hier_level": 0, 
+    "human_hash": "div_X742_Y392_W1032_H144", 
+    "human_readable": "div_742_392_1032_144_div_ffff7fff1f7f0000000000000001ffffffffffff79ff007f007f007f007fffff_b41d1b01d82e1e7782c748c5ace086a9", 
+    "image_path": "NTc4ZTc0ZTU5ODg4ZjQyMjAzNGQ2ODQ5OTU4YTRmYTc.png", 
+    "img_hash": "13c14abc7722871f17af2cf514b5394e", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "field-name-title"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "field-name-title", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Lato, LatoFallback, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "TISQA takeaways: Why testers need AI, more for QA pros", 
+            "type": "", 
+            "value": "", 
+            "width": 516, 
+            "x": 371, 
+            "xPercent": 19.483267716535433, 
+            "y": 196, 
+            "yPercent": 1.3795045045045045
+        }, 
+        "location": {
+            "x": 371, 
+            "y": 196
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 516
+        }, 
+        "tag_name": "div", 
+        "text": "TISQA takeaways: Why testers need AI, more for QA pros"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b1ba80f7ee424ccb38dc9b30385722f3", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "TISQA takeaways: Why testers need AI, more for QA pros", 
+    "text_hash": "b41d1b01d82e1e7782c748c5ace086a9", 
+    "transformed": true, 
+    "width": 1032, 
+    "x": 742, 
+    "y": 392
+}

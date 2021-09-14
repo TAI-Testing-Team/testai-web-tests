@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "SFZYIsD3w8UcDqyx//85Xw==\n", 
+    "height": 25, 
+    "hier_level": 0, 
+    "human_hash": "a_X969_Y70_W290_H25", 
+    "human_readable": "a_969_70_290_25_a_ffffffffffffffffffff7f29f669000000100000000400000000fffffeffffff_31d11f353afa59e1ad87779753bf07de", 
+    "image_path": "MGU0NmY5NDM4Y2Y3MTk0ZmI5NzliYTllOWRmNWZjYjE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/s/testai_CaseStudy_Transportation_v12.pdf", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Transportation High Tech Case Study", 
+            "type": "", 
+            "value": "", 
+            "width": 290, 
+            "x": 969, 
+            "xPercent": 50.89156824146982, 
+            "y": 70, 
+            "yPercent": 1.7065250611246943
+        }, 
+        "location": {
+            "x": 969, 
+            "y": 70
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 290
+        }, 
+        "tag_name": "a", 
+        "text": "Transportation High Tech Case Study"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "7d83c94a1d4185049dc9e819e91393e7", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Transportation High Tech Case Study", 
+    "transformed": true, 
+    "width": 290, 
+    "x": 969, 
+    "y": 70
+}

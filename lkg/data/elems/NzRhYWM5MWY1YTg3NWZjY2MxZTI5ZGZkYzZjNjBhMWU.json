@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "+7xbp9+xDMLiiNNm1ikg/g==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "a_X1938_Y622_W672_H50", 
+    "human_readable": "a_1938_622_672_50_a_ffffffffffffffffffff6b7573bd000000000000008000000000fffffdffffff_263f9c4efa4640f9bcfa3f15abadec78", 
+    "image_path": "NzRhYWM5MWY1YTg3NWZjY2MxZTI5ZGZkYzZjNjBhMWU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/s/testai_CaseStudy_Software_v12.pdf", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Business Intelligence Software Case Study", 
+            "type": "", 
+            "value": "", 
+            "width": 336, 
+            "x": 969, 
+            "xPercent": 50.89156824146982, 
+            "y": 311, 
+            "yPercent": 7.598945599022004
+        }, 
+        "location": {
+            "x": 969, 
+            "y": 311
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 336
+        }, 
+        "tag_name": "a", 
+        "text": "Business Intelligence Software Case Study"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "dfe693c929fe520da8ab22f74a483368", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Business Intelligence Software Case Study", 
+    "transformed": true, 
+    "width": 672, 
+    "x": 1938, 
+    "y": 622
+}

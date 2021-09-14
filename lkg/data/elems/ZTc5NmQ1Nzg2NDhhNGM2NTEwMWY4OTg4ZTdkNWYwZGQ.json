@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "SId+Bom2JuW7eKGV2qOicA==\n", 
+    "height": 26, 
+    "hier_level": 0, 
+    "human_hash": "div_X1184_Y209_W200_H26", 
+    "human_readable": "div_1184_209_200_26_div_fffffffffffffffffe71fe71fe00fe00fe00fe00fe00fe00ff88ffeeffeeffff_5ea62442768a6cedc518d4e2d392d6ab", 
+    "image_path": "ZTc5NmQ1Nzg2NDhhNGM2NTEwMWY4OTg4ZTdkNWYwZGQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-nav-folder-item"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "header-nav-folder-item", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Privacy Policy", 
+            "type": "", 
+            "value": "", 
+            "width": 200, 
+            "x": 1184, 
+            "xPercent": 61.661783854166664, 
+            "y": 209, 
+            "yPercent": 2.7251107636174092
+        }, 
+        "location": {
+            "x": 1184, 
+            "y": 209
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 200
+        }, 
+        "tag_name": "div", 
+        "text": "Privacy Policy"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "7295bd19ccf0e382022b3cb3b3f883a4", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Privacy Policy", 
+    "transformed": true, 
+    "width": 200, 
+    "x": 1184, 
+    "y": 209
+}

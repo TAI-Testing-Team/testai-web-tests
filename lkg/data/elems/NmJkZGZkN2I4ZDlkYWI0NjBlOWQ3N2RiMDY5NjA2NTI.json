@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "rZO5otBTrnofVM2/4DsUcA==\n", 
+    "height": 26, 
+    "hier_level": 0, 
+    "human_hash": "a_X1184_Y184_W200_H26", 
+    "human_readable": "a_1184_184_200_26_a_ffffffffffffffffff9fff9fff80ff80ff80ff80ff80ff80ffffffffffffffff_3cd5cd5ad141c1dcd270ce9e6ce9e8d8", 
+    "image_path": "NmJkZGZkN2I4ZDlkYWI0NjBlOWQ3N2RiMDY5NjA2NTI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/resources"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Resources", 
+            "type": "", 
+            "value": "", 
+            "width": 200, 
+            "x": 1184, 
+            "xPercent": 61.661783854166664, 
+            "y": 184, 
+            "yPercent": 14.267676767676768
+        }, 
+        "location": {
+            "x": 1184, 
+            "y": 184
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 200
+        }, 
+        "tag_name": "a", 
+        "text": "Resources"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "271138223c3ebaf001908ede2558b6b2", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Resources", 
+    "transformed": true, 
+    "width": 200, 
+    "x": 1184, 
+    "y": 184
+}

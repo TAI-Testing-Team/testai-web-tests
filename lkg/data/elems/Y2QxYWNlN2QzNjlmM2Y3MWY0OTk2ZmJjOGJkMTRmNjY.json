@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "EZOG50ReySqP9fgFY40Kyg==\n", 
+    "height": 114, 
+    "hier_level": 0, 
+    "human_hash": "div_X1900_Y1570_W114_H114", 
+    "human_readable": "div_1900_1570_114_114_div_07e01e78300c60064003c001c0018e71866183c1c181c00360033006381c0ff8_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "Y2QxYWNlN2QzNjlmM2Y3MWY0OTk2ZmJjOGJkMTRmNjY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "style": "color: rgba(0, 0, 0, 0); background-color: rgba(0, 0, 0, 0); background-size: contain; fill: rgb(0, 0, 0); font-family: \"Open Sans\", sans-serif; font-weight: 400; font-size: 16px; padding: 0px; margin: 0px; display: block; background-image: url(\"https://micro-cdn.sumo.com/image-resize/sumo-convert?uri=//media.sumo.com/d4c2f0d0ab08e81168215a826782ba06948a1f84ae3ff1f92e79291c3deb24fb&supported=webp,webp.alpha,webp.animation,webp.lossless&hash=595a4ffa3ab6de5d082c44faccdb82b953fd097ec71e510be496ed9a58890938&format=webp\"); position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; background-position: center center; background-repeat: no-repeat;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgba(0, 0, 0, 0)", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Open Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 57, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 57, 
+            "x": 950, 
+            "xPercent": 49.50173695882161, 
+            "y": 785, 
+            "yPercent": 6.888469916187949
+        }, 
+        "location": {
+            "x": 950, 
+            "y": 785
+        }, 
+        "size": {
+            "height": 57, 
+            "width": 57
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2a842ac19edf7ea994cc30ca54da31e4", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 114, 
+    "x": 1900, 
+    "y": 1570
+}

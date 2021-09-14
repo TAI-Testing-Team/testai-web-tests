@@ -1,0 +1,19 @@
+{
+    "bounds": "[2310,897][2908,939]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "xMnY48TRr3HHsTC55Kxu1Q==\n", 
+    "height": 42, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2310_Y897_W598_H42", 
+    "human_readable": "android.widget.TextView_2310_897_598_42_android.widget.TextView_ffffffff6dff6dff6dff301000101010188000000010021002002200ffffffff_51ac3847636ca2820bf752f2c67c6c3c", 
+    "image_path": "ZDE3OWNkODFjZTEzMzAzMDhiMzEwMGVkZThlNzZjNjg.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "a4d0f023b07d1da9609dcff1e6649004", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Why AI and Machine Learning", 
+    "width": 598, 
+    "x": 2310, 
+    "y": 897
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "u9tq4p6LNxcnesaWDgTmCA==\n", 
+    "height": 144, 
+    "hier_level": 0, 
+    "human_hash": "a_X2300_Y1542_W612_H144", 
+    "human_readable": "a_2300_1542_612_144_a_ffffffff3f7f000000000000ffffffffffffffffffff38ff00ff00ff00ffffff_2d4014d57287f2e246145d318cc984dc", 
+    "image_path": "ZmY3NGM0ZmYwMTM0N2IxMWQyMTg4Y2VjNzJlZTc1MzU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://techbeacon.com/app-dev-testing/33-test-automation-leaders-follow-2019", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "33 test automation leaders to follow in 2019", 
+            "type": "", 
+            "value": "", 
+            "width": 306, 
+            "x": 1150, 
+            "xPercent": 60.375656167978995, 
+            "y": 771, 
+            "yPercent": 29.27447303456134
+        }, 
+        "location": {
+            "x": 1150, 
+            "y": 771
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 306
+        }, 
+        "tag_name": "a", 
+        "text": "33 test automation leaders to follow in 2019"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "38ca0b0b1587f0b8bbe4e56931c0924c", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "33 test automation leaders to follow in 2019", 
+    "transformed": true, 
+    "width": 612, 
+    "x": 2300, 
+    "y": 1542
+}

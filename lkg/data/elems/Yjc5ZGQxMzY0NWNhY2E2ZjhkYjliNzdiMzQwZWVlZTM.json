@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h3", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jQCbfkhF9B2G6+hVwhrygQ==\n", 
+    "height": 184, 
+    "hier_level": 0, 
+    "human_hash": "h3_X506_Y866_W888_H184", 
+    "human_readable": "h3_506_866_888_184_h3_ffffd7df1007000700070007be7fbfffffff7fff07ff07ff07ff07ffffffffff_3c91b44a09c4ed73c03d9052c6c2f35f", 
+    "image_path": "Yjc5ZGQxMzY0NWNhY2E2ZjhkYjliNzdiMzQwZWVlZTM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "preSlide slideIn", 
+                "style": "white-space: pre-wrap; transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.422222s;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h3", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "preSlide slideIn", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "700", 
+            "fontSize": 35.2, 
+            "height": 92, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h3", 
+            "text": "Agile+DevOps East Virtual", 
+            "type": "", 
+            "value": "", 
+            "width": 444, 
+            "x": 253, 
+            "xPercent": 13.254593175853019, 
+            "y": 433, 
+            "yPercent": 15.504248658318426
+        }, 
+        "location": {
+            "x": 253, 
+            "y": 433
+        }, 
+        "size": {
+            "height": 92, 
+            "width": 444
+        }, 
+        "tag_name": "h3", 
+        "text": "Agile+DevOps East Virtual"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5d76be1b081e82a9e54ef302b3514170", 
+    "scrollable": false, 
+    "tag_name": "h3", 
+    "text": "Agile+DevOps East Virtual", 
+    "transformed": true, 
+    "width": 888, 
+    "x": 506, 
+    "y": 866
+}

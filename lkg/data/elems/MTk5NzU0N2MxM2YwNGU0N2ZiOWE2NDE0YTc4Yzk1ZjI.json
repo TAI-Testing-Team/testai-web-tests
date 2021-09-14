@@ -1,0 +1,19 @@
+{
+    "bounds": "[521,317][794,350]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "Gno/ruWkcQiDr+3u6Up5QQ==\n", 
+    "height": 33, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X521_Y317_W273_H33", 
+    "human_readable": "android.widget.TextView_521_317_273_33_android.widget.TextView_ffffffcfffcfffff802100210421042100210021002300210061ffffffffffff_7ffebb2a0f985e655834711c6f35773a", 
+    "image_path": "MTk5NzU0N2MxM2YwNGU0N2ZiOWE2NDE0YTc4Yzk1ZjI.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "506cb0c4142e421fcf760b8444342e2b", 
+    "tag_name": "android.widget.TextView", 
+    "text": "nutomation Tools", 
+    "width": 273, 
+    "x": 521, 
+    "y": 317
+}

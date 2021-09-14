@@ -1,0 +1,19 @@
+{
+    "bounds": "[439,750][761,776]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "cUxoYZJWL2AdkNYb3TcW6g==\n", 
+    "height": 26, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X439_Y750_W322_H26", 
+    "human_readable": "android.widget.TextView_439_750_322_26_android.widget.TextView_ffffffffffffbfbffffb0040000000404040400000000000ffffffffffff0000_f1940317158d70d74d6c38b61a5f8496", 
+    "image_path": "ZjBiZGQ1MTczYzQ1YzZlMmIxOGFkYjc5ZDg4M2JmMDc.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "73783cd4210023f4e707e8ea17c7921f", 
+    "tag_name": "android.widget.TextView", 
+    "text": "An Interview with Jason Arbon", 
+    "width": 322, 
+    "x": 439, 
+    "y": 750
+}

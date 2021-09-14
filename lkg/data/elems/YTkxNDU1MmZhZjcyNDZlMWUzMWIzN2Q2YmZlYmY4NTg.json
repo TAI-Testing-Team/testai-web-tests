@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "3Yqx0sWr0uCnf+YG7ZPAfA==\n", 
+    "height": 640, 
+    "hier_level": 0, 
+    "human_hash": "div_X1226_Y630_W1360_H640", 
+    "human_readable": "div_1226_630_1360_640_div_000018303c783c7c76cc63c4638453a65bb64386638466cc3efc3c7818300000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YTkxNDU1MmZhZjcyNDZlMWUzMWIzN2Q2YmZlYmY4NTg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "es hp fh ev er hq w hr hs ht"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgba(0, 0, 0, 0.8)", 
+            "cssClass": "es hp fh ev er hq w hr hs ht", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "medium-content-sans-serif-font, -apple-system, system-ui, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 320, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 680, 
+            "x": 613, 
+            "xPercent": 32.15223097112861, 
+            "y": 315, 
+            "yPercent": 6.1392189326061555
+        }, 
+        "location": {
+            "x": 613, 
+            "y": 315
+        }, 
+        "size": {
+            "height": 320, 
+            "width": 680
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1e96cefc88b1aef449cc33ec2c27fd2e", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 1360, 
+    "x": 1226, 
+    "y": 630
+}

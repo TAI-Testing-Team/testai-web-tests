@@ -1,0 +1,19 @@
+{
+    "bounds": "[440,97][740,124]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "dVM0E+39xMOIX9hsbSj0fA==\n", 
+    "height": 27, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X440_Y97_W300_H27", 
+    "human_readable": "android.widget.TextView_440_97_300_27_android.widget.TextView_ffffffffffffffff2dff0dff197e0000100010000000003000000200fffefffe_4eed9aa3eab2527baa4128b38e9f7cf2", 
+    "image_path": "Mjc1YzI2YTUwOGJjNzEyOTdjZTY3NWQwNmQxZTIwOWE.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "2f9b7a5888f319b76e06de2ca1b01c52", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Nill AI and Machine Learning", 
+    "width": 300, 
+    "x": 440, 
+    "y": 97
+}

@@ -1,0 +1,19 @@
+{
+    "bounds": "[875,1347][1457,1391]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "mgVZjTJL9xjs0lF2CHJFVA==\n", 
+    "height": 44, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X875_Y1347_W582_H44", 
+    "human_readable": "android.widget.TextView_875_1347_582_44_android.widget.TextView_5dff5dff5dff20103010711810800490123802000200fffffffffffefffe0000_2a7603b70184c272673a32220484533d", 
+    "image_path": "ZDdlNGU1MDc1NWEwMWQ3ODIyYzI4OTIzNzA4MWZhNDQ.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "7dd76fa0cfc728fc1e399dcd21a07d44", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Vill AI and Machine Learning", 
+    "width": 582, 
+    "x": 875, 
+    "y": 1347
+}

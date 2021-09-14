@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "gG4AXUQlH1oEQspSRxRJoQ==\n", 
+    "height": 224, 
+    "hier_level": 0, 
+    "human_hash": "a_X2300_Y654_W638_H224", 
+    "human_readable": "a_2300_654_638_224_a_ffff96ff000f000ffe7fffffffff41f200000000f7fbffffffff007f007f007f_eea9e2f5bbcdae38b04acc1d6cebb241", 
+    "image_path": "ZTUwYWZkZThiYTMyNzIwZWFmMjI1ODcwY2M2Nzg5MjY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://analyticsindiamag.com/artificial-intelligence-becoming-new-paradigm-software-testing/", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 112, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Artificial Intelligence is becoming the new paradigm in software testing", 
+            "type": "", 
+            "value": "", 
+            "width": 319, 
+            "x": 1150, 
+            "xPercent": 60.375656167978995, 
+            "y": 327, 
+            "yPercent": 12.201964352370286
+        }, 
+        "location": {
+            "x": 1150, 
+            "y": 327
+        }, 
+        "size": {
+            "height": 112, 
+            "width": 319
+        }, 
+        "tag_name": "a", 
+        "text": "Artificial Intelligence is becoming the new paradigm in software testing"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "f7f48f0d29896b3b54bffcd828fae92a", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Artificial Intelligence is becoming the new paradigm in software testing", 
+    "transformed": true, 
+    "width": 638, 
+    "x": 2300, 
+    "y": 654
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ka0VIRWj5cMlmZGqK5FXkw==\n", 
+    "height": 144, 
+    "hier_level": 0, 
+    "human_hash": "a_X856_Y876_W528_H144", 
+    "human_readable": "a_856_876_528_144_a_ffffffff07dc000000000000ffedffffffffffffffffd4ff01ff01ff01ffe7ff_c2f3525d39fc6af704d69f8f464687b4", 
+    "image_path": "NmE1MDI3NmU1ZWZlYjc3N2EwYWZjMTM2NWUzNGY4NDQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://techbeacon.com/app-dev-testing/will-ai-bots-steal-your-qa-testing-job", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Will AI bots steal your QA testing job?", 
+            "type": "", 
+            "value": "", 
+            "width": 264, 
+            "x": 428, 
+            "xPercent": 22.440944881889763, 
+            "y": 438, 
+            "yPercent": 16.62730250664641
+        }, 
+        "location": {
+            "x": 428, 
+            "y": 438
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 264
+        }, 
+        "tag_name": "a", 
+        "text": "Will AI bots steal your QA testing job?"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "8a736be5c2ff21ef3fff90bf2c9dadd1", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Will AI bots steal your QA testing job?", 
+    "transformed": true, 
+    "width": 528, 
+    "x": 856, 
+    "y": 876
+}

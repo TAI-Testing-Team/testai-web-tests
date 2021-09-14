@@ -1,0 +1,19 @@
+{
+    "bounds": "[2316,517][2961,562]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "Vm4AiFlT7Ju4G2iYerwOlQ==\n", 
+    "height": 45, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2316_Y517_W645_H45", 
+    "human_readable": "android.widget.TextView_2316_517_645_45_android.widget.TextView_ffffffffffffffff3bfa3bd3bfdf8008800000420040000044c000000000ff7f_11af665a8b809b92f367452565de247c", 
+    "image_path": "YmE5NzgzMmUwNzFhNWZlMDBjZGI3NjM3ZDUxYjAzMzQ.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "18406cadb80c13b36935e2fd25200886", 
+    "tag_name": "android.widget.TextView", 
+    "text": "AI-Driven Testing: a New Era of", 
+    "width": 645, 
+    "x": 2316, 
+    "y": 517
+}

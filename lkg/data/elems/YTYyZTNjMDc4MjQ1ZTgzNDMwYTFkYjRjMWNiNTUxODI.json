@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "OkStPtkSML8GAxb0aCbrjA==\n", 
+    "height": 224, 
+    "hier_level": 0, 
+    "human_hash": "a_X856_Y824_W642_H224", 
+    "human_readable": "a_856_824_642_224_a_ffff3dff00010001fffdffffffff48c100010021ffffffffffff000000008b0c_24e901f83f9c13b85080917f1936bb7e", 
+    "image_path": "YTYyZTNjMDc4MjQ1ZTgzNDMwYTFkYjRjMWNiNTUxODI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.cmcrossroads.com/interview/will-ai-and-machine-learning-take-over-software-testing-interview-jason-arbon", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 112, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Will AI and Machine Learning Take Over Software Testing?: An Interview with Jason Arbon", 
+            "type": "", 
+            "value": "", 
+            "width": 321, 
+            "x": 428, 
+            "xPercent": 22.440944881889763, 
+            "y": 412, 
+            "yPercent": 15.374790033594623
+        }, 
+        "location": {
+            "x": 428, 
+            "y": 412
+        }, 
+        "size": {
+            "height": 112, 
+            "width": 321
+        }, 
+        "tag_name": "a", 
+        "text": "Will AI and Machine Learning Take Over Software Testing?: An Interview with Jason Arbon"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "324eef8b72f5e0a9fb48921dd4a873ae", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Will AI and Machine Learning Take Over Software Testing?: An Interview with Jason Arbon", 
+    "transformed": true, 
+    "width": 642, 
+    "x": 856, 
+    "y": 824
+}

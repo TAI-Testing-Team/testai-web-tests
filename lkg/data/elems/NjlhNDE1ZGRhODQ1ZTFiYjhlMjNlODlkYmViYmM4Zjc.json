@@ -1,0 +1,19 @@
+{
+    "bounds": "[2290,148][2620,201]", 
+    "class": "android.widget.Image", 
+    "enabled": true, 
+    "hash": "R1uMCD1o5v4Gg4goLHZqoA==\n", 
+    "height": 53, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.Image_X2290_Y148_W330_H53", 
+    "human_readable": "android.widget.Image_2290_148_330_53_android.widget.Image_ffffffffffffffff0ec94f814fc10041004100410041000580018003ffffffff_673f11f0cbcb1a5fb5ba7df3848c4b93", 
+    "image_path": "NjlhNDE1ZGRhODQ1ZTFiYjhlMjNlODlkYmViYmM4Zjc.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "60562597b0e460048c516983a85a5c68", 
+    "tag_name": "android.widget.Image", 
+    "text": "Follow in 2019", 
+    "width": 330, 
+    "x": 2290, 
+    "y": 148
+}

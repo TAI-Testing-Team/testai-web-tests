@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "uL/ri+C5aCD5cQBXF1cj3w==\n", 
+    "height": 184, 
+    "hier_level": 0, 
+    "human_hash": "h1_X1466_Y1420_W1560_H184", 
+    "human_readable": "h1_1466_1420_1560_184_h1_ffff7ffb0000000000000000c014ffffffffffff03ff03ff03ff03ff03ffffff_aeec2c8a6d7b49737297e9ef0f2e8115", 
+    "image_path": "ZjlmMjhjNjE0NzdkODAzM2ViNGVjMmYyOWU3MzFjODk.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "main-article-title", 
+                "style": "min-height: 0px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(50, 50, 50)", 
+            "cssClass": "main-article-title", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Arial, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 42, 
+            "height": 92, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "AI in software testing has arrived. Here's why robots rule.", 
+            "type": "", 
+            "value": "", 
+            "width": 780, 
+            "x": 733, 
+            "xPercent": 38.4514435695538, 
+            "y": 710, 
+            "yPercent": 19.793699470309452
+        }, 
+        "location": {
+            "x": 733, 
+            "y": 710
+        }, 
+        "size": {
+            "height": 92, 
+            "width": 780
+        }, 
+        "tag_name": "h1", 
+        "text": "AI in software testing has arrived. Here's why robots rule."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "56dcec5629c9724ca16f951774a80160", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "AI in software testing has arrived. Here's why robots rule.", 
+    "transformed": true, 
+    "width": 1560, 
+    "x": 1466, 
+    "y": 1420
+}

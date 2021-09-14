@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "AQIVbw10LgALmIOAK4yAXw==\n", 
+    "height": 318, 
+    "hier_level": 0, 
+    "human_hash": "img_X1380_Y494_W1050_H318", 
+    "human_readable": "img_1380_494_1050_318_img_d805500d53f81b8819865dfa45ba619afff8fffd000500070007000ffffffb9f_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YThkYjJiYzYzOWViMWUwYTUzZTE1MTdlMDlmN2JkYWM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "", 
+                "height": "auto", 
+                "loading": "lazy", 
+                "src": "https://hustef.hu/wp-content/uploads/2020/05/hero-logo.svg", 
+                "title": "hero-logo", 
+                "width": "auto"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(26, 41, 67)", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Nunito Sans\", Helvetica, Arial, Lucida, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 159, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 525, 
+            "x": 690, 
+            "xPercent": 36.21965223097113, 
+            "y": 247, 
+            "yPercent": 4.377104377104377
+        }, 
+        "location": {
+            "x": 690, 
+            "y": 247
+        }, 
+        "size": {
+            "height": 159, 
+            "width": 525
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b26d244bc38f1cb524e299b1f467ab60", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 1050, 
+    "x": 1380, 
+    "y": 494
+}

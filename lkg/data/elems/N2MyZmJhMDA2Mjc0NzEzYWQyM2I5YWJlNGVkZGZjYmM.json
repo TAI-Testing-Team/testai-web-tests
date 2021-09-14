@@ -1,0 +1,19 @@
+{
+    "bounds": "[1585,747][2099,788]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "STnE1osHFQfbhOUeyp7Bew==\n", 
+    "height": 41, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1585_Y747_W514_H41", 
+    "human_readable": "android.widget.TextView_1585_747_514_41_android.widget.TextView_ffffffffaeffa6feefff8906000009000d0009000900094004000000ffffffff_8c0f61f998acceb0b4df28382c683a5b", 
+    "image_path": "N2MyZmJhMDA2Mjc0NzEzYWQyM2I5YWJlNGVkZGZjYmM.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "7c1239596fa139b4f52e87e352124809", 
+    "tag_name": "android.widget.TextView", 
+    "text": "with AI: An Interview wit", 
+    "width": 514, 
+    "x": 1585, 
+    "y": 747
+}

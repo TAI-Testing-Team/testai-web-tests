@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "djRjvE0odQQeEe3zjP6tTg==\n", 
+    "height": 35, 
+    "hier_level": 0, 
+    "human_hash": "a_X1480_Y64_W61_H35", 
+    "human_readable": "a_1480_64_61_35_a_ffffffffffffffffffffbfff1fff6040600060040000a244ffffffffffffffff_8085b5b45b63aaacfe9c2cdcb8f2d8e5", 
+    "image_path": "M2Y1YTk0ZWU3ODdmZGVhNDg4MjJiY2I5ZTdiOGM3MmI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "preSlide slideIn", 
+                "data-animation-role": "header-element", 
+                "href": "/careers", 
+                "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.05625s;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "preSlide slideIn", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 35, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Careers", 
+            "type": "", 
+            "value": "", 
+            "width": 61, 
+            "x": 1480, 
+            "xPercent": 77.6738845144357, 
+            "y": 64, 
+            "yPercent": 1.5432331963249517
+        }, 
+        "location": {
+            "x": 1480, 
+            "y": 64
+        }, 
+        "size": {
+            "height": 35, 
+            "width": 61
+        }, 
+        "tag_name": "a", 
+        "text": "Careers"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "0009bd4550a663d4cf13045f973dbcc2", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Careers", 
+    "transformed": true, 
+    "width": 61, 
+    "x": 1480, 
+    "y": 64
+}

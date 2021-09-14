@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "fi/P6XtAXUUAbIrlwMENWQ==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "a_X856_Y1078_W448_H50", 
+    "human_readable": "a_856_1078_448_50_a_ffffffffffffffffffff77db77db804000200000000808000040ffffffff0000_37bbf05bd5b84f34311e18cae842227f", 
+    "image_path": "YjkwMDI3MWFkM2U1MDhiMTQ3MTUzZTRhYTRhZWEyOWI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/s/testai_CaseStudy_Gaming_v13.pdf", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Gaming Industry Case Study", 
+            "type": "", 
+            "value": "", 
+            "width": 224, 
+            "x": 428, 
+            "xPercent": 22.440944881889763, 
+            "y": 539, 
+            "yPercent": 13.185266764561918
+        }, 
+        "location": {
+            "x": 428, 
+            "y": 539
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 224
+        }, 
+        "tag_name": "a", 
+        "text": "Gaming Industry Case Study"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "07d173482c705ff2ed3570d6cf4137ae", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Gaming Industry Case Study", 
+    "transformed": true, 
+    "width": 448, 
+    "x": 856, 
+    "y": 1078
+}

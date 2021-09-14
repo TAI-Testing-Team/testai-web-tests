@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "O1+Lh8RFaXaf/0wu+xZ47w==\n", 
+    "height": 35, 
+    "hier_level": 0, 
+    "human_hash": "a_X1398_Y64_W53_H35", 
+    "human_readable": "a_1398_64_53_35_a_ffffffffffffffffffff1fff1ff7688000012004000014b0ffffffffffffffff_69dda815447caacef8c90a629baf382d", 
+    "image_path": "ODg3ZGUxZjZhZTJmODVhZGFkZThiYzE5ODI1ODRlNDE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "preSlide slideIn", 
+                "data-animation-role": "header-element", 
+                "href": "/events", 
+                "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.046875s;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "preSlide slideIn", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 35, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Events", 
+            "type": "", 
+            "value": "", 
+            "width": 53, 
+            "x": 1398, 
+            "xPercent": 73.37024278215223, 
+            "y": 64, 
+            "yPercent": 1.5432331963249517
+        }, 
+        "location": {
+            "x": 1398, 
+            "y": 64
+        }, 
+        "size": {
+            "height": 35, 
+            "width": 53
+        }, 
+        "tag_name": "a", 
+        "text": "Events"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "0009bd4550a663d4cf13045f973dbcc2", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Events", 
+    "transformed": true, 
+    "width": 53, 
+    "x": 1398, 
+    "y": 64
+}

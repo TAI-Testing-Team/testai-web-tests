@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "MBDChgiZijm6rpzHoSRpVQ==\n", 
+    "height": 34, 
+    "hier_level": 0, 
+    "human_hash": "a_X3596_Y1650_W106_H34", 
+    "human_readable": "a_3596_1650_106_34_a_ffffffffffffffff3fff3fff367720002000302030a921a920202034fd7ffc7f_ca3bc5691ccf5c99a620b28d0dc6d033", 
+    "image_path": "OTBkODE2MGQwZjcwYzM3MGJjZWI3N2ZlZTg4OTMxOTM.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "onclick": "set_cookie()", 
+                "style": "color: #000; font-weight: 600;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Georgia, \"Times New Roman\", Times, serif", 
+            "font-weight": "600", 
+            "fontSize": 15, 
+            "height": 17, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "I agree", 
+            "type": "", 
+            "value": "", 
+            "width": 53, 
+            "x": 1798, 
+            "xPercent": 94.40780839895014, 
+            "y": 825, 
+            "yPercent": 25.93524049041182
+        }, 
+        "location": {
+            "x": 1798, 
+            "y": 825
+        }, 
+        "size": {
+            "height": 17, 
+            "width": 53
+        }, 
+        "tag_name": "a", 
+        "text": "I agree"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a811eb6547887270e1a2080334941e34", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "I agree", 
+    "transformed": true, 
+    "width": 106, 
+    "x": 3596, 
+    "y": 1650
+}

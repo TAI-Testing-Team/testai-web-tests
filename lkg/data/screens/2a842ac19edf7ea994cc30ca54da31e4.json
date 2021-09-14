@@ -1,0 +1,673 @@
+{
+    "action_info": {
+        "elem_class": "div", 
+        "elem_info": {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "EZOG50ReySqP9fgFY40Kyg==\n", 
+            "height": 114, 
+            "hier_level": 0, 
+            "human_hash": "div_X1900_Y1570_W114_H114", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "style": "color: rgba(0, 0, 0, 0); background-color: rgba(0, 0, 0, 0); background-size: contain; fill: rgb(0, 0, 0); font-family: \"Open Sans\", sans-serif; font-weight: 400; font-size: 16px; padding: 0px; margin: 0px; display: block; background-image: url(\"https://micro-cdn.sumo.com/image-resize/sumo-convert?uri=//media.sumo.com/d4c2f0d0ab08e81168215a826782ba06948a1f84ae3ff1f92e79291c3deb24fb&supported=webp,webp.alpha,webp.animation,webp.lossless&hash=595a4ffa3ab6de5d082c44faccdb82b953fd097ec71e510be496ed9a58890938&format=webp\"); position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; background-position: center center; background-repeat: no-repeat;"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgba(0, 0, 0, 0)", 
+                    "domLevel": 20, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Open Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 16, 
+                    "height": 57, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 57, 
+                    "x": 950, 
+                    "xPercent": 49.50173695882161, 
+                    "y": 785, 
+                    "yPercent": 6.888469916187949
+                }, 
+                "location": {
+                    "x": 950, 
+                    "y": 785
+                }, 
+                "size": {
+                    "height": 57, 
+                    "width": 57
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 114, 
+            "x": 1900, 
+            "y": 1570
+        }, 
+        "gesture": "tap", 
+        "text": "tap"
+    }, 
+    "all_elems": [
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "button", 
+            "clickable": true, 
+            "content-desc": "", 
+            "enabled": true, 
+            "focusable": true, 
+            "focused": false, 
+            "hash": "Ks2GH7k7dOsQ6kN3Rm/jWw==\n", 
+            "height": 154, 
+            "hier_level": 0, 
+            "human_hash": "button_X1384_Y956_W382_H154", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "style": "color: rgb(255, 255, 255); background-color: rgb(46, 54, 57); font-family: Raleway, sans-serif; font-weight: 400; font-style: normal; font-size: 31px; line-height: 1; text-shadow: rgba(0, 0, 0, 0) 0px 0px 0px; padding: 0px; margin: 0px; display: block; width: 100%; height: 100%; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px inset; cursor: pointer;"
+                    }, 
+                    "background-color": "rgb(46, 54, 57)", 
+                    "class": "button", 
+                    "color": "rgb(255, 255, 255)", 
+                    "domLevel": 20, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": true, 
+                        "enabled": true, 
+                        "focusable": true, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "Raleway, sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 31, 
+                    "height": 77, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "button", 
+                    "text": "SUBMIT", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 191, 
+                    "x": 692, 
+                    "xPercent": 36.04861259460449, 
+                    "y": 478, 
+                    "yPercent": 4.195170527151898
+                }, 
+                "location": {
+                    "x": 692, 
+                    "y": 478
+                }, 
+                "size": {
+                    "height": 77, 
+                    "width": 191
+                }, 
+                "tag_name": "button", 
+                "text": "SUBMIT"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "button", 
+            "text": "SUBMIT", 
+            "transformed": true, 
+            "width": 382, 
+            "x": 1384, 
+            "y": 956
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "LDFiHmrsk6qxRRarYzJoUA==\n", 
+            "height": 1722, 
+            "hier_level": 0, 
+            "human_hash": "div_X0_Y0_W3840_H1722", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "style": "color: rgba(0, 0, 0, 0); background-color: rgb(246, 248, 248); fill: rgb(0, 0, 0); font-family: \"Open Sans\", sans-serif; font-weight: 400; padding: 0px; margin: 0px; display: block; background-image: url(\"https://micro-cdn.sumo.com/image-resize/sumo-convert?uri=//media.sumo.com/4fab5b82e18777ec05d6bf501c8703aac4dd688b3c8c3f63f045c67a36a6ebcb&supported=webp,webp.alpha,webp.animation,webp.lossless&hash=d1b8c7f6e2406383ec5a5089b2858bd2697e7a4e001e06d47f0284e18610768e&format=webp\"); position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; background-size: cover; background-position: center center; background-repeat: no-repeat;"
+                    }, 
+                    "background-color": "rgb(246, 248, 248)", 
+                    "class": "div", 
+                    "color": "rgba(0, 0, 0, 0)", 
+                    "domLevel": 17, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Open Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 16, 
+                    "height": 861, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1920, 
+                    "x": 0, 
+                    "xPercent": 0, 
+                    "y": 0, 
+                    "yPercent": 0
+                }, 
+                "location": {
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "size": {
+                    "height": 861, 
+                    "width": 1920
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 3840, 
+            "x": 0, 
+            "y": 0
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "EZOG50ReySqP9fgFY40Kyg==\n", 
+            "height": 114, 
+            "hier_level": 0, 
+            "human_hash": "div_X1900_Y1570_W114_H114", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "style": "color: rgba(0, 0, 0, 0); background-color: rgba(0, 0, 0, 0); background-size: contain; fill: rgb(0, 0, 0); font-family: \"Open Sans\", sans-serif; font-weight: 400; font-size: 16px; padding: 0px; margin: 0px; display: block; background-image: url(\"https://micro-cdn.sumo.com/image-resize/sumo-convert?uri=//media.sumo.com/d4c2f0d0ab08e81168215a826782ba06948a1f84ae3ff1f92e79291c3deb24fb&supported=webp,webp.alpha,webp.animation,webp.lossless&hash=595a4ffa3ab6de5d082c44faccdb82b953fd097ec71e510be496ed9a58890938&format=webp\"); position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; background-position: center center; background-repeat: no-repeat;"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgba(0, 0, 0, 0)", 
+                    "domLevel": 20, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Open Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 16, 
+                    "height": 57, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 57, 
+                    "x": 950, 
+                    "xPercent": 49.50173695882161, 
+                    "y": 785, 
+                    "yPercent": 6.888469916187949
+                }, 
+                "location": {
+                    "x": 950, 
+                    "y": 785
+                }, 
+                "size": {
+                    "height": 57, 
+                    "width": 57
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 114, 
+            "x": 1900, 
+            "y": 1570
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "xDIABrHpqAooZ80y9m1AQA==\n", 
+            "height": 1722, 
+            "hier_level": 0, 
+            "human_hash": "div_X542_Y0_W2756_H1722", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sumome-react-wysiwyg-move-handle sumome-react-wysiwyg-component-is-drag-disabled", 
+                        "style": "size: 11px; height: 100%;"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(10, 10, 10)", 
+                    "cssClass": "sumome-react-wysiwyg-move-handle sumome-react-wysiwyg-component-is-drag-disabled", 
+                    "domLevel": 15, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Open Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 16, 
+                    "height": 861, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Stay informed, Stay inspired.We are dedicated to passionately championing and promoting the analytics ecosystem in India. Subscribe to our Newsletter..sumome-react-wysiwyg-welcome-mat-textField input[name='email']::placeholder { color: #2e3639 !important; }\n.sumome-react-wysiwyg-welcome-mat-textField input[name='email']::-webkit-input-placeholder  { color: #2e3639 !important; }\n.sumome-react-wysiwyg-welcome-mat-textField input[name='email']:-ms-input-placeholder { color: #2e3639 !important; }\n.sumome-react-wysiwyg-welcome-mat-textField input[name='email']::-ms-input-placeholder { color: #2e3639 !important; }SUBMIT", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1378, 
+                    "x": 271, 
+                    "xPercent": 14.125000635782877, 
+                    "y": 0, 
+                    "yPercent": 0
+                }, 
+                "location": {
+                    "x": 271, 
+                    "y": 0
+                }, 
+                "size": {
+                    "height": 861, 
+                    "width": 1378
+                }, 
+                "tag_name": "div", 
+                "text": "Stay informed, Stay inspired.We are dedicated to passionately championing and promoting the analytics ecosystem in India. Subscribe to our Newsletter..sumome-react-wysiwyg-welcome-mat-textField input[name='email']::placeholder { color: #2e3639 !important; }\n.sumome-react-wysiwyg-welcome-mat-textField input[name='email']::-webkit-input-placeholder  { color: #2e3639 !important; }\n.sumome-react-wysiwyg-welcome-mat-textField input[name='email']:-ms-input-placeholder { color: #2e3639 !important; }\n.sumome-react-wysiwyg-welcome-mat-textField input[name='email']::-ms-input-placeholder { color: #2e3639 !important; }SUBMIT"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Stay informed, Stay inspired.We are dedicated to passionately championing and promoting the analytics ecosystem in India. Subscribe to our Newsletter..sumome-react-wysiwyg-welcome-mat-textField input[name='email']::placeholder { color: #2e3639 !important; }\n.sumome-react-wysiwyg-welcome-mat-textField input[name='email']::-webkit-input-placeholder  { color: #2e3639 !important; }\n.sumome-react-wysiwyg-welcome-mat-textField input[name='email']:-ms-input-placeholder { color: #2e3639 !important; }\n.sumome-react-wysiwyg-welcome-mat-textField input[name='email']::-ms-input-placeholder { color: #2e3639 !important; }SUBMIT", 
+            "transformed": true, 
+            "width": 2756, 
+            "x": 542, 
+            "y": 0
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "h8BQv2hwX4IAyNve1as3mw==\n", 
+            "height": 154, 
+            "hier_level": 0, 
+            "human_hash": "div_X1384_Y956_W382_H154", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "style": "padding: 0px; margin: 0px; display: block; width: 100%; height: 100%; position: relative; overflow: hidden; z-index: 0; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px; border-color: rgba(0, 0, 0, 0); border-style: solid; border-radius: 1px; border-width: 0px;"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(10, 10, 10)", 
+                    "domLevel": 19, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Open Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 16, 
+                    "height": 77, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "SUBMIT", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 191, 
+                    "x": 692, 
+                    "xPercent": 36.04861259460449, 
+                    "y": 478, 
+                    "yPercent": 4.195170527151898
+                }, 
+                "location": {
+                    "x": 692, 
+                    "y": 478
+                }, 
+                "size": {
+                    "height": 77, 
+                    "width": 191
+                }, 
+                "tag_name": "div", 
+                "text": "SUBMIT"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "SUBMIT", 
+            "transformed": true, 
+            "width": 382, 
+            "x": 1384, 
+            "y": 956
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "input", 
+            "clickable": true, 
+            "content-desc": "", 
+            "enabled": true, 
+            "focusable": true, 
+            "focused": true, 
+            "hash": "kcQsrKIZVkM5TSANRWYdaw==\n", 
+            "height": 154, 
+            "hier_level": 0, 
+            "human_hash": "input_X618_Y956_W766_H154", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "autocomplete": "off", 
+                        "name": "email", 
+                        "placeholder": "Your email address", 
+                        "spellcheck": "false", 
+                        "style": "color: rgb(46, 54, 57); background-color: rgb(255, 255, 255); font-family: Raleway, sans-serif; font-weight: 400; font-style: normal; font-size: 40px; text-align: left; border-width: 0px; border-color: rgba(0, 0, 0, 0); border-style: solid; border-radius: 1px; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px inset; text-shadow: rgba(0, 0, 0, 0) 0px 0px 0px; padding: 0px 14px; margin: 0px; display: block; width: 100%; max-height: none; height: 80px; transition: none 0s ease 0s;", 
+                        "type": "text", 
+                        "value": ""
+                    }, 
+                    "background-color": "rgb(255, 255, 255)", 
+                    "class": "input", 
+                    "color": "rgb(46, 54, 57)", 
+                    "domLevel": 20, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": true, 
+                        "enabled": true, 
+                        "focusable": true, 
+                        "focused": true, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "Raleway, sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 40, 
+                    "height": 77, 
+                    "identifier": "", 
+                    "is-focused": true, 
+                    "is-hidden": false, 
+                    "name": "email", 
+                    "tagName": "input", 
+                    "text": "", 
+                    "type": "text", 
+                    "value": "", 
+                    "width": 383, 
+                    "x": 309, 
+                    "xPercent": 16.11805597941081, 
+                    "y": 478, 
+                    "yPercent": 4.195170527151898
+                }, 
+                "location": {
+                    "x": 309, 
+                    "y": 478
+                }, 
+                "size": {
+                    "height": 77, 
+                    "width": 383
+                }, 
+                "tag_name": "input", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "input", 
+            "text": "", 
+            "transformed": true, 
+            "width": 766, 
+            "x": 618, 
+            "y": 956
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": true, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": true, 
+            "focused": false, 
+            "hash": "RJ+so20vni75yJVTcRILzw==\n", 
+            "height": 260, 
+            "hier_level": 0, 
+            "human_hash": "div_X618_Y382_W1530_H260", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "role": "button", 
+                        "tabindex": "0"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(10, 10, 10)", 
+                    "domLevel": 19, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": true, 
+                        "enabled": false, 
+                        "focusable": true, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Open Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 16, 
+                    "height": 130, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Stay informed, Stay inspired.", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 765, 
+                    "x": 309, 
+                    "xPercent": 16.11805597941081, 
+                    "y": 191, 
+                    "yPercent": 1.67806813056543
+                }, 
+                "location": {
+                    "x": 309, 
+                    "y": 191
+                }, 
+                "size": {
+                    "height": 130, 
+                    "width": 765
+                }, 
+                "tag_name": "div", 
+                "text": "Stay informed, Stay inspired."
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Stay informed, Stay inspired.", 
+            "transformed": true, 
+            "width": 1530, 
+            "x": 618, 
+            "y": 382
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": true, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": true, 
+            "focused": false, 
+            "hash": "PSv2YhpQ68P2hXhZjYuSRg==\n", 
+            "height": 100, 
+            "hier_level": 0, 
+            "human_hash": "div_X618_Y728_W1530_H100", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "role": "button", 
+                        "tabindex": "0"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(10, 10, 10)", 
+                    "domLevel": 19, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": true, 
+                        "enabled": false, 
+                        "focusable": true, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Open Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 16, 
+                    "height": 50, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "We are dedicated to passionately championing and promoting the analytics ecosystem in India. Subscribe to our Newsletter.", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 765, 
+                    "x": 309, 
+                    "xPercent": 16.11805597941081, 
+                    "y": 364, 
+                    "yPercent": 3.1883294614568713
+                }, 
+                "location": {
+                    "x": 309, 
+                    "y": 364
+                }, 
+                "size": {
+                    "height": 50, 
+                    "width": 765
+                }, 
+                "tag_name": "div", 
+                "text": "We are dedicated to passionately championing and promoting the analytics ecosystem in India. Subscribe to our Newsletter."
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "We are dedicated to passionately championing and promoting the analytics ecosystem in India. Subscribe to our Newsletter.", 
+            "transformed": true, 
+            "width": 1530, 
+            "x": 618, 
+            "y": 728
+        }
+    ], 
+    "cpu": 0, 
+    "jank": 0, 
+    "mem": 0, 
+    "net": 0, 
+    "processed": true, 
+    "timing": 0
+}

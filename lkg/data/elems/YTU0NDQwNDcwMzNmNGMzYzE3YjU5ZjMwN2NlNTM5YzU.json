@@ -1,0 +1,19 @@
+{
+    "bounds": "[497,903][1221,976]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "t1uWZWevuP6UUBjvbGnOhA==\n", 
+    "height": 73, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X497_Y903_W724_H73", 
+    "human_readable": "android.widget.TextView_497_903_724_73_android.widget.TextView_ffffffffdbb77937793704080000001100010c09091088008880ffff9fffbfff_8967cb58f65ec54cef55a706e30f2737", 
+    "image_path": "YTU0NDQwNDcwMzNmNGMzYzE3YjU5ZjMwN2NlNTM5YzU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "9c01e80f6588a93ff170a0b08545cd38", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Agile+DevOps East", 
+    "width": 724, 
+    "x": 497, 
+    "y": 903
+}

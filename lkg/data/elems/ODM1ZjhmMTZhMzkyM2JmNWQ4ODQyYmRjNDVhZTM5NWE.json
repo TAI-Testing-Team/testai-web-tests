@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "CaV/xJQJDhM9WjWU6vHLmA==\n", 
+    "height": 242, 
+    "hier_level": 0, 
+    "human_hash": "div_X2300_Y1320_W654_H242", 
+    "human_readable": "div_2300_1320_654_242_div_ffffffff000700070007ffffffff010400000000ffffffffffffffff00076dff_c1a7538b313940811de74146eb6f194d", 
+    "image_path": "ODM1ZjhmMTZhMzkyM2JmNWQ4ODQyYmRjNDVhZTM5NWE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sqs-block-content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "sqs-block-content", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 121, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "AI in software testing has arrived. Here's why robots rule.Search Quality Software | April 19, 2018", 
+            "type": "", 
+            "value": "", 
+            "width": 327, 
+            "x": 1150, 
+            "xPercent": 60.375656167978995, 
+            "y": 660, 
+            "yPercent": 24.631975550578574
+        }, 
+        "location": {
+            "x": 1150, 
+            "y": 660
+        }, 
+        "size": {
+            "height": 121, 
+            "width": 327
+        }, 
+        "tag_name": "div", 
+        "text": "AI in software testing has arrived. Here's why robots rule.Search Quality Software | April 19, 2018"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "f2ee0bebd138437dc7d2715ead95d999", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "AI in software testing has arrived. Here's why robots rule.Search Quality Software | April 19, 2018", 
+    "transformed": true, 
+    "width": 654, 
+    "x": 2300, 
+    "y": 1320
+}

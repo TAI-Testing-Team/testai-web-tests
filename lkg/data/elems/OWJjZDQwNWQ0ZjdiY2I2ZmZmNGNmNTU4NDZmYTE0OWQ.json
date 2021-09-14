@@ -1,0 +1,19 @@
+{
+    "bounds": "[860,1217][1410,1257]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "bF+HjS1agz4jDIeTBMNmtg==\n", 
+    "height": 40, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X860_Y1217_W550_H40", 
+    "human_readable": "android.widget.TextView_860_1217_550_40_android.widget.TextView_ffff7bf7fbf7ffff00080008020a000800080c0c0c0c00080408ffffffffffff_872123c0c31639b7080f70950ea1af73", 
+    "image_path": "OWJjZDQwNWQ0ZjdiY2I2ZmZmNGNmNTU4NDZmYTE0OWQ.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "d351447fc46d180c588d3bfe08857b40", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Intro to Postmodern Testin", 
+    "width": 550, 
+    "x": 860, 
+    "y": 1217
+}

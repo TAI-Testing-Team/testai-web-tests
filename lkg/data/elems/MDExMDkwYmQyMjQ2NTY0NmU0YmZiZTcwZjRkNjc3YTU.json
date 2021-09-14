@@ -1,0 +1,19 @@
+{
+    "bounds": "[2298,1195][2910,1238]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "P2/74rdjwiDN4JxR0u/WVA==\n", 
+    "height": 43, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2298_Y1195_W612_H43", 
+    "human_readable": "android.widget.TextView_2298_1195_612_43_android.widget.TextView_ffff7fff7e7b7efb810801080108811800000110019001080008fffffffffdef_cdab62c4e72f4de51238169d94d1933c", 
+    "image_path": "MDExMDkwYmQyMjQ2NTY0NmU0YmZiZTcwZjRkNjc3YTU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "7c1239596fa139b4f52e87e352124809", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Transforming Testing: A Recip", 
+    "width": 612, 
+    "x": 2298, 
+    "y": 1195
+}

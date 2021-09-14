@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210124191401/tmpZ/h1_X938_Y732_W1240_H98.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "VADazoWYs+XXYfcPula3cQ==\n", 
+    "height": 98, 
+    "hier_level": 0, 
+    "human_hash": "h1_X938_Y732_W1240_H98", 
+    "human_readable": "h1_938_732_1240_98_h1_ffffffffffff3bbf28bf2abf003f003f003f003f003f003f003f003fffffffff_098bdbc0e1dc7dbd14bf6d3d46fb22fa", 
+    "image_path": "ODZhYjdjMmQ1YzczYzhmYzY0MDRhODQwMDhiM2M4MzQ.png", 
+    "img_hash": "8e3007910b0c1750d2f8b3f9171bd5d3", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "omc-post-heading-standard"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(68, 68, 68)", 
+            "cssClass": "omc-post-heading-standard", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Oswald, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 39.9, 
+            "height": 49, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "The Quest for Quality in AI", 
+            "type": "", 
+            "value": "", 
+            "width": 620, 
+            "x": 469, 
+            "xPercent": 24.593175853018373, 
+            "y": 366, 
+            "yPercent": 4.8088293259755615
+        }, 
+        "location": {
+            "x": 469, 
+            "y": 366
+        }, 
+        "size": {
+            "height": 49, 
+            "width": 620
+        }, 
+        "tag_name": "h1", 
+        "text": "The Quest for Quality in AI"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "0bdf70b811a1e75915a0011772654397", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "The Quest for Quality in AI", 
+    "text_hash": "098bdbc0e1dc7dbd14bf6d3d46fb22fa", 
+    "transformed": true, 
+    "width": 1240, 
+    "x": 938, 
+    "y": 732
+}

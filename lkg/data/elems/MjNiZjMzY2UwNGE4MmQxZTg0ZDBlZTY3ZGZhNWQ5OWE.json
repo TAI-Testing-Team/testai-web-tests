@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "9u1Fey44ZqqLUIZZOddrIw==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "div_X2338_Y474_W400_H52", 
+    "human_readable": "div_2338_474_400_52_div_fffffffffffffffffef7fef7fe00fe00fe00fe00fe10fe00fe4affffffffffff_08c044a21a9272a0f6491a8b230b8d8d", 
+    "image_path": "MjNiZjMzY2UwNGE4MmQxZTg0ZDBlZTY3ZGZhNWQ5OWE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-nav-folder-item"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "header-nav-folder-item", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Service Terms", 
+            "type": "", 
+            "value": "", 
+            "width": 200, 
+            "x": 1169, 
+            "xPercent": 61.35990813648294, 
+            "y": 237, 
+            "yPercent": 10.790993400091033
+        }, 
+        "location": {
+            "x": 1169, 
+            "y": 237
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 200
+        }, 
+        "tag_name": "div", 
+        "text": "Service Terms"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "4d98c5bab2744a6ee6ae68e8b3cff9dc", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Service Terms", 
+    "transformed": true, 
+    "width": 400, 
+    "x": 2338, 
+    "y": 474
+}

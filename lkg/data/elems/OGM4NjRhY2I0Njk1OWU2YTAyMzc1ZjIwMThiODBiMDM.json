@@ -1,0 +1,19 @@
+{
+    "bounds": "[2313,1425][2941,1469]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "Hv/Dp6bl2kMWzCdx8bHbEg==\n", 
+    "height": 44, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X2313_Y1425_W628_H44", 
+    "human_readable": "android.widget.TextView_2313_1425_628_44_android.widget.TextView_fffffffff7fff7ff000000001104100010001200020400004920ffffffffffff_cb9db846b3de9eb2ed8009830355726c", 
+    "image_path": "OGM4NjRhY2I0Njk1OWU2YTAyMzc1ZjIwMThiODBiMDM.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "f2ee0bebd138437dc7d2715ead95d999", 
+    "tag_name": "android.widget.TextView", 
+    "text": "arrived. Here's why robots rule", 
+    "width": 628, 
+    "x": 2313, 
+    "y": 1425
+}

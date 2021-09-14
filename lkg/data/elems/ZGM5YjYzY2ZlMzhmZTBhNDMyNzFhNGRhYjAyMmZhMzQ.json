@@ -1,0 +1,19 @@
+{
+    "bounds": "[1570,294][2169,341]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "MQpskxh2OMOTgyRySeM1hg==\n", 
+    "height": 47, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1570_Y294_W599_H47", 
+    "human_readable": "android.widget.TextView_1570_294_599_47_android.widget.TextView_ffffffffffffffff6fde4ddaddda90000000000000200020c00800200020feff_6a2f682b0bd1af71153e3add38ca6c51", 
+    "image_path": "ZGM5YjYzY2ZlMzhmZTBhNDMyNzFhNGRhYjAyMmZhMzQ.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "7c1239596fa139b4f52e87e352124809", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Test Every App In The World", 
+    "width": 599, 
+    "x": 1570, 
+    "y": 294
+}

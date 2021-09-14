@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "5MzrPdNMPA6n+RSPsT0QIQ==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "a_X2416_Y890_W726_H62", 
+    "human_readable": "a_2416_890_726_62_a_ffffffffffffffff6eff6eff0000800081000100110000000100fffffdffffff_9f3273523cc3c9e16d38c8e5ab5c2cff", 
+    "image_path": "NjU1ZDg0Y2ViYjM1YTNiM2ZmOTE5OTE2YTUyZjY3ZjM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/s/testai_CaseStudy_Transportation_v12.pdf", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "700", 
+            "fontSize": 25.6, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Case Study: Transportation", 
+            "type": "", 
+            "value": "", 
+            "width": 363, 
+            "x": 1208, 
+            "xPercent": 63.436679790026254, 
+            "y": 445, 
+            "yPercent": 17.453131134668237
+        }, 
+        "location": {
+            "x": 1208, 
+            "y": 445
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 363
+        }, 
+        "tag_name": "a", 
+        "text": "Case Study: Transportation"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c1c754eb201fcab16d71be75c4d55cf5", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Case Study: Transportation", 
+    "transformed": true, 
+    "width": 726, 
+    "x": 2416, 
+    "y": 890
+}

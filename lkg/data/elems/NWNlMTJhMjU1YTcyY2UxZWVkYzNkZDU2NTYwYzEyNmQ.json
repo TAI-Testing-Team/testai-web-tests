@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "FXNXOE2wzBLGZnQShqYr7w==\n", 
+    "height": 144, 
+    "hier_level": 0, 
+    "human_hash": "a_X856_Y882_W592_H144", 
+    "human_readable": "a_856_882_592_144_a_ffffffff5bfe000000000000c47fffffffffffffffffffff00ff00ff00ff95ff_7240d949f0dbbf017234d64d1d4baa05", 
+    "image_path": "NWNlMTJhMjU1YTcyY2UxZWVkYzNkZDU2NTYwYzEyNmQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.businesspost.ie/commercial-reports/bridging-the-gap-between-ai-use-and-value-6f22d682", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Bridging the gap between AI use and value", 
+            "type": "", 
+            "value": "", 
+            "width": 296, 
+            "x": 428, 
+            "xPercent": 22.440944881889763, 
+            "y": 441, 
+            "yPercent": 16.457283501306456
+        }, 
+        "location": {
+            "x": 428, 
+            "y": 441
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 296
+        }, 
+        "tag_name": "a", 
+        "text": "Bridging the gap between AI use and value"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "f2ee0bebd138437dc7d2715ead95d999", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Bridging the gap between AI use and value", 
+    "transformed": true, 
+    "width": 592, 
+    "x": 856, 
+    "y": 882
+}

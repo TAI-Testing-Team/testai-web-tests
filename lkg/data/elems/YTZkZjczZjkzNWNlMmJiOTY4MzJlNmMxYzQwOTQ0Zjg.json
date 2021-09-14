@@ -1,0 +1,19 @@
+{
+    "bounds": "[842,1206][1094,1250]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "i9v6IA++eds8KwzgZeH/oQ==\n", 
+    "height": 44, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X842_Y1206_W252_H44", 
+    "human_readable": "android.widget.TextView_842_1206_252_44_android.widget.TextView_fffffdfabbfabbba80218020882080208021b06180608020ff2fffdfff1fff3f_3d05dde9be0e67a6c99a4a89f7df8846", 
+    "image_path": "YTZkZjczZjkzNWNlMmJiOTY4MzJlNmMxYzQwOTQ0Zjg.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "869e3e29166089bf4a9f0a613331cc1d", 
+    "tag_name": "android.widget.TextView", 
+    "text": "testing job?", 
+    "width": 252, 
+    "x": 842, 
+    "y": 1206
+}

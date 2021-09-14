@@ -1,0 +1,19 @@
+{
+    "bounds": "[1593,668][2247,713]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "ZjPbpVu+lGfpWwihPUriZg==\n", 
+    "height": 45, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1593_Y668_W654_H45", 
+    "human_readable": "android.widget.TextView_1593_668_654_45_android.widget.TextView_ffffffff5cefddef685100010001000102014211401100010011fffffffdfffd_b56bbc2dc17aeb497e003a809db495d1", 
+    "image_path": "MzFmZjU5OWJhM2NiMDVmNjM1YmQ4MWNmYjUxYTcxYjc.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "7c1239596fa139b4f52e87e352124809", 
+    "tag_name": "android.widget.TextView", 
+    "text": "The Future of Software Testing", 
+    "width": 654, 
+    "x": 1593, 
+    "y": 668
+}

@@ -1,0 +1,19 @@
+{
+    "bounds": "[424,48][745,74]", 
+    "class": "android.widget.Button", 
+    "enabled": true, 
+    "hash": "UOo64EHnfNBy7T7QYAmD0Q==\n", 
+    "height": 26, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.Button_X424_Y48_W321_H26", 
+    "human_readable": "android.widget.Button_424_48_321_26_android.widget.Button_ffffffffffffffff73ebf3ef8011800180018001800180010001bc31fffffffd_82075b098eedf9e97a611885092e572b", 
+    "image_path": "MTMwZjBlYjdjMjU5MGExODM0YjczOTAwZGNkZDYwMWE.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "e58d034a5e7abeedbc3a1b965e3cb8a3", 
+    "tag_name": "android.widget.Button", 
+    "text": "ntro to Postmodern Testing", 
+    "width": 321, 
+    "x": 424, 
+    "y": 48
+}

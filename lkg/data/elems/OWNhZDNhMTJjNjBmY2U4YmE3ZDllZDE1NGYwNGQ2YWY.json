@@ -1,0 +1,19 @@
+{
+    "bounds": "[1123,485][1487,513]", 
+    "class": "android.widget.Button", 
+    "enabled": true, 
+    "hash": "8L4hOYCBVikWEao9jcq2LQ==\n", 
+    "height": 28, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.Button_X1123_Y485_W364_H28", 
+    "human_readable": "android.widget.Button_1123_485_364_28_android.widget.Button_ffffffffffffdfffcf77eb3fc0008001800180008119c000d058fffffffe8000_94e880ddf05b4324319a9cbd8a7c19a8", 
+    "image_path": "OWNhZDNhMTJjNjBmY2U4YmE3ZDllZDE1NGYwNGQ2YWY.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "73783cd4210023f4e707e8ea17c7921f", 
+    "tag_name": "android.widget.Button", 
+    "text": "will Redefine Software Testing", 
+    "width": 364, 
+    "x": 1123, 
+    "y": 485
+}

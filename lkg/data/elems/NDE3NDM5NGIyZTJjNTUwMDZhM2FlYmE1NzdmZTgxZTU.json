@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "wqxlV3YTfFZzIcmE8ge+YA==\n", 
+    "height": 26, 
+    "hier_level": 0, 
+    "human_hash": "a_X1184_Y260_W200_H26", 
+    "human_readable": "a_1184_260_200_26_a_fffffffffffffffffef7fef7fe00fe00fe00fe00fe10fe00fe4affffffffffff_08c044a21a9272a0f6491a8b230b8d8d", 
+    "image_path": "NDE3NDM5NGIyZTJjNTUwMDZhM2FlYmE1NzdmZTgxZTU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/service-terms"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Service Terms", 
+            "type": "", 
+            "value": "", 
+            "width": 200, 
+            "x": 1184, 
+            "xPercent": 61.661783854166664, 
+            "y": 260, 
+            "yPercent": 3.389692468074016
+        }, 
+        "location": {
+            "x": 1184, 
+            "y": 260
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 200
+        }, 
+        "tag_name": "a", 
+        "text": "Service Terms"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "7295bd19ccf0e382022b3cb3b3f883a4", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Service Terms", 
+    "transformed": true, 
+    "width": 200, 
+    "x": 1184, 
+    "y": 260
+}

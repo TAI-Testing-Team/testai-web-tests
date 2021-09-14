@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "54vPb2d9WJJi+ugftWMDUg==\n", 
+    "height": 43, 
+    "hier_level": 0, 
+    "human_hash": "a_X260_Y831_W319_H43", 
+    "human_readable": "a_260_831_319_43_a_ffffffffffff7fdf3fbf3eac0001008000808081028100811cd1ffffffff0000_a3f7798dadcfa57a32a69e0fa6c7650c", 
+    "image_path": "YjAzMGVhM2ZjYzAzNjM4NWFkOTIyMTFjYTU5NTJmNTI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://starwest.techwell.com/"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "700", 
+            "fontSize": 35.2, 
+            "height": 43, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Starwest Virtual+", 
+            "type": "", 
+            "value": "", 
+            "width": 319, 
+            "x": 260, 
+            "xPercent": 13.541666666666666, 
+            "y": 831, 
+            "yPercent": 29.087758047585726
+        }, 
+        "location": {
+            "x": 260, 
+            "y": 831
+        }, 
+        "size": {
+            "height": 43, 
+            "width": 319
+        }, 
+        "tag_name": "a", 
+        "text": "Starwest Virtual+"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5ab0e13ded6961dc4f0e0741930f8254", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Starwest Virtual+", 
+    "transformed": true, 
+    "width": 319, 
+    "x": 260, 
+    "y": 831
+}

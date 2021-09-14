@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "wXBBx97Eb2tj3jgYROuBog==\n", 
+    "height": 64, 
+    "hier_level": 0, 
+    "human_hash": "a_X856_Y746_W576_H64", 
+    "human_readable": "a_856_746_576_64_a_ffffffffffffffffffff35e575e7020000004010020002000010fffefffe0000_6941d446cbdd8cb9d4d01483d7154ecc", 
+    "image_path": "OWUzOWI1MGE1MmJhZmNkODEzYjJiYWIxMTg0MDhmODc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.centercode.com/blog/2019/04/ai-and-the-future-of-testing", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 22.4, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "AI and the Future of Testing", 
+            "type": "", 
+            "value": "", 
+            "width": 288, 
+            "x": 428, 
+            "xPercent": 22.440944881889763, 
+            "y": 373, 
+            "yPercent": 13.919022956326987
+        }, 
+        "location": {
+            "x": 428, 
+            "y": 373
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 288
+        }, 
+        "tag_name": "a", 
+        "text": "AI and the Future of Testing"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "794b6f95ba31bc894b8c19e8106ceef7", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "AI and the Future of Testing", 
+    "transformed": true, 
+    "width": 576, 
+    "x": 856, 
+    "y": 746
+}

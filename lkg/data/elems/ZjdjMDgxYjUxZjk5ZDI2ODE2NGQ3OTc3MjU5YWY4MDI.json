@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "kXHAMt1SB6fPTvhB/jj7YQ==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "a_X1460_Y890_W834_H62", 
+    "human_readable": "a_1460_890_834_62_a_fffffffffffffffd6f276da70000000080000080209000000000fffffaffffff_3db1d77ec2de2d7527910f427ba3e0b1", 
+    "image_path": "ZjdjMDgxYjUxZjk5ZDI2ODE2NGQ3OTc3MjU5YWY4MDI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/s/testai_CaseStudy_AppStoreProvider_v12.pdf", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "700", 
+            "fontSize": 25.6, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Case Study: App Store Provider", 
+            "type": "", 
+            "value": "", 
+            "width": 417, 
+            "x": 730, 
+            "xPercent": 38.34563648293963, 
+            "y": 445, 
+            "yPercent": 17.453131134668237
+        }, 
+        "location": {
+            "x": 730, 
+            "y": 445
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 417
+        }, 
+        "tag_name": "a", 
+        "text": "Case Study: App Store Provider"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c1c754eb201fcab16d71be75c4d55cf5", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Case Study: App Store Provider", 
+    "transformed": true, 
+    "width": 834, 
+    "x": 1460, 
+    "y": 890
+}

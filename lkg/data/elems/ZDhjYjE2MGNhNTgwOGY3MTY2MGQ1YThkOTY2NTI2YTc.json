@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "3sLLVoUIczV+nvvOvfnC6w==\n", 
+    "height": 396, 
+    "hier_level": 0, 
+    "human_hash": "div_X472_Y688_W956_H396", 
+    "human_readable": "div_472_688_956_396_div_ffffffff07ff07ffffffffffffffffff000700079e5fbfff07ff07ffffffffff_e99f31afa1c68041a7fa164e096ccdf2", 
+    "image_path": "ZDhjYjE2MGNhNTgwOGY3MTY2MGQ1YThkOTY2NTI2YTc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col sqs-col-4 span-4"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "col sqs-col-4 span-4", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 198, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "November 12Agile+DevOps East Virtual", 
+            "type": "", 
+            "value": "", 
+            "width": 478, 
+            "x": 236, 
+            "xPercent": 12.36220472440945, 
+            "y": 344, 
+            "yPercent": 12.319991055456171
+        }, 
+        "location": {
+            "x": 236, 
+            "y": 344
+        }, 
+        "size": {
+            "height": 198, 
+            "width": 478
+        }, 
+        "tag_name": "div", 
+        "text": "November 12Agile+DevOps East Virtual"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5d76be1b081e82a9e54ef302b3514170", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "November 12Agile+DevOps East Virtual", 
+    "transformed": true, 
+    "width": 956, 
+    "x": 472, 
+    "y": 688
+}

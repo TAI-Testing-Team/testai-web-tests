@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20201228154031_www_test_ai/crawls/20210124142911/tmpZ/div_X930_Y566_W1366_H212.png", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ip8fSNLqi2xN3qTKl9uCLg==\n", 
+    "height": 212, 
+    "hier_level": 0, 
+    "human_hash": "div_X930_Y566_W1366_H212", 
+    "human_readable": "div_930_566_1366_212_div_ffff6cf3000300030003800bffffffff7f7f1b07000700070007fdffffffffff_6a7173fda256134513cec1b8dc8b9fe7", 
+    "image_path": "ZTVmOTBiMzNmMDk0YTg3MDg4MTgxZjJkZTVmNmYwZTU.png", 
+    "img_hash": "5c70ad46131e6a40b018d1b41301653a", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col-sm-7 col-sm-offset-1 col-vcenter col-xs-12 "
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(55, 55, 55)", 
+            "cssClass": "col-sm-7 col-sm-offset-1 col-vcenter col-xs-12 ", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat, Helvetica, Arial, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 106, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Test.ai Raises $11M Series A To Test Every App In The World", 
+            "type": "", 
+            "value": "", 
+            "width": 683, 
+            "x": 465, 
+            "xPercent": 24.409448818897637, 
+            "y": 283, 
+            "yPercent": 12.742008104457453
+        }, 
+        "location": {
+            "x": 465, 
+            "y": 283
+        }, 
+        "size": {
+            "height": 106, 
+            "width": 683
+        }, 
+        "tag_name": "div", 
+        "text": "Test.ai Raises $11M Series A To Test Every App In The World"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "0fa515bc5d399f81d612ded8a0e3e2c3", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Test.ai Raises $11M Series A To Test Every App In The World", 
+    "text_hash": "6a7173fda256134513cec1b8dc8b9fe7", 
+    "transformed": true, 
+    "width": 1366, 
+    "x": 930, 
+    "y": 566
+}

@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "tyvtkJXsFyzkhQyKlaS/yQ==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "a_X2462_Y810_W230_H52", 
+    "human_readable": "a_2462_810_230_52_a_ffffffffffffffffffff3fd73717402040004040016000000000ffffffffffff_1018e8e57be67f930ee9ea2014d87e7f", 
+    "image_path": "Y2VlMjM1MTRmODNhZTg4MmZjMjM2ZjIwOGU0ODgyMzQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "mailto:sales@test.ai"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(44, 38, 200)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "700", 
+            "fontSize": 18, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Contact Sales", 
+            "type": "", 
+            "value": "", 
+            "width": 115, 
+            "x": 1231, 
+            "xPercent": 64.62762467191601, 
+            "y": 405, 
+            "yPercent": 9.00209908807829
+        }, 
+        "location": {
+            "x": 1231, 
+            "y": 405
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 115
+        }, 
+        "tag_name": "a", 
+        "text": "Contact Sales"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b1b63898528e5666abc98ffc79fd1179", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Contact Sales", 
+    "transformed": true, 
+    "width": 230, 
+    "x": 2462, 
+    "y": 810
+}

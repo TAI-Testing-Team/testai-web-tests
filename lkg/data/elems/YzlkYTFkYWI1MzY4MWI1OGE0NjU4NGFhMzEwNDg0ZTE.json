@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "3f8wun2kDPnY4CyaF8Z7TQ==\n", 
+    "height": 304, 
+    "hier_level": 0, 
+    "human_hash": "div_X472_Y722_W956_H304", 
+    "human_readable": "div_472_722_956_304_div_ffffffffffff01ff01ffffffffffffffffffffff200700010001ae7fffffffff_1550e0b0247d815b54b145f392492f68", 
+    "image_path": "YzlkYTFkYWI1MzY4MWI1OGE0NjU4NGFhMzEwNDg0ZTE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col sqs-col-4 span-4"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "col sqs-col-4 span-4", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 152, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "November 17\u201319EuroSTAR 2020 Online", 
+            "type": "", 
+            "value": "", 
+            "width": 478, 
+            "x": 236, 
+            "xPercent": 12.36220472440945, 
+            "y": 361, 
+            "yPercent": 12.9071224051539
+        }, 
+        "location": {
+            "x": 236, 
+            "y": 361
+        }, 
+        "size": {
+            "height": 152, 
+            "width": 478
+        }, 
+        "tag_name": "div", 
+        "text": "November 17\u201319EuroSTAR 2020 Online"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b9d1cc2f01691bf6ff4efa93888aa927", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "November 17\u201319EuroSTAR 2020 Online", 
+    "transformed": true, 
+    "width": 956, 
+    "x": 472, 
+    "y": 722
+}

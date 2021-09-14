@@ -1,0 +1,19 @@
+{
+    "bounds": "[845,1041][1307,1082]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "jJh5DpnccQKDFTLVfMGawA==\n", 
+    "height": 41, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X845_Y1041_W462_H41", 
+    "human_readable": "android.widget.TextView_845_1041_462_41_android.widget.TextView_ffffffff3f7b3f7f336200000400042000000000843984218000f0a0fffffffe_9a14c50d2d0850f93201e8254bf2eb60", 
+    "image_path": "N2ZmNWM1MzEwYjEwZDBhZTRkZmY2NDBiZThmZDIyMzk.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "3a15a4aa6f90d4476d2d898e0359f3ed", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Moving up the testing", 
+    "width": 462, 
+    "x": 845, 
+    "y": 1041
+}

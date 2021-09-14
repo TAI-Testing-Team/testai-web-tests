@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Vkx+ej1tM+2gS725gv20FQ==\n", 
+    "height": 70, 
+    "hier_level": 0, 
+    "human_hash": "a_X2590_Y128_W148_H70", 
+    "human_readable": "a_2590_128_148_70_a_ffffffffffffffffffffbfff3fff40004000500000002e0cff7cffff00000000_4ad504bf9ac33efca2af3572d5a33188", 
+    "image_path": "YTE1NjQ3ZDVkN2RlNGZhMjdmZWQ1ODU4MTQ4NTBiNGQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-nav-folder-title preSlide slideIn", 
+                "data-animation-role": "header-element", 
+                "href": "/company", 
+                "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.055814s;", 
+                "tabindex": "-1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "header-nav-folder-title preSlide slideIn", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 35, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Company", 
+            "type": "", 
+            "value": "", 
+            "width": 74, 
+            "x": 1295, 
+            "xPercent": 67.95275590551181, 
+            "y": 64, 
+            "yPercent": 2.6105572597137012
+        }, 
+        "location": {
+            "x": 1295, 
+            "y": 64
+        }, 
+        "size": {
+            "height": 35, 
+            "width": 74
+        }, 
+        "tag_name": "a", 
+        "text": "Company"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "3960dfc5aad359966b38580373163e4f", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Company", 
+    "transformed": true, 
+    "width": 148, 
+    "x": 2590, 
+    "y": 128
+}

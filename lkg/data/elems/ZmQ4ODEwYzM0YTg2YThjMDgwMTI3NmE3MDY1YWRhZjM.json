@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "JSCj0jLJ6rmnRjkv7E9G2Q==\n", 
+    "height": 25, 
+    "hier_level": 0, 
+    "human_hash": "a_X253_Y401_W143_H25", 
+    "human_readable": "a_253_401_143_25_a_ffffffffffffffffffff3fff7fed000000000000000200000100ff7fff7fffff_dcd766653be6ce132555513aa7073b1c", 
+    "image_path": "ZmQ4ODEwYzM0YTg2YThjMDgwMTI3NmE3MDY1YWRhZjM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/all-products"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "View our products", 
+            "type": "", 
+            "value": "", 
+            "width": 143, 
+            "x": 253, 
+            "xPercent": 13.254593175853019, 
+            "y": 401, 
+            "yPercent": 5.298913043478261
+        }, 
+        "location": {
+            "x": 253, 
+            "y": 401
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 143
+        }, 
+        "tag_name": "a", 
+        "text": "View our products"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "9565b35b9d39f9f98ad46e36d9382621", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "View our products", 
+    "transformed": true, 
+    "width": 143, 
+    "x": 253, 
+    "y": 401
+}

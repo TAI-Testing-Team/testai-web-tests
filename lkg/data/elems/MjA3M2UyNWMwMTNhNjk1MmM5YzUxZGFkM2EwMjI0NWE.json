@@ -1,0 +1,19 @@
+{
+    "bounds": "[869,141][1425,188]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "DFppHi5wzKY/m07NxkXAWA==\n", 
+    "height": 47, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X869_Y141_W556_H47", 
+    "human_readable": "android.widget.TextView_869_141_556_47_android.widget.TextView_ffffffffffffffffbeffbfffbabf00000000001800000800084000004806ffff_64a0bdb29ac6787f305691a349bac199", 
+    "image_path": "MjA3M2UyNWMwMTNhNjk1MmM5YzUxZGFkM2EwMjI0NWE.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "3a15a4aa6f90d4476d2d898e0359f3ed", 
+    "tag_name": "android.widget.TextView", 
+    "text": "software testing has arrived", 
+    "width": 556, 
+    "x": 869, 
+    "y": 141
+}

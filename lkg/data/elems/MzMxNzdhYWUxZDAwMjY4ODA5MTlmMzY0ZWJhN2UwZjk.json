@@ -1,0 +1,19 @@
+{
+    "bounds": "[1135,310][1484,337]", 
+    "class": "android.widget.Button", 
+    "enabled": true, 
+    "hash": "XXhib6AoAYPeMObyrrqROA==\n", 
+    "height": 27, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.Button_X1135_Y310_W349_H27", 
+    "human_readable": "android.widget.Button_1135_310_349_27_android.widget.Button_fffffffffffffffffff7ffffb9f38000800080008000840080008001fbfffbfb_7680c795e7ea145a919e2cd9c2f800c5", 
+    "image_path": "MzMxNzdhYWUxZDAwMjY4ODA5MTlmMzY0ZWJhN2UwZjk.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "a9be27a4bee9e23ff28a081c6dfca2a5", 
+    "tag_name": "android.widget.Button", 
+    "text": "ecoming the new paradigm in", 
+    "width": 349, 
+    "x": 1135, 
+    "y": 310
+}

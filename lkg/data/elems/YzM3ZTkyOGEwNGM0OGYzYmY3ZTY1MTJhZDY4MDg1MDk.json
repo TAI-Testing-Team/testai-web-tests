@@ -1,0 +1,19 @@
+{
+    "bounds": "[1595,339][2116,381]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "r3P7Liek3MOSfbwZnR3HeQ==\n", 
+    "height": 42, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X1595_Y339_W521_H42", 
+    "human_readable": "android.widget.TextView_1595_339_521_42_android.widget.TextView_ffffffffffffaefeaefeabfe080000000800080008000840080020002024ffff_4d61ebc1e97e6e98d477e7ebde4fab83", 
+    "image_path": "YzM3ZTkyOGEwNGM0OGYzYmY3ZTY1MTJhZDY4MDg1MDk.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "af5356a590582339a2484e06b64334e5", 
+    "tag_name": "android.widget.TextView", 
+    "text": "vith AI: An Interview with", 
+    "width": 521, 
+    "x": 1595, 
+    "y": 339
+}

@@ -1,0 +1,19 @@
+{
+    "bounds": "[410,446][751,472]", 
+    "class": "android.widget.Button", 
+    "enabled": true, 
+    "hash": "dub9+dlRRXMeZMccDQtAGw==\n", 
+    "height": 26, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.Button_X410_Y446_W341_H26", 
+    "human_readable": "android.widget.Button_410_446_341_26_android.widget.Button_ffffffffffffbffdbbfdabdd8001800180018001810980018001ffffe6ffeeff_3af5e361d2d0f70130509a2aade52948", 
+    "image_path": "MWExNmQ2OTM0MTM5ZmQwYTUzYThhMjgzNWRmNDhkNWY.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "73783cd4210023f4e707e8ea17c7921f", 
+    "tag_name": "android.widget.Button", 
+    "text": "Bridging the gap between A", 
+    "width": 341, 
+    "x": 410, 
+    "y": 446
+}

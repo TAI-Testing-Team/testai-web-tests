@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Ouqg9TK8VPbaZph20EOySw==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "a_X1940_Y1456_W106_H50", 
+    "human_readable": "a_1940_1456_106_50_a_00000000000000004000e008800a977ffffedffe9efbdbffebff000000000000_69dda815447caacef8c90a629baf382d", 
+    "image_path": "ZDhjZTJjNmQ4NDNmNTMzYzhjMmFjMWYzYzc2ZDlmZmI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/events"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 25, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Events", 
+            "type": "", 
+            "value": "", 
+            "width": 53, 
+            "x": 970, 
+            "xPercent": 50.89238845144357, 
+            "y": 728, 
+            "yPercent": 11.212471131639724
+        }, 
+        "location": {
+            "x": 970, 
+            "y": 728
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 53
+        }, 
+        "tag_name": "a", 
+        "text": "Events"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "72b3908529f90038c40090cdbf780cc3", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Events", 
+    "transformed": true, 
+    "width": 106, 
+    "x": 1940, 
+    "y": 1456
+}

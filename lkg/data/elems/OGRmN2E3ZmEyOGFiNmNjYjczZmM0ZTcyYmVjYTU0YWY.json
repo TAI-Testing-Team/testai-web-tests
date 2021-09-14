@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "uSX5PID5E0YA0cIXUqt+Nw==\n", 
+    "height": 35, 
+    "hier_level": 0, 
+    "human_hash": "a_X1585_Y64_W61_H35", 
+    "human_readable": "a_1585_64_61_35_a_ffffffffffffffffffffbfff1f7e6000600048060000a402ffffffffffffffff_b714deb09c1929d942d8ec24a646cc21", 
+    "image_path": "OGRmN2E3ZmEyOGFiNmNjYjczZmM0ZTcyYmVjYTU0YWY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "preSlide slideIn", 
+                "data-animation-role": "header-element", 
+                "href": "/contact", 
+                "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.0446809s;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "preSlide slideIn", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "ibm-plex-sans", 
+            "font-weight": "400", 
+            "fontSize": 17.6, 
+            "height": 35, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Contact", 
+            "type": "", 
+            "value": "", 
+            "width": 61, 
+            "x": 1585, 
+            "xPercent": 82.52848307291667, 
+            "y": 64, 
+            "yPercent": 0.9920442182157289
+        }, 
+        "location": {
+            "x": 1585, 
+            "y": 64
+        }, 
+        "size": {
+            "height": 35, 
+            "width": 61
+        }, 
+        "tag_name": "a", 
+        "text": "Contact"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "11f63ec2c845c20b2b7ad5cf97005527", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Contact", 
+    "transformed": true, 
+    "width": 61, 
+    "x": 1585, 
+    "y": 64
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Du0kUF4WPhle9sW0iuxKyA==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "a_X1460_Y1468_W680_H62", 
+    "human_readable": "a_1460_1468_680_62_a_ffffffffffffff7f677767771000800881001110110100000110fffffdffffff_1516af27302eabca51f383624218eaa3", 
+    "image_path": "MmQxMDZlNGI5NGExMGFkNjA1YWY5MWE4ZjhlYzQ2ZGE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/s/testai_CaseStudy_Gaming_v15.pdf", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(43, 38, 197)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Montserrat", 
+            "font-weight": "700", 
+            "fontSize": 25.6, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Case Study: Video Games", 
+            "type": "", 
+            "value": "", 
+            "width": 340, 
+            "x": 730, 
+            "xPercent": 38.34563648293963, 
+            "y": 734, 
+            "yPercent": 28.28830023139221
+        }, 
+        "location": {
+            "x": 730, 
+            "y": 734
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 340
+        }, 
+        "tag_name": "a", 
+        "text": "Case Study: Video Games"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d9ed793b15a49d4ed4e356bdaf6404d4", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Case Study: Video Games", 
+    "transformed": true, 
+    "width": 680, 
+    "x": 1460, 
+    "y": 1468
+}

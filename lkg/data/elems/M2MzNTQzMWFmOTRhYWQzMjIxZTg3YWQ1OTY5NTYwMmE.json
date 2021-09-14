@@ -1,0 +1,19 @@
+{
+    "bounds": "[861,899][1426,940]", 
+    "class": "android.widget.TextView", 
+    "enabled": true, 
+    "hash": "NkcRwHXSUlT1DvFTE/T5xg==\n", 
+    "height": 41, 
+    "hier_level": 2, 
+    "human_hash": "android.widget.TextView_X861_Y899_W565_H41", 
+    "human_readable": "android.widget.TextView_861_899_565_41_android.widget.TextView_ffffffff7fff7bfe536e000000000101004000400b0609010000465bffffd6ff_3af5e361d2d0f70130509a2aade52948", 
+    "image_path": "M2MzNTQzMWFmOTRhYWQzMjIxZTg3YWQ1OTY5NTYwMmE.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "8f1b320ce2d8e37bc43f4b33dff7cea2", 
+    "tag_name": "android.widget.TextView", 
+    "text": "Bridging the gap between A", 
+    "width": 565, 
+    "x": 861, 
+    "y": 899
+}
